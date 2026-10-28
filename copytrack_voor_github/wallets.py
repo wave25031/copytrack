@@ -45,7 +45,9 @@ WALLETS = [
     {"address": "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66", "label": "trader_16"},
     {"address": "0xc59498175d6d317642aeb97f895a7ce1aa992191", "label": "trader_17"},
     {"address": "0xff4cd3826ecee12acd4329aada4a2d3419fc463c", "label": "trader_18"},
-    {"address": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e", "label": "trader_19"},
+    # trader_19 (0x6859da14835424957a1e6b397d8026b1d9ff7e1e) is verwijderd op 28 okt 2026:
+    # 6 paper-trades sinds 18 aug, 0 winnaars, samen -$52,76. Draait en verkleint heel vaak
+    # (155 acties op 25 coins), daardoor slecht te kopieren met onze vertraging.
     {"address": "0x8607a7d180de23645db594d90621d837749408d5", "label": "wanyekest"},
     {"address": "0x7839e2f2c375dd2935193f2736167514efff9916", "label": "trader_20"},
     {"address": "0x9cd0a696c7cbb9d44de99268194cb08e5684e5fe", "label": "trader_21"},
