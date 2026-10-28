@@ -1,0 +1,155 @@
+{
+  "capital": 934.8184130196809,
+  "open_trades": [
+    {
+      "coin": "BTC",
+      "richting": "LONG",
+      "bron_wallet": "trader_23",
+      "instapprijs": 68650.5,
+      "stop_price": 58352.924999999996,
+      "tp_price": 89245.65000000001,
+      "grootte_usd": 66.66666666666667,
+      "geopend_op": "2026-08-19T16:03:44.880395+00:00"
+    },
+    {
+      "coin": "PAXG",
+      "richting": "LONG",
+      "bron_wallet": "trader_19",
+      "instapprijs": 4474.85,
+      "stop_price": 3803.6225000000004,
+      "tp_price": 5817.305,
+      "grootte_usd": 66.66666666666667,
+      "geopend_op": "2026-08-19T17:30:56.855514+00:00"
+    },
+    {
+      "coin": "HYPE",
+      "richting": "LONG",
+      "bron_wallet": "trader_23",
+      "instapprijs": 76.1075,
+      "stop_price": 64.691375,
+      "tp_price": 98.93975,
+      "grootte_usd": 68.0,
+      "geopend_op": "2026-08-21T14:08:48.881363+00:00"
+    },
+    {
+      "coin": "GRAM",
+      "richting": "SHORT",
+      "bron_wallet": "trader_04",
+      "instapprijs": 1.4807,
+      "stop_price": 1.7028049999999997,
+      "tp_price": 1.03649,
+      "grootte_usd": 68.0,
+      "geopend_op": "2026-08-21T16:05:07.794641+00:00"
+    },
+    {
+      "coin": "ETH",
+      "richting": "LONG",
+      "bron_wallet": "trader_10",
+      "instapprijs": 2533.85,
+      "stop_price": 2153.7725,
+      "tp_price": 3294.005,
+      "grootte_usd": 69.33333333333333,
+      "geopend_op": "2026-08-21T22:43:41.218604+00:00"
+    },
+    {
+      "coin": "XRP",
+      "richting": "LONG",
+      "bron_wallet": "trader_10",
+      "instapprijs": 1.34605,
+      "stop_price": 1.1441424999999998,
+      "tp_price": 1.749865,
+      "grootte_usd": 63.97452666666667,
+      "geopend_op": "2026-09-01T21:22:47.144182+00:00"
+    },
+    {
+      "coin": "XMR",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 544.045,
+      "stop_price": 462.4382499999999,
+      "tp_price": 707.2585,
+      "grootte_usd": 63.32818470666667,
+      "geopend_op": "2026-09-05T20:24:07.913642+00:00"
+    },
+    {
+      "coin": "SOL",
+      "richting": "LONG",
+      "bron_wallet": "trader_22",
+      "instapprijs": 108.765,
+      "stop_price": 92.45025,
+      "tp_price": 141.3945,
+      "grootte_usd": 65.39470152626666,
+      "geopend_op": "2026-09-20T07:05:00.747356+00:00"
+    },
+    {
+      "coin": "WLD",
+      "richting": "LONG",
+      "bron_wallet": "trader_19",
+      "instapprijs": 0.49617,
+      "stop_price": 0.42174449999999997,
+      "tp_price": 0.6450210000000001,
+      "grootte_usd": 62.80544599567387,
+      "geopend_op": "2026-09-29T16:08:38.018720+00:00"
+    },
+    {
+      "coin": "NEAR",
+      "richting": "LONG",
+      "bron_wallet": "trader_22",
+      "instapprijs": 4.69505,
+      "stop_price": 3.9907925,
+      "tp_price": 6.103565000000001,
+      "grootte_usd": 62.17176496707787,
+      "geopend_op": "2026-10-08T15:38:58.325724+00:00"
+    },
+    {
+      "coin": "ETHFI",
+      "richting": "LONG",
+      "bron_wallet": "naked_shorts_only",
+      "instapprijs": 0.69285,
+      "stop_price": 0.5889224999999999,
+      "tp_price": 0.900705,
+      "grootte_usd": 61.54371050712113,
+      "geopend_op": "2026-10-08T20:50:23.356134+00:00"
+    },
+    {
+      "coin": "ASTER",
+      "richting": "LONG",
+      "bron_wallet": "naked_shorts_only",
+      "instapprijs": 0.694185,
+      "stop_price": 0.59005725,
+      "tp_price": 0.9024405000000001,
+      "grootte_usd": 62.865330917074544,
+      "geopend_op": "2026-10-13T16:23:10.828429+00:00"
+    },
+    {
+      "coin": "VVV",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 24.9575,
+      "stop_price": 28.701124999999998,
+      "tp_price": 17.47025,
+      "grootte_usd": 61.57699750974282,
+      "geopend_op": "2026-10-15T15:36:49.452578+00:00"
+    },
+    {
+      "coin": "AVAX",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 9.3685,
+      "stop_price": 7.963224999999999,
+      "tp_price": 12.17905,
+      "grootte_usd": 60.96122753464539,
+      "geopend_op": "2026-10-18T19:36:07.939758+00:00"
+    },
+    {
+      "coin": "FARTCOIN",
+      "richting": "LONG",
+      "bron_wallet": "trader_02",
+      "instapprijs": 0.12363,
+      "stop_price": 0.1050855,
+      "tp_price": 0.160719,
+      "grootte_usd": 62.32122753464539,
+      "geopend_op": "2026-10-24T17:00:17.655414+00:00"
+    }
+  ]
+}

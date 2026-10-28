@@ -1,0 +1,66 @@
+name: copytrack
+
+on:
+  # schedule staat tijdelijk uit tot de overstap klaar is
+  # schedule:
+  #   - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      testmail:
+        description: "Alleen een testmail sturen (geen copytrack-run)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  run-copytrack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo ophalen
+        uses: actions/checkout@v4
+
+      - name: Python installeren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Dependencies installeren
+        working-directory: copytrack_voor_github
+        run: pip install requests truststore
+
+      - name: Testmail sturen
+        if: ${{ inputs.testmail }}
+        working-directory: copytrack_voor_github
+        env:
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          EMAIL_ADRES: ${{ secrets.EMAIL_ADRES }}
+        run: python test_mail.py
+
+      - name: copytrack draaien
+        if: ${{ !inputs.testmail }}
+        working-directory: copytrack_voor_github
+        env:
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          EMAIL_ADRES: ${{ secrets.EMAIL_ADRES }}
+        run: python track_positions.py
+
+      - name: Bijgewerkte data terugschrijven naar de repo
+        if: ${{ !inputs.testmail }}
+        working-directory: copytrack_voor_github
+        run: |
+          git config user.name "copytrack-bot"
+          git config user.email "copytrack-bot@users.noreply.github.com"
+          git add data/ output/
+          git diff --cached --quiet && echo "Geen wijzigingen om te committen." || git commit -m "Update state ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git push
+
+      - name: Controle e-mail
+        if: ${{ !inputs.testmail }}
+        working-directory: copytrack_voor_github
+        run: |
+          if [ -f mail_mislukt.txt ]; then
+            echo "::error::E-mail versturen mislukt. Waarschijnlijk is het Gmail-app-wachtwoord (secret EMAIL_APP_PASSWORD) ongeldig. Maak een nieuw app-wachtwoord en werk de secret bij."
+            exit 1
+          fi
