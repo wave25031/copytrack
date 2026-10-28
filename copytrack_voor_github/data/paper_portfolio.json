@@ -80,6 +80,16 @@
       "tp_price": 897.365,
       "grootte_usd": 62.39213415646491,
       "geopend_op": "2026-10-28T18:15:26.279577+00:00"
+    },
+    {
+      "coin": "PONS",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.278905,
+      "stop_price": 0.23706925,
+      "tp_price": 0.3625765,
+      "grootte_usd": 62.39213415646491,
+      "geopend_op": "2026-10-28T18:20:46.630608+00:00"
     }
   ]
 }
