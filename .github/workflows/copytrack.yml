@@ -13,6 +13,11 @@ on:
 permissions:
   contents: write
 
+# Wekker (cron-job.org), GitHub-planning en handmatige runs wachten op elkaar
+concurrency:
+  group: copytrack
+  cancel-in-progress: false
+
 jobs:
   run-copytrack:
     runs-on: ubuntu-latest
