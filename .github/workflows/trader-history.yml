@@ -1,0 +1,39 @@
+name: trader-history
+
+on:
+  workflow_dispatch:
+    inputs:
+      dagen:
+        description: "Hoeveel dagen terugkijken"
+        default: "60"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: copytrack
+  cancel-in-progress: false
+
+jobs:
+  history:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+      - name: Geschiedenis ophalen
+        working-directory: copytrack_voor_github
+        env:
+          DAGEN: ${{ inputs.dagen }}
+        run: python trader_history.py
+      - name: Rapport opslaan
+        working-directory: copytrack_voor_github
+        run: |
+          git config user.name "copytrack-bot"
+          git config user.email "copytrack-bot@users.noreply.github.com"
+          git add output/trader_history.md output/trader_history_trades.csv
+          git diff --cached --quiet || git commit -m "Trader-geschiedenis ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git pull --rebase -q origin main
+          git push
