@@ -60,6 +60,26 @@
       "tp_price": 0.160719,
       "grootte_usd": 62.32122753464539,
       "geopend_op": "2026-10-24T17:00:17.655414+00:00"
+    },
+    {
+      "coin": "PUMP",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.004238,
+      "stop_price": 0.004873699999999999,
+      "tp_price": 0.0029665999999999994,
+      "grootte_usd": 62.39213415646491,
+      "geopend_op": "2026-10-28T18:15:26.279577+00:00"
+    },
+    {
+      "coin": "ZEC",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1281.95,
+      "stop_price": 1474.2424999999998,
+      "tp_price": 897.365,
+      "grootte_usd": 62.39213415646491,
+      "geopend_op": "2026-10-28T18:15:26.279577+00:00"
     }
   ]
 }
