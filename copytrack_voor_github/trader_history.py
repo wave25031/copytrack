@@ -8,6 +8,7 @@ Draait via GitHub Actions (workflow "trader-history"), los van de copytrack zelf
 """
 import csv
 import os
+import traceback
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -93,7 +94,12 @@ def pnl_periods(addr):
     except Exception:
         return {}
     res = {}
-    for period, d in data:
+    if not isinstance(data, list):
+        return res
+    for item in data:
+        if not (isinstance(item, (list, tuple)) and len(item) == 2 and isinstance(item[1], dict)):
+            continue
+        period, d = item
         h = d.get("pnlHistory") or []
         if h:
             res[period] = float(h[-1][1]) - float(h[0][1])
@@ -114,11 +120,11 @@ def main():
         print(f"Ophalen {label}...", flush=True)
         try:
             fs = fills(addr, s_ms, e_ms)
+            tr = [t for t in round_trips(fs) if not t["half"]]
         except Exception as e:
-            print(f"  fout: {e}")
-            rows.append({"label": label, "fout": str(e)[:80]})
+            print(f"  fout: {traceback.format_exc()}")
+            rows.append({"label": label, "fout": f"{type(e).__name__}: {str(e)[:120]}"})
             continue
-        tr = [t for t in round_trips(fs) if not t["half"]]
         for t in tr:
             t["label"] = label
             t["netto"] = t["pnl"] - t["fee"]
@@ -168,4 +174,11 @@ def main():
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        main()
+    except Exception:
+        os.makedirs("output", exist_ok=True)
+        with open("output/trader_history.md", "w", encoding="utf-8") as f:
+            f.write("# Fout bij ophalen\n\n```\n" + traceback.format_exc() + "```\n")
+        print(traceback.format_exc())
+    sys.exit(0)
