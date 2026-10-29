@@ -1,5 +1,5 @@
 {
-  "capital": 935.8673349374689,
+  "capital": 936.2040305217573,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -88,16 +88,6 @@
       "instapprijs": 79887.0,
       "stop_price": 91870.04999999999,
       "tp_price": 55920.899999999994,
-      "grootte_usd": 62.39115566249792,
-      "geopend_op": "2026-10-29T02:30:35.601863+00:00"
-    },
-    {
-      "coin": "PUMP",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.004262,
-      "stop_price": 0.0049013,
-      "tp_price": 0.0029833999999999998,
       "grootte_usd": 62.39115566249792,
       "geopend_op": "2026-10-29T02:30:35.601863+00:00"
     },
