@@ -1,5 +1,5 @@
 {
-  "capital": 916.5026830209221,
+  "capital": 917.5745183678358,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -60,16 +60,6 @@
       "tp_price": 0.160719,
       "grootte_usd": 62.32122753464539,
       "geopend_op": "2026-10-24T17:00:17.655414+00:00"
-    },
-    {
-      "coin": "HBAR",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.068655,
-      "stop_price": 0.05835674999999999,
-      "tp_price": 0.0892515,
-      "grootte_usd": 61.99398124883033,
-      "geopend_op": "2026-10-29T20:45:28.233578+00:00"
     },
     {
       "coin": "BNB",
