@@ -1,5 +1,5 @@
 {
-  "capital": 936.0446301116878,
+  "capital": 937.1483370134033,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -68,16 +68,6 @@
       "instapprijs": 0.070791,
       "stop_price": 0.060172350000000006,
       "tp_price": 0.09202830000000001,
-      "grootte_usd": 62.39115566249792,
-      "geopend_op": "2026-10-29T02:30:35.601863+00:00"
-    },
-    {
-      "coin": "kPEPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.004918,
-      "stop_price": 0.0041803,
-      "tp_price": 0.0063934,
       "grootte_usd": 62.39115566249792,
       "geopend_op": "2026-10-29T02:30:35.601863+00:00"
     },
