@@ -1,5 +1,5 @@
 {
-  "capital": 919.5784953353761,
+  "capital": 919.7128991279899,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -62,16 +62,6 @@
       "geopend_op": "2026-10-24T17:00:17.655414+00:00"
     },
     {
-      "coin": "ZEC",
-      "richting": "LONG",
-      "bron_wallet": "trader_22",
-      "instapprijs": 1275.75,
-      "stop_price": 1084.3875,
-      "tp_price": 1658.4750000000001,
-      "grootte_usd": 62.3619106841795,
-      "geopend_op": "2026-10-29T13:00:46.955475+00:00"
-    },
-    {
       "coin": "CHIP",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -100,26 +90,6 @@
       "tp_price": 0.0892515,
       "grootte_usd": 61.99398124883033,
       "geopend_op": "2026-10-29T20:45:28.233578+00:00"
-    },
-    {
-      "coin": "HYPE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 92.7055,
-      "stop_price": 106.611325,
-      "tp_price": 64.89385,
-      "grootte_usd": 61.583490525117476,
-      "geopend_op": "2026-10-29T21:00:49.434787+00:00"
-    },
-    {
-      "coin": "XMR",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 616.815,
-      "stop_price": 709.33725,
-      "tp_price": 431.7705,
-      "grootte_usd": 61.583490525117476,
-      "geopend_op": "2026-10-29T21:00:49.434787+00:00"
     },
     {
       "coin": "BNB",
