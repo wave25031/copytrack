@@ -80,6 +80,46 @@
       "tp_price": 765.9925000000001,
       "grootte_usd": 62.32528174111363,
       "geopend_op": "2026-10-29T02:15:28.032929+00:00"
+    },
+    {
+      "coin": "BTC",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 79887.0,
+      "stop_price": 91870.04999999999,
+      "tp_price": 55920.899999999994,
+      "grootte_usd": 62.39115566249792,
+      "geopend_op": "2026-10-29T02:30:35.601863+00:00"
+    },
+    {
+      "coin": "PUMP",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.004262,
+      "stop_price": 0.0049013,
+      "tp_price": 0.0029833999999999998,
+      "grootte_usd": 62.39115566249792,
+      "geopend_op": "2026-10-29T02:30:35.601863+00:00"
+    },
+    {
+      "coin": "PYTH",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.070791,
+      "stop_price": 0.060172350000000006,
+      "tp_price": 0.09202830000000001,
+      "grootte_usd": 62.39115566249792,
+      "geopend_op": "2026-10-29T02:30:35.601863+00:00"
+    },
+    {
+      "coin": "kPEPE",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.004918,
+      "stop_price": 0.0041803,
+      "tp_price": 0.0063934,
+      "grootte_usd": 62.39115566249792,
+      "geopend_op": "2026-10-29T02:30:35.601863+00:00"
     }
   ]
 }
