@@ -1,5 +1,5 @@
 {
-  "capital": 923.7523578767622,
+  "capital": 919.5784953353761,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -72,16 +72,6 @@
       "geopend_op": "2026-10-29T13:00:46.955475+00:00"
     },
     {
-      "coin": "BNB",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 730.89,
-      "stop_price": 621.2565,
-      "tp_price": 950.157,
-      "grootte_usd": 61.99398124883033,
-      "geopend_op": "2026-10-29T20:30:37.189502+00:00"
-    },
-    {
       "coin": "CHIP",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -118,16 +108,6 @@
       "instapprijs": 92.7055,
       "stop_price": 106.611325,
       "tp_price": 64.89385,
-      "grootte_usd": 61.583490525117476,
-      "geopend_op": "2026-10-29T21:00:49.434787+00:00"
-    },
-    {
-      "coin": "TRX",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.32885,
-      "stop_price": 0.37817749999999994,
-      "tp_price": 0.23019499999999996,
       "grootte_usd": 61.583490525117476,
       "geopend_op": "2026-10-29T21:00:49.434787+00:00"
     },
