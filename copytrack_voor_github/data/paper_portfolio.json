@@ -1,5 +1,5 @@
 {
-  "capital": 936.2793973923966,
+  "capital": 926.8355942966534,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -80,26 +80,6 @@
       "tp_price": 116.75625000000001,
       "grootte_usd": 62.3619106841795,
       "geopend_op": "2026-10-29T13:00:46.955475+00:00"
-    },
-    {
-      "coin": "PURR",
-      "richting": "SHORT",
-      "bron_wallet": "trader_09",
-      "instapprijs": 0.11875,
-      "stop_price": 0.13656249999999998,
-      "tp_price": 0.08312499999999999,
-      "grootte_usd": 62.3619106841795,
-      "geopend_op": "2026-10-29T13:45:26.705882+00:00"
-    },
-    {
-      "coin": "BTC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 81582.5,
-      "stop_price": 69345.125,
-      "tp_price": 106057.25,
-      "grootte_usd": 62.41862649282644,
-      "geopend_op": "2026-10-29T15:15:27.611988+00:00"
     },
     {
       "coin": "UNI",
