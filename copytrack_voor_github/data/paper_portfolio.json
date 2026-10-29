@@ -1,5 +1,5 @@
 {
-  "capital": 919.7128991279899,
+  "capital": 916.5026830209221,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -62,26 +62,6 @@
       "geopend_op": "2026-10-24T17:00:17.655414+00:00"
     },
     {
-      "coin": "CHIP",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.0447,
-      "stop_price": 0.037994999999999994,
-      "tp_price": 0.058109999999999995,
-      "grootte_usd": 61.99398124883033,
-      "geopend_op": "2026-10-29T20:45:28.233578+00:00"
-    },
-    {
-      "coin": "ENA",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.188905,
-      "stop_price": 0.16056925,
-      "tp_price": 0.2455765,
-      "grootte_usd": 61.99398124883033,
-      "geopend_op": "2026-10-29T20:45:28.233578+00:00"
-    },
-    {
       "coin": "HBAR",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -90,16 +70,6 @@
       "tp_price": 0.0892515,
       "grootte_usd": 61.99398124883033,
       "geopend_op": "2026-10-29T20:45:28.233578+00:00"
-    },
-    {
-      "coin": "BNB",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 714.15,
-      "stop_price": 607.0274999999999,
-      "tp_price": 928.395,
-      "grootte_usd": 61.30523302235841,
-      "geopend_op": "2026-10-29T21:30:36.280376+00:00"
     }
   ]
 }
