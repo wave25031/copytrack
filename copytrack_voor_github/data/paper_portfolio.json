@@ -90,6 +90,16 @@
       "tp_price": 9.587305,
       "grootte_usd": 62.41862649282644,
       "geopend_op": "2026-10-29T15:15:27.611988+00:00"
+    },
+    {
+      "coin": "kPEPE",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.005351,
+      "stop_price": 0.00454835,
+      "tp_price": 0.0069563,
+      "grootte_usd": 61.789039619776894,
+      "geopend_op": "2026-10-29T15:45:26.052744+00:00"
     }
   ]
 }
