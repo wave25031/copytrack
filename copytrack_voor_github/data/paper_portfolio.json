@@ -1,5 +1,5 @@
 {
-  "capital": 934.8792261167044,
+  "capital": 935.8673349374689,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -62,26 +62,6 @@
       "geopend_op": "2026-10-24T17:00:17.655414+00:00"
     },
     {
-      "coin": "kPEPE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.005099,
-      "stop_price": 0.0058638499999999994,
-      "tp_price": 0.0035693,
-      "grootte_usd": 62.43142756726173,
-      "geopend_op": "2026-10-29T00:15:24.104305+00:00"
-    },
-    {
-      "coin": "PYTH",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.072142,
-      "stop_price": 0.0613207,
-      "tp_price": 0.0937846,
-      "grootte_usd": 62.39757674309062,
-      "geopend_op": "2026-10-29T01:56:55.619635+00:00"
-    },
-    {
       "coin": "LIT",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -92,14 +72,14 @@
       "geopend_op": "2026-10-29T02:00:47.434018+00:00"
     },
     {
-      "coin": "WLD",
-      "richting": "SHORT",
+      "coin": "XMR",
+      "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.41839,
-      "stop_price": 0.4811484999999999,
-      "tp_price": 0.292873,
-      "grootte_usd": 62.35874401317382,
-      "geopend_op": "2026-10-29T02:00:47.434018+00:00"
+      "instapprijs": 589.225,
+      "stop_price": 500.84125,
+      "tp_price": 765.9925000000001,
+      "grootte_usd": 62.32528174111363,
+      "geopend_op": "2026-10-29T02:15:28.032929+00:00"
     }
   ]
 }
