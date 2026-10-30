@@ -58,7 +58,7 @@ jobs:
           git config user.email "copytrack-bot@users.noreply.github.com"
           git add data/ output/
           git diff --cached --quiet && echo "Geen wijzigingen om te committen." || git commit -m "Update state ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-          git push
+          for i in 1 2 3; do git pull --rebase -q origin main && git push && break; sleep 5; done
 
       - name: Controle e-mail
         if: ${{ !inputs.testmail }}
