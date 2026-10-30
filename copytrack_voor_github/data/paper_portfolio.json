@@ -1,5 +1,5 @@
 {
-  "capital": 898.7747252710842,
+  "capital": 900.2782640516199,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -62,16 +62,6 @@
       "geopend_op": "2026-10-30T00:00:47.360035+00:00"
     },
     {
-      "coin": "kPEPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.00511,
-      "stop_price": 0.0043435,
-      "tp_price": 0.0066430000000000005,
-      "grootte_usd": 60.02408725419656,
-      "geopend_op": "2026-10-30T13:15:27.128952+00:00"
-    },
-    {
       "coin": "LIT",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -80,6 +70,16 @@
       "tp_price": 3.7447150000000002,
       "grootte_usd": 59.91831501807228,
       "geopend_op": "2026-10-30T14:45:28.966344+00:00"
+    },
+    {
+      "coin": "ENA",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.195565,
+      "stop_price": 0.22489974999999998,
+      "tp_price": 0.13689549999999998,
+      "grootte_usd": 59.91831501807228,
+      "geopend_op": "2026-10-30T15:15:25.925080+00:00"
     }
   ]
 }
