@@ -70,6 +70,16 @@
       "tp_price": 3.05074,
       "grootte_usd": 60.01855093677466,
       "geopend_op": "2026-10-30T15:30:37.370358+00:00"
+    },
+    {
+      "coin": "SUI",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.89429,
+      "stop_price": 1.0284335,
+      "tp_price": 0.626003,
+      "grootte_usd": 60.11637954506668,
+      "geopend_op": "2026-10-30T16:14:41.168273+00:00"
     }
   ]
 }
