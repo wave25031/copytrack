@@ -90,6 +90,16 @@
       "tp_price": 0.239083,
       "grootte_usd": 60.30903397707238,
       "geopend_op": "2026-10-30T19:00:47.189593+00:00"
+    },
+    {
+      "coin": "XPL",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.081394,
+      "stop_price": 0.09360309999999998,
+      "tp_price": 0.05697579999999999,
+      "grootte_usd": 60.30903397707238,
+      "geopend_op": "2026-10-30T20:00:42.349503+00:00"
     }
   ]
 }
