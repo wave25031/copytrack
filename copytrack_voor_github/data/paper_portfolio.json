@@ -1,5 +1,5 @@
 {
-  "capital": 900.3613088129484,
+  "capital": 898.7747252710842,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -62,26 +62,6 @@
       "geopend_op": "2026-10-30T00:00:47.360035+00:00"
     },
     {
-      "coin": "ZEC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 1236.6,
-      "stop_price": 1051.11,
-      "tp_price": 1607.58,
-      "grootte_usd": 59.982020607382196,
-      "geopend_op": "2026-10-30T12:00:45.954201+00:00"
-    },
-    {
-      "coin": "UNI",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 6.942,
-      "stop_price": 5.9007,
-      "tp_price": 9.024600000000001,
-      "grootte_usd": 60.02408725419656,
-      "geopend_op": "2026-10-30T12:45:25.660688+00:00"
-    },
-    {
       "coin": "kPEPE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -90,16 +70,6 @@
       "tp_price": 0.0066430000000000005,
       "grootte_usd": 60.02408725419656,
       "geopend_op": "2026-10-30T13:15:27.128952+00:00"
-    },
-    {
-      "coin": "NEAR",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 4.2507,
-      "stop_price": 3.613095,
-      "tp_price": 5.5259100000000005,
-      "grootte_usd": 60.02408725419656,
-      "geopend_op": "2026-10-30T13:30:40.708345+00:00"
     }
   ]
 }
