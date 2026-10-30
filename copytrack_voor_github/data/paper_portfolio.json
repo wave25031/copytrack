@@ -1,5 +1,5 @@
 {
-  "capital": 903.8021313611868,
+  "capital": 902.0273873566144,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -60,26 +60,6 @@
       "tp_price": 115.8859,
       "grootte_usd": 61.20210569789625,
       "geopend_op": "2026-10-30T00:00:47.360035+00:00"
-    },
-    {
-      "coin": "XMR",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 616.205,
-      "stop_price": 523.77425,
-      "tp_price": 801.0665000000001,
-      "grootte_usd": 59.93719163804773,
-      "geopend_op": "2026-10-30T02:15:29.012588+00:00"
-    },
-    {
-      "coin": "CRV",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.28045,
-      "stop_price": 0.23838249999999997,
-      "tp_price": 0.364585,
-      "grootte_usd": 59.791491058018245,
-      "geopend_op": "2026-10-30T02:30:36.425504+00:00"
     },
     {
       "coin": "NEAR",
