@@ -100,6 +100,16 @@
       "tp_price": 1553.6950000000002,
       "grootte_usd": 60.86475279240619,
       "geopend_op": "2026-10-30T00:30:37.356509+00:00"
+    },
+    {
+      "coin": "BNB",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 698.45,
+      "stop_price": 803.2175,
+      "tp_price": 488.915,
+      "grootte_usd": 59.93719163804773,
+      "geopend_op": "2026-10-30T01:45:26.168120+00:00"
     }
   ]
 }
