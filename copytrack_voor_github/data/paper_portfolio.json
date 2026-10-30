@@ -1,5 +1,5 @@
 {
-  "capital": 901.7456931760001,
+  "capital": 905.1499532966451,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -50,26 +50,6 @@
       "tp_price": 0.160719,
       "grootte_usd": 62.32122753464539,
       "geopend_op": "2026-10-24T17:00:17.655414+00:00"
-    },
-    {
-      "coin": "ENA",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.195565,
-      "stop_price": 0.22489974999999998,
-      "tp_price": 0.13689549999999998,
-      "grootte_usd": 59.91831501807228,
-      "geopend_op": "2026-10-30T15:15:25.925080+00:00"
-    },
-    {
-      "coin": "NEAR",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 4.3582,
-      "stop_price": 5.0119299999999996,
-      "tp_price": 3.05074,
-      "grootte_usd": 60.01855093677466,
-      "geopend_op": "2026-10-30T15:30:37.370358+00:00"
     },
     {
       "coin": "SUI",
