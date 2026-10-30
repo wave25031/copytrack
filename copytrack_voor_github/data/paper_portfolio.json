@@ -1,5 +1,5 @@
 {
-  "capital": 897.6755331268693,
+  "capital": 897.8009224299376,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -60,16 +60,6 @@
       "tp_price": 115.8859,
       "grootte_usd": 61.20210569789625,
       "geopend_op": "2026-10-30T00:00:47.360035+00:00"
-    },
-    {
-      "coin": "ENA",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.18862,
-      "stop_price": 0.160327,
-      "tp_price": 0.24520600000000004,
-      "grootte_usd": 59.87577302468812,
-      "geopend_op": "2026-10-30T05:30:34.992416+00:00"
     },
     {
       "coin": "ZRO",
