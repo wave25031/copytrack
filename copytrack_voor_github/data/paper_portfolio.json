@@ -1,5 +1,5 @@
 {
-  "capital": 896.8723658702737,
+  "capital": 902.0303432229808,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -62,32 +62,12 @@
       "geopend_op": "2026-10-30T00:00:47.360035+00:00"
     },
     {
-      "coin": "SOL",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 92.7395,
-      "stop_price": 78.828575,
-      "tp_price": 120.56135000000002,
-      "grootte_usd": 60.86475279240619,
-      "geopend_op": "2026-10-30T00:30:37.356509+00:00"
-    },
-    {
       "coin": "STRK",
       "richting": "LONG",
       "bron_wallet": "trader_25",
       "instapprijs": 0.04055,
       "stop_price": 0.0344675,
       "tp_price": 0.052715000000000005,
-      "grootte_usd": 60.86475279240619,
-      "geopend_op": "2026-10-30T00:30:37.356509+00:00"
-    },
-    {
-      "coin": "ZEC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 1195.15,
-      "stop_price": 1015.8775,
-      "tp_price": 1553.6950000000002,
       "grootte_usd": 60.86475279240619,
       "geopend_op": "2026-10-30T00:30:37.356509+00:00"
     },
@@ -100,6 +80,26 @@
       "tp_price": 801.0665000000001,
       "grootte_usd": 59.93719163804773,
       "geopend_op": "2026-10-30T02:15:29.012588+00:00"
+    },
+    {
+      "coin": "CRV",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.28045,
+      "stop_price": 0.23838249999999997,
+      "tp_price": 0.364585,
+      "grootte_usd": 59.791491058018245,
+      "geopend_op": "2026-10-30T02:30:36.425504+00:00"
+    },
+    {
+      "coin": "NEAR",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 4.07985,
+      "stop_price": 4.6918275000000005,
+      "tp_price": 2.8558950000000003,
+      "grootte_usd": 59.791491058018245,
+      "geopend_op": "2026-10-30T02:30:36.425504+00:00"
     }
   ]
 }
