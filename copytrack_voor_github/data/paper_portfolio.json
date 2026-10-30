@@ -1,5 +1,5 @@
 {
-  "capital": 912.9712918860929,
+  "capital": 901.3410989768396,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -30,16 +30,6 @@
       "tp_price": 1.749865,
       "grootte_usd": 63.97452666666667,
       "geopend_op": "2026-09-01T21:22:47.144182+00:00"
-    },
-    {
-      "coin": "NEAR",
-      "richting": "LONG",
-      "bron_wallet": "trader_22",
-      "instapprijs": 4.69505,
-      "stop_price": 3.9907925,
-      "tp_price": 6.103565000000001,
-      "grootte_usd": 62.17176496707787,
-      "geopend_op": "2026-10-08T15:38:58.325724+00:00"
     },
     {
       "coin": "ASTER",
@@ -92,14 +82,34 @@
       "geopend_op": "2026-10-30T00:15:27.225516+00:00"
     },
     {
-      "coin": "ZRO",
+      "coin": "SOL",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 1.51065,
-      "stop_price": 1.2840525,
-      "tp_price": 1.963845,
-      "grootte_usd": 60.913112970012136,
-      "geopend_op": "2026-10-30T00:15:27.225516+00:00"
+      "instapprijs": 92.7395,
+      "stop_price": 78.828575,
+      "tp_price": 120.56135000000002,
+      "grootte_usd": 60.86475279240619,
+      "geopend_op": "2026-10-30T00:30:37.356509+00:00"
+    },
+    {
+      "coin": "STRK",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.04055,
+      "stop_price": 0.0344675,
+      "tp_price": 0.052715000000000005,
+      "grootte_usd": 60.86475279240619,
+      "geopend_op": "2026-10-30T00:30:37.356509+00:00"
+    },
+    {
+      "coin": "ZEC",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1195.15,
+      "stop_price": 1015.8775,
+      "tp_price": 1553.6950000000002,
+      "grootte_usd": 60.86475279240619,
+      "geopend_op": "2026-10-30T00:30:37.356509+00:00"
     }
   ]
 }
