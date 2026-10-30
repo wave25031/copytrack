@@ -1,5 +1,5 @@
 {
-  "capital": 898.1365953703219,
+  "capital": 898.1181106815401,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -62,16 +62,6 @@
       "geopend_op": "2026-10-30T00:00:47.360035+00:00"
     },
     {
-      "coin": "BNB",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 716.835,
-      "stop_price": 824.36025,
-      "tp_price": 501.7845,
-      "grootte_usd": 60.22941764951374,
-      "geopend_op": "2026-10-30T03:45:25.643343+00:00"
-    },
-    {
       "coin": "AAVE",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
@@ -90,6 +80,16 @@
       "tp_price": 0.24520600000000004,
       "grootte_usd": 59.87577302468812,
       "geopend_op": "2026-10-30T05:30:34.992416+00:00"
+    },
+    {
+      "coin": "ZRO",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1.6654,
+      "stop_price": 1.41559,
+      "tp_price": 2.16502,
+      "grootte_usd": 59.87577302468812,
+      "geopend_op": "2026-10-30T05:45:27.819030+00:00"
     }
   ]
 }
