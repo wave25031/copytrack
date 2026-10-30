@@ -1,5 +1,5 @@
 {
-  "capital": 898.1181106815401,
+  "capital": 897.6755331268693,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -60,16 +60,6 @@
       "tp_price": 115.8859,
       "grootte_usd": 61.20210569789625,
       "geopend_op": "2026-10-30T00:00:47.360035+00:00"
-    },
-    {
-      "coin": "AAVE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 126.495,
-      "stop_price": 145.46925,
-      "tp_price": 88.5465,
-      "grootte_usd": 59.87577302468812,
-      "geopend_op": "2026-10-30T05:15:26.433084+00:00"
     },
     {
       "coin": "ENA",
