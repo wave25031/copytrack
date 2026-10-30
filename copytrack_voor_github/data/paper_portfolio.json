@@ -1,5 +1,5 @@
 {
-  "capital": 899.057874570716,
+  "capital": 896.8723658702737,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -62,16 +62,6 @@
       "geopend_op": "2026-10-30T00:00:47.360035+00:00"
     },
     {
-      "coin": "AERO",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.622275,
-      "stop_price": 0.52893375,
-      "tp_price": 0.8089575000000001,
-      "grootte_usd": 60.913112970012136,
-      "geopend_op": "2026-10-30T00:15:27.225516+00:00"
-    },
-    {
       "coin": "SOL",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -102,14 +92,14 @@
       "geopend_op": "2026-10-30T00:30:37.356509+00:00"
     },
     {
-      "coin": "BNB",
-      "richting": "SHORT",
+      "coin": "XMR",
+      "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 698.45,
-      "stop_price": 803.2175,
-      "tp_price": 488.915,
+      "instapprijs": 616.205,
+      "stop_price": 523.77425,
+      "tp_price": 801.0665000000001,
       "grootte_usd": 59.93719163804773,
-      "geopend_op": "2026-10-30T01:45:26.168120+00:00"
+      "geopend_op": "2026-10-30T02:15:29.012588+00:00"
     }
   ]
 }
