@@ -70,6 +70,16 @@
       "tp_price": 501.7845,
       "grootte_usd": 60.22941764951374,
       "geopend_op": "2026-10-30T03:45:25.643343+00:00"
+    },
+    {
+      "coin": "AAVE",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 126.495,
+      "stop_price": 145.46925,
+      "tp_price": 88.5465,
+      "grootte_usd": 59.87577302468812,
+      "geopend_op": "2026-10-30T05:15:26.433084+00:00"
     }
   ]
 }
