@@ -1,5 +1,5 @@
 {
-  "capital": 906.5582990164711,
+  "capital": 907.1383426874077,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -52,14 +52,14 @@
       "geopend_op": "2026-10-24T17:00:17.655414+00:00"
     },
     {
-      "coin": "BCH",
-      "richting": "LONG",
+      "coin": "AAVE",
+      "richting": "SHORT",
       "bron_wallet": "trader_25",
-      "instapprijs": 287.725,
-      "stop_price": 244.56625000000003,
-      "tp_price": 374.0425,
-      "grootte_usd": 60.46850189138141,
-      "geopend_op": "2026-10-31T08:30:32.933951+00:00"
+      "instapprijs": 133.795,
+      "stop_price": 153.86424999999997,
+      "tp_price": 93.65649999999998,
+      "grootte_usd": 60.437219934431404,
+      "geopend_op": "2026-10-31T11:45:23.975993+00:00"
     }
   ]
 }
