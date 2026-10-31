@@ -60,6 +60,16 @@
       "tp_price": 114.99995,
       "grootte_usd": 60.50835644459801,
       "geopend_op": "2026-10-31T04:45:29.171127+00:00"
+    },
+    {
+      "coin": "BCH",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 287.725,
+      "stop_price": 244.56625000000003,
+      "tp_price": 374.0425,
+      "grootte_usd": 60.46850189138141,
+      "geopend_op": "2026-10-31T08:30:32.933951+00:00"
     }
   ]
 }
