@@ -1,5 +1,5 @@
 {
-  "capital": 907.119748319936,
+  "capital": 907.4630677469243,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -52,16 +52,6 @@
       "geopend_op": "2026-10-24T17:00:17.655414+00:00"
     },
     {
-      "coin": "TRX",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.324215,
-      "stop_price": 0.27558275,
-      "tp_price": 0.4214795,
-      "grootte_usd": 60.49418914184921,
-      "geopend_op": "2026-10-31T01:15:27.476402+00:00"
-    },
-    {
       "coin": "BTC",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
@@ -70,6 +60,16 @@
       "tp_price": 54162.149999999994,
       "grootte_usd": 60.48550266070281,
       "geopend_op": "2026-10-31T02:00:42.502210+00:00"
+    },
+    {
+      "coin": "SOL",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 96.7345,
+      "stop_price": 111.24467499999999,
+      "tp_price": 67.71414999999999,
+      "grootte_usd": 60.47464988799573,
+      "geopend_op": "2026-10-31T03:00:49.453326+00:00"
     }
   ]
 }
