@@ -1,5 +1,5 @@
 {
-  "capital": 907.7955105938933,
+  "capital": 908.15820352275,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -60,16 +60,6 @@
       "tp_price": 0.0916357,
       "grootte_usd": 60.42410487486076,
       "geopend_op": "2026-11-01T04:45:25.292279+00:00"
-    },
-    {
-      "coin": "HYPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 87.6675,
-      "stop_price": 74.517375,
-      "tp_price": 113.96775000000001,
-      "grootte_usd": 60.44939608469287,
-      "geopend_op": "2026-11-01T06:30:33.307838+00:00"
     },
     {
       "coin": "LIT",
