@@ -1,5 +1,5 @@
 {
-  "capital": 907.1331723132047,
+  "capital": 908.4900247292537,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -62,16 +62,6 @@
       "geopend_op": "2026-11-01T04:45:25.292279+00:00"
     },
     {
-      "coin": "AAVE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 136.105,
-      "stop_price": 156.52074999999996,
-      "tp_price": 95.27349999999998,
-      "grootte_usd": 60.510871247523035,
-      "geopend_op": "2026-11-01T16:45:25.367495+00:00"
-    },
-    {
       "coin": "kPEPE",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
@@ -90,16 +80,6 @@
       "tp_price": 0.235001,
       "grootte_usd": 60.48996363790982,
       "geopend_op": "2026-11-01T19:00:45.324810+00:00"
-    },
-    {
-      "coin": "SOL",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 93.7675,
-      "stop_price": 79.702375,
-      "tp_price": 121.89775,
-      "grootte_usd": 60.48996363790982,
-      "geopend_op": "2026-11-01T19:15:27.033739+00:00"
     },
     {
       "coin": "ZEC",
