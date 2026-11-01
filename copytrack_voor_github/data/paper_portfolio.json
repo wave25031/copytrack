@@ -1,5 +1,5 @@
 {
-  "capital": 907.6630687128455,
+  "capital": 907.270861513414,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -60,16 +60,6 @@
       "tp_price": 0.0916357,
       "grootte_usd": 60.42410487486076,
       "geopend_op": "2026-11-01T04:45:25.292279+00:00"
-    },
-    {
-      "coin": "NEAR",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 4.33535,
-      "stop_price": 3.6850475,
-      "tp_price": 5.635955,
-      "grootte_usd": 60.510871247523035,
-      "geopend_op": "2026-11-01T16:00:40.637475+00:00"
     },
     {
       "coin": "AAVE",
