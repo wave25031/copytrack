@@ -110,6 +110,36 @@
       "tp_price": 0.0029189999999999997,
       "grootte_usd": 60.761598699386305,
       "geopend_op": "2026-11-02T13:45:30.933954+00:00"
+    },
+    {
+      "coin": "NEAR",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 4.06945,
+      "stop_price": 3.4590324999999997,
+      "tp_price": 5.290285,
+      "grootte_usd": 60.80733516569438,
+      "geopend_op": "2026-11-02T14:30:48.604807+00:00"
+    },
+    {
+      "coin": "WLD",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.38164,
+      "stop_price": 0.43888599999999994,
+      "tp_price": 0.26714799999999994,
+      "grootte_usd": 60.80733516569438,
+      "geopend_op": "2026-11-02T14:30:48.604807+00:00"
+    },
+    {
+      "coin": "XMR",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 604.885,
+      "stop_price": 695.6177499999999,
+      "tp_price": 423.41949999999997,
+      "grootte_usd": 60.80733516569438,
+      "geopend_op": "2026-11-02T14:30:48.604807+00:00"
     }
   ]
 }
