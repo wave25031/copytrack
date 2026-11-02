@@ -1,5 +1,5 @@
 {
-  "capital": 910.5290204901003,
+  "capital": 911.1879661757894,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -62,16 +62,6 @@
       "geopend_op": "2026-11-01T04:45:25.292279+00:00"
     },
     {
-      "coin": "ENA",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.178565,
-      "stop_price": 0.15178025,
-      "tp_price": 0.23213450000000002,
-      "grootte_usd": 60.65187441498241,
-      "geopend_op": "2026-11-02T06:30:37.969967+00:00"
-    },
-    {
       "coin": "LIT",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -100,6 +90,16 @@
       "tp_price": 1639.105,
       "grootte_usd": 60.701934699340015,
       "geopend_op": "2026-11-02T08:30:36.345726+00:00"
+    },
+    {
+      "coin": "BTC",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 78284.5,
+      "stop_price": 66541.825,
+      "tp_price": 101769.85,
+      "grootte_usd": 60.701934699340015,
+      "geopend_op": "2026-11-02T08:45:30.157427+00:00"
     }
   ]
 }
