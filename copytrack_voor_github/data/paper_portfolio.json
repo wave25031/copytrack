@@ -80,6 +80,26 @@
       "tp_price": 4.04664,
       "grootte_usd": 60.70963805164444,
       "geopend_op": "2026-11-02T07:45:25.276929+00:00"
+    },
+    {
+      "coin": "AAVE",
+      "richting": "SHORT",
+      "bron_wallet": "trader_16",
+      "instapprijs": 133.675,
+      "stop_price": 153.72625,
+      "tp_price": 93.5725,
+      "grootte_usd": 60.701934699340015,
+      "geopend_op": "2026-11-02T08:30:36.345726+00:00"
+    },
+    {
+      "coin": "ZEC",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1260.85,
+      "stop_price": 1071.7224999999999,
+      "tp_price": 1639.105,
+      "grootte_usd": 60.701934699340015,
+      "geopend_op": "2026-11-02T08:30:36.345726+00:00"
     }
   ]
 }
