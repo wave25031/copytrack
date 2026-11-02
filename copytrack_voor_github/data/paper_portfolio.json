@@ -70,6 +70,36 @@
       "tp_price": 93.6145,
       "grootte_usd": 60.672720076821165,
       "geopend_op": "2026-11-02T05:15:25.955474+00:00"
+    },
+    {
+      "coin": "ENA",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.178565,
+      "stop_price": 0.15178025,
+      "tp_price": 0.23213450000000002,
+      "grootte_usd": 60.65187441498241,
+      "geopend_op": "2026-11-02T06:30:37.969967+00:00"
+    },
+    {
+      "coin": "ONDO",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.394365,
+      "stop_price": 0.45351975,
+      "tp_price": 0.2760555,
+      "grootte_usd": 60.65187441498241,
+      "geopend_op": "2026-11-02T06:30:37.969967+00:00"
+    },
+    {
+      "coin": "PUMP",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.004103,
+      "stop_price": 0.00471845,
+      "tp_price": 0.0028721,
+      "grootte_usd": 60.65187441498241,
+      "geopend_op": "2026-11-02T06:30:37.969967+00:00"
     }
   ]
 }
