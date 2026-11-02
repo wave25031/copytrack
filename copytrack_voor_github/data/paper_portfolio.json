@@ -90,6 +90,16 @@
       "tp_price": 497.06649999999996,
       "grootte_usd": 60.74586441171929,
       "geopend_op": "2026-11-02T09:15:26.400284+00:00"
+    },
+    {
+      "coin": "ONDO",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.393415,
+      "stop_price": 0.45242725,
+      "tp_price": 0.2753905,
+      "grootte_usd": 60.76303284135752,
+      "geopend_op": "2026-11-02T10:00:50.194644+00:00"
     }
   ]
 }
