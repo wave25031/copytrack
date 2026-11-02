@@ -100,6 +100,56 @@
       "tp_price": 5.290285,
       "grootte_usd": 60.80733516569438,
       "geopend_op": "2026-11-02T14:30:48.604807+00:00"
+    },
+    {
+      "coin": "ARB",
+      "richting": "SHORT",
+      "bron_wallet": "trader_16",
+      "instapprijs": 0.15978,
+      "stop_price": 0.183747,
+      "tp_price": 0.111846,
+      "grootte_usd": 60.83661046868255,
+      "geopend_op": "2026-11-02T15:30:48.963320+00:00"
+    },
+    {
+      "coin": "AVAX",
+      "richting": "SHORT",
+      "bron_wallet": "trader_16",
+      "instapprijs": 8.5562,
+      "stop_price": 9.83963,
+      "tp_price": 5.98934,
+      "grootte_usd": 60.83661046868255,
+      "geopend_op": "2026-11-02T15:30:48.963320+00:00"
+    },
+    {
+      "coin": "LINK",
+      "richting": "SHORT",
+      "bron_wallet": "trader_16",
+      "instapprijs": 11.3435,
+      "stop_price": 13.045024999999999,
+      "tp_price": 7.94045,
+      "grootte_usd": 60.83661046868255,
+      "geopend_op": "2026-11-02T15:30:48.963320+00:00"
+    },
+    {
+      "coin": "OP",
+      "richting": "SHORT",
+      "bron_wallet": "trader_16",
+      "instapprijs": 0.11243,
+      "stop_price": 0.12929449999999998,
+      "tp_price": 0.078701,
+      "grootte_usd": 60.83661046868255,
+      "geopend_op": "2026-11-02T15:30:48.963320+00:00"
+    },
+    {
+      "coin": "PENDLE",
+      "richting": "SHORT",
+      "bron_wallet": "trader_16",
+      "instapprijs": 1.79205,
+      "stop_price": 2.0608574999999996,
+      "tp_price": 1.254435,
+      "grootte_usd": 60.83661046868255,
+      "geopend_op": "2026-11-02T15:30:48.963320+00:00"
     }
   ]
 }
