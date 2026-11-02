@@ -70,6 +70,26 @@
       "tp_price": 0.23213450000000002,
       "grootte_usd": 60.65187441498241,
       "geopend_op": "2026-11-02T06:30:37.969967+00:00"
+    },
+    {
+      "coin": "LIT",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 3.1128,
+      "stop_price": 2.64588,
+      "tp_price": 4.04664,
+      "grootte_usd": 60.70963805164444,
+      "geopend_op": "2026-11-02T07:45:25.276929+00:00"
+    },
+    {
+      "coin": "ZEC",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1260.95,
+      "stop_price": 1450.0925,
+      "tp_price": 882.665,
+      "grootte_usd": 60.70963805164444,
+      "geopend_op": "2026-11-02T07:45:25.276929+00:00"
     }
   ]
 }
