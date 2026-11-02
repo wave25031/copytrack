@@ -1,5 +1,5 @@
 {
-  "capital": 911.4239804907946,
+  "capital": 912.1100274854158,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -82,16 +82,6 @@
       "geopend_op": "2026-11-02T09:15:26.400284+00:00"
     },
     {
-      "coin": "LIT",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 3.09805,
-      "stop_price": 2.6333425,
-      "tp_price": 4.027465,
-      "grootte_usd": 60.7276538245482,
-      "geopend_op": "2026-11-02T12:00:48.764955+00:00"
-    },
-    {
       "coin": "ENA",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -102,16 +92,6 @@
       "geopend_op": "2026-11-02T12:45:35.970371+00:00"
     },
     {
-      "coin": "BTC",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 77644.5,
-      "stop_price": 89291.17499999999,
-      "tp_price": 54351.149999999994,
-      "grootte_usd": 60.77427254057079,
-      "geopend_op": "2026-11-02T13:30:36.672093+00:00"
-    },
-    {
       "coin": "ZEC",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -120,6 +100,16 @@
       "tp_price": 1619.9950000000001,
       "grootte_usd": 60.77427254057079,
       "geopend_op": "2026-11-02T13:30:36.672093+00:00"
+    },
+    {
+      "coin": "PUMP",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.00417,
+      "stop_price": 0.004795499999999999,
+      "tp_price": 0.0029189999999999997,
+      "grootte_usd": 60.761598699386305,
+      "geopend_op": "2026-11-02T13:45:30.933954+00:00"
     }
   ]
 }
