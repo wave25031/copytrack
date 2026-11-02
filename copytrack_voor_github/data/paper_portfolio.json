@@ -1,5 +1,5 @@
 {
-  "capital": 909.7781162247361,
+  "capital": 910.0811162843816,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -82,24 +82,14 @@
       "geopend_op": "2026-11-02T06:30:37.969967+00:00"
     },
     {
-      "coin": "ONDO",
+      "coin": "HYPE",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.394365,
-      "stop_price": 0.45351975,
-      "tp_price": 0.2760555,
+      "instapprijs": 86.2665,
+      "stop_price": 99.20647499999998,
+      "tp_price": 60.38654999999999,
       "grootte_usd": 60.65187441498241,
-      "geopend_op": "2026-11-02T06:30:37.969967+00:00"
-    },
-    {
-      "coin": "PUMP",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.004103,
-      "stop_price": 0.00471845,
-      "tp_price": 0.0028721,
-      "grootte_usd": 60.65187441498241,
-      "geopend_op": "2026-11-02T06:30:37.969967+00:00"
+      "geopend_op": "2026-11-02T06:45:26.366424+00:00"
     }
   ]
 }
