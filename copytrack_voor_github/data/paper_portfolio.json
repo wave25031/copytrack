@@ -140,6 +140,16 @@
       "tp_price": 0.219284,
       "grootte_usd": 60.63124313403096,
       "geopend_op": "2026-11-03T07:00:45.473093+00:00"
+    },
+    {
+      "coin": "PONS",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.190515,
+      "stop_price": 0.16193775,
+      "tp_price": 0.2476695,
+      "grootte_usd": 60.66772991232453,
+      "geopend_op": "2026-11-03T07:45:25.775462+00:00"
     }
   ]
 }
