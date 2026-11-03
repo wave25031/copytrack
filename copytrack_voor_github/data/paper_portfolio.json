@@ -1,5 +1,5 @@
 {
-  "capital": 908.8653843858588,
+  "capital": 908.0516382278117,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -130,16 +130,6 @@
       "tp_price": 54132.049999999996,
       "grootte_usd": 60.770436048776254,
       "geopend_op": "2026-11-02T16:30:58.474379+00:00"
-    },
-    {
-      "coin": "XPL",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.063499,
-      "stop_price": 0.05397415,
-      "tp_price": 0.0825487,
-      "grootte_usd": 60.505933594643096,
-      "geopend_op": "2026-11-03T02:00:57.068639+00:00"
     },
     {
       "coin": "ENA",
