@@ -140,6 +140,16 @@
       "tp_price": 111.40675000000002,
       "grootte_usd": 60.89152444451116,
       "geopend_op": "2026-11-03T20:45:37.684359+00:00"
+    },
+    {
+      "coin": "WLD",
+      "richting": "LONG",
+      "bron_wallet": "trader_22",
+      "instapprijs": 0.37384,
+      "stop_price": 0.317764,
+      "tp_price": 0.48599200000000004,
+      "grootte_usd": 60.83297771453129,
+      "geopend_op": "2026-11-03T21:30:48.235869+00:00"
     }
   ]
 }
