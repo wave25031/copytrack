@@ -1,5 +1,5 @@
 {
-  "capital": 913.2146855138279,
+  "capital": 913.7646369128976,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -130,16 +130,6 @@
       "tp_price": 54132.049999999996,
       "grootte_usd": 60.770436048776254,
       "geopend_op": "2026-11-02T16:30:58.474379+00:00"
-    },
-    {
-      "coin": "ENA",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.16868,
-      "stop_price": 0.143378,
-      "tp_price": 0.219284,
-      "grootte_usd": 60.63124313403096,
-      "geopend_op": "2026-11-03T07:00:45.473093+00:00"
     }
   ]
 }
