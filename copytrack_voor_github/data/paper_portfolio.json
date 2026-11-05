@@ -1,5 +1,5 @@
 {
-  "capital": 914.171001782177,
+  "capital": 924.5190570366487,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -82,26 +82,6 @@
       "geopend_op": "2026-11-02T15:30:48.963320+00:00"
     },
     {
-      "coin": "LINK",
-      "richting": "SHORT",
-      "bron_wallet": "trader_16",
-      "instapprijs": 11.3435,
-      "stop_price": 13.045024999999999,
-      "tp_price": 7.94045,
-      "grootte_usd": 60.83661046868255,
-      "geopend_op": "2026-11-02T15:30:48.963320+00:00"
-    },
-    {
-      "coin": "OP",
-      "richting": "SHORT",
-      "bron_wallet": "trader_16",
-      "instapprijs": 0.11243,
-      "stop_price": 0.12929449999999998,
-      "tp_price": 0.078701,
-      "grootte_usd": 60.83661046868255,
-      "geopend_op": "2026-11-02T15:30:48.963320+00:00"
-    },
-    {
       "coin": "PENDLE",
       "richting": "SHORT",
       "bron_wallet": "trader_16",
@@ -110,16 +90,6 @@
       "tp_price": 1.254435,
       "grootte_usd": 60.83661046868255,
       "geopend_op": "2026-11-02T15:30:48.963320+00:00"
-    },
-    {
-      "coin": "BTC",
-      "richting": "SHORT",
-      "bron_wallet": "trader_16",
-      "instapprijs": 77331.5,
-      "stop_price": 88931.22499999999,
-      "tp_price": 54132.049999999996,
-      "grootte_usd": 60.770436048776254,
-      "geopend_op": "2026-11-02T16:30:58.474379+00:00"
     },
     {
       "coin": "HYPE",
