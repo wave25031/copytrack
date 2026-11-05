@@ -1,5 +1,5 @@
 {
-  "capital": 912.4946657179694,
+  "capital": 913.9238233702222,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -78,16 +78,6 @@
       "instapprijs": 0.15978,
       "stop_price": 0.183747,
       "tp_price": 0.111846,
-      "grootte_usd": 60.83661046868255,
-      "geopend_op": "2026-11-02T15:30:48.963320+00:00"
-    },
-    {
-      "coin": "AVAX",
-      "richting": "SHORT",
-      "bron_wallet": "trader_16",
-      "instapprijs": 8.5562,
-      "stop_price": 9.83963,
-      "tp_price": 5.98934,
       "grootte_usd": 60.83661046868255,
       "geopend_op": "2026-11-02T15:30:48.963320+00:00"
     },
