@@ -110,6 +110,16 @@
       "tp_price": 892.08,
       "grootte_usd": 61.878027726212785,
       "geopend_op": "2026-11-05T23:36:29.798869+00:00"
+    },
+    {
+      "coin": "GRASS",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.49381,
+      "stop_price": 0.4197385,
+      "tp_price": 0.6419530000000001,
+      "grootte_usd": 61.86202698980144,
+      "geopend_op": "2026-11-06T00:45:26.427934+00:00"
     }
   ]
 }
