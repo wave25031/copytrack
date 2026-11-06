@@ -80,6 +80,16 @@
       "tp_price": 916.8949999999999,
       "grootte_usd": 61.86129338117213,
       "geopend_op": "2026-11-06T02:45:27.257113+00:00"
+    },
+    {
+      "coin": "XMR",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 615.565,
+      "stop_price": 523.2302500000001,
+      "tp_price": 800.2345000000001,
+      "grootte_usd": 61.804437995269744,
+      "geopend_op": "2026-11-06T23:15:26.631182+00:00"
     }
   ]
 }
