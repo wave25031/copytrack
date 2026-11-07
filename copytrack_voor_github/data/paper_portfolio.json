@@ -1,5 +1,5 @@
 {
-  "capital": 925.6724200671512,
+  "capital": 926.3112206112818,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -92,14 +92,14 @@
       "geopend_op": "2026-11-07T15:15:25.548730+00:00"
     },
     {
-      "coin": "PUMP",
+      "coin": "BTC",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.003671,
-      "stop_price": 0.0042216499999999995,
-      "tp_price": 0.0025697,
+      "instapprijs": 75779.5,
+      "stop_price": 87146.42499999999,
+      "tp_price": 53045.649999999994,
       "grootte_usd": 61.71149467114341,
-      "geopend_op": "2026-11-07T15:30:37.998841+00:00"
+      "geopend_op": "2026-11-07T15:45:24.340997+00:00"
     }
   ]
 }
