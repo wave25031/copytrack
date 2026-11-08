@@ -1,5 +1,5 @@
 {
-  "capital": 925.3409714049968,
+  "capital": 915.7447924049968,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -20,16 +20,6 @@
       "tp_price": 3294.005,
       "grootte_usd": 69.33333333333333,
       "geopend_op": "2026-08-21T22:43:41.218604+00:00"
-    },
-    {
-      "coin": "XRP",
-      "richting": "LONG",
-      "bron_wallet": "trader_10",
-      "instapprijs": 1.34605,
-      "stop_price": 1.1441424999999998,
-      "tp_price": 1.749865,
-      "grootte_usd": 63.97452666666667,
-      "geopend_op": "2026-09-01T21:22:47.144182+00:00"
     },
     {
       "coin": "ASTER",
@@ -80,6 +70,26 @@
       "tp_price": 916.8949999999999,
       "grootte_usd": 61.86129338117213,
       "geopend_op": "2026-11-06T02:45:27.257113+00:00"
+    },
+    {
+      "coin": "LIT",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 3.12875,
+      "stop_price": 3.5980624999999997,
+      "tp_price": 2.190125,
+      "grootte_usd": 61.689398093666455,
+      "geopend_op": "2026-11-08T21:45:25.552323+00:00"
+    },
+    {
+      "coin": "SOL",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 88.5755,
+      "stop_price": 101.861825,
+      "tp_price": 62.00285,
+      "grootte_usd": 61.689398093666455,
+      "geopend_op": "2026-11-08T21:45:25.552323+00:00"
     }
   ]
 }
