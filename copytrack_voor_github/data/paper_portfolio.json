@@ -60,6 +60,26 @@
       "tp_price": 96647.85,
       "grootte_usd": 59.911796078566304,
       "geopend_op": "2026-11-09T07:00:45.430301+00:00"
+    },
+    {
+      "coin": "ETH",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 2087.3,
+      "stop_price": 1774.2050000000002,
+      "tp_price": 2713.4900000000002,
+      "grootte_usd": 59.911796078566304,
+      "geopend_op": "2026-11-09T07:15:27.576636+00:00"
+    },
+    {
+      "coin": "ZRO",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1.48675,
+      "stop_price": 1.2637375,
+      "tp_price": 1.9327750000000001,
+      "grootte_usd": 59.911796078566304,
+      "geopend_op": "2026-11-09T07:15:27.576636+00:00"
     }
   ]
 }
