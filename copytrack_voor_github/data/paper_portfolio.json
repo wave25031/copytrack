@@ -60,6 +60,16 @@
       "tp_price": 13.29055,
       "grootte_usd": 59.911796078566304,
       "geopend_op": "2026-11-09T07:30:36.275086+00:00"
+    },
+    {
+      "coin": "PUMP",
+      "richting": "LONG",
+      "bron_wallet": "trader_03",
+      "instapprijs": 0.003569,
+      "stop_price": 0.00303365,
+      "tp_price": 0.0046397,
+      "grootte_usd": 59.31223765307771,
+      "geopend_op": "2026-11-09T09:30:37.462775+00:00"
     }
   ]
 }
