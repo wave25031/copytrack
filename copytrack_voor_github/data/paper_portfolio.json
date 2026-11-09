@@ -80,6 +80,16 @@
       "tp_price": 95.23605,
       "grootte_usd": 59.38939700636844,
       "geopend_op": "2026-11-09T11:45:25.807654+00:00"
+    },
+    {
+      "coin": "AVAX",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 8.2993,
+      "stop_price": 9.544195,
+      "tp_price": 5.80951,
+      "grootte_usd": 59.38939700636844,
+      "geopend_op": "2026-11-09T12:30:37.494296+00:00"
     }
   ]
 }
