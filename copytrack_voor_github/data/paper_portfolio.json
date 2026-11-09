@@ -1,5 +1,5 @@
 {
-  "capital": 889.5432125118178,
+  "capital": 888.8009471899683,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -62,16 +62,6 @@
       "geopend_op": "2026-11-09T07:15:27.576636+00:00"
     },
     {
-      "coin": "ZRO",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 1.48675,
-      "stop_price": 1.2637375,
-      "tp_price": 1.9327750000000001,
-      "grootte_usd": 59.911796078566304,
-      "geopend_op": "2026-11-09T07:15:27.576636+00:00"
-    },
-    {
       "coin": "LINK",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -80,26 +70,6 @@
       "tp_price": 13.29055,
       "grootte_usd": 59.911796078566304,
       "geopend_op": "2026-11-09T07:30:36.275086+00:00"
-    },
-    {
-      "coin": "GRASS",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.46747,
-      "stop_price": 0.5375905,
-      "tp_price": 0.327229,
-      "grootte_usd": 59.911796078566304,
-      "geopend_op": "2026-11-09T08:00:45.095276+00:00"
-    },
-    {
-      "coin": "TAO",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 212.66,
-      "stop_price": 244.55899999999997,
-      "tp_price": 148.862,
-      "grootte_usd": 59.911796078566304,
-      "geopend_op": "2026-11-09T08:00:45.095276+00:00"
     }
   ]
 }
