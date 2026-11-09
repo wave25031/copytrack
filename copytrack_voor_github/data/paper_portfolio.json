@@ -50,6 +50,16 @@
       "tp_price": 916.8949999999999,
       "grootte_usd": 61.86129338117213,
       "geopend_op": "2026-11-06T02:45:27.257113+00:00"
+    },
+    {
+      "coin": "TRX",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.31767,
+      "stop_price": 0.3653205,
+      "tp_price": 0.22236899999999998,
+      "grootte_usd": 59.94395070023198,
+      "geopend_op": "2026-11-09T05:15:23.933115+00:00"
     }
   ]
 }
