@@ -18,7 +18,7 @@ from config import (
 def send_email_notification(subject: str, body: str) -> bool:
     """Geeft True terug bij succes, False als het (om wat voor reden dan ook) niet lukte."""
     if not EMAIL_ENABLED:
-        return False
+        return True  # mails staan bewust uit, dat is geen fout
     if not EMAIL_FROM:
         print("  [E-MAIL] Overgeslagen: geen e-mailadres ingesteld (secret EMAIL_ADRES).")
         return False
