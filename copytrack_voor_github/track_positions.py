@@ -344,7 +344,7 @@ def main():
     aanpassingen = [s for s in all_signals if s["actie"] in ("POSITIE_VERGROOT", "POSITIE_VERKLEIND", "POSITIE_GESLOTEN")]
     # Sinds 1 nov 2026: alleen mailen als een eigen paper-trade opent of sluit.
     # Bewegingen van traders staan dan alleen als extra info in die mail.
-    if opened_trades or closed_trades:
+    if opened_trades:  # sinds 9 nov 2026: alleen mailen als er een nieuwe trade geopend wordt
         regels = [f"Copy-tracker update -- {now_iso}", ""]
 
         if opened_trades:
