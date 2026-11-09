@@ -60,6 +60,16 @@
       "tp_price": 0.0046397,
       "grootte_usd": 59.31223765307771,
       "geopend_op": "2026-11-09T09:30:37.462775+00:00"
+    },
+    {
+      "coin": "BOME",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.000625,
+      "stop_price": 0.00053125,
+      "tp_price": 0.0008125000000000001,
+      "grootte_usd": 59.17013490917444,
+      "geopend_op": "2026-11-09T14:00:45.477010+00:00"
     }
   ]
 }
