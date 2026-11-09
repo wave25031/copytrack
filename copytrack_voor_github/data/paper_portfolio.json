@@ -50,6 +50,26 @@
       "tp_price": 916.8949999999999,
       "grootte_usd": 61.86129338117213,
       "geopend_op": "2026-11-06T02:45:27.257113+00:00"
+    },
+    {
+      "coin": "SOL",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 86.571,
+      "stop_price": 99.55664999999999,
+      "tp_price": 60.59969999999999,
+      "grootte_usd": 59.95376171024086,
+      "geopend_op": "2026-11-09T00:00:46.186418+00:00"
+    },
+    {
+      "coin": "XMR",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 599.335,
+      "stop_price": 689.23525,
+      "tp_price": 419.5345,
+      "grootte_usd": 59.95376171024086,
+      "geopend_op": "2026-11-09T00:00:46.186418+00:00"
     }
   ]
 }
