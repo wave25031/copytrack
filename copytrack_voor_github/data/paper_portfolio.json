@@ -80,6 +80,16 @@
       "tp_price": 1.9327750000000001,
       "grootte_usd": 59.911796078566304,
       "geopend_op": "2026-11-09T07:15:27.576636+00:00"
+    },
+    {
+      "coin": "LINK",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 10.2235,
+      "stop_price": 8.689974999999999,
+      "tp_price": 13.29055,
+      "grootte_usd": 59.911796078566304,
+      "geopend_op": "2026-11-09T07:30:36.275086+00:00"
     }
   ]
 }
