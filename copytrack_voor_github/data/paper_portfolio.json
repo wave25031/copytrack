@@ -1,5 +1,5 @@
 {
-  "capital": 886.8725868774228,
+  "capital": 886.7377871288367,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -90,16 +90,6 @@
       "tp_price": 52492.649999999994,
       "grootte_usd": 59.09157150924732,
       "geopend_op": "2026-11-09T19:45:26.551507+00:00"
-    },
-    {
-      "coin": "INJ",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 8.1536,
-      "stop_price": 6.930560000000001,
-      "tp_price": 10.599680000000001,
-      "grootte_usd": 59.09157150924732,
-      "geopend_op": "2026-11-09T20:00:47.928331+00:00"
     }
   ]
 }
