@@ -50,6 +50,16 @@
       "tp_price": 916.8949999999999,
       "grootte_usd": 61.86129338117213,
       "geopend_op": "2026-11-06T02:45:27.257113+00:00"
+    },
+    {
+      "coin": "MET",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.301975,
+      "stop_price": 0.25667875,
+      "tp_price": 0.3925675,
+      "grootte_usd": 59.94766177681178,
+      "geopend_op": "2026-11-09T06:30:38.146620+00:00"
     }
   ]
 }
