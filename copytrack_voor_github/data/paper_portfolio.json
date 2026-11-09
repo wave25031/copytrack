@@ -1,5 +1,5 @@
 {
-  "capital": 887.2559837940008,
+  "capital": 888.1206793288729,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -42,16 +42,6 @@
       "geopend_op": "2026-11-06T02:45:27.257113+00:00"
     },
     {
-      "coin": "BTC",
-      "richting": "LONG",
-      "bron_wallet": "trader_08",
-      "instapprijs": 74344.5,
-      "stop_price": 63192.825,
-      "tp_price": 96647.85,
-      "grootte_usd": 59.911796078566304,
-      "geopend_op": "2026-11-09T07:00:45.430301+00:00"
-    },
-    {
       "coin": "PUMP",
       "richting": "LONG",
       "bron_wallet": "trader_03",
@@ -90,6 +80,16 @@
       "tp_price": 6.21789,
       "grootte_usd": 59.17013490917444,
       "geopend_op": "2026-11-09T15:30:41.670741+00:00"
+    },
+    {
+      "coin": "MET",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.33748,
+      "stop_price": 0.286858,
+      "tp_price": 0.438724,
+      "grootte_usd": 59.15039891960006,
+      "geopend_op": "2026-11-09T15:45:27.837453+00:00"
     }
   ]
 }
