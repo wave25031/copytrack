@@ -90,6 +90,26 @@
       "tp_price": 91.777,
       "grootte_usd": 59.10140584635881,
       "geopend_op": "2026-11-10T02:45:26.181780+00:00"
+    },
+    {
+      "coin": "BTC",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 74023.0,
+      "stop_price": 62919.549999999996,
+      "tp_price": 96229.90000000001,
+      "grootte_usd": 59.144743251645785,
+      "geopend_op": "2026-11-10T13:30:38.689781+00:00"
+    },
+    {
+      "coin": "SOL",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 84.477,
+      "stop_price": 71.80545000000001,
+      "tp_price": 109.82010000000001,
+      "grootte_usd": 59.144743251645785,
+      "geopend_op": "2026-11-10T13:30:38.689781+00:00"
     }
   ]
 }
