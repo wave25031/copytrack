@@ -1,5 +1,5 @@
 {
-  "capital": 884.3241867303408,
+  "capital": 882.5721041383507,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -92,16 +92,6 @@
       "geopend_op": "2026-11-10T02:45:26.181780+00:00"
     },
     {
-      "coin": "HYPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 73.0175,
-      "stop_price": 62.064874999999994,
-      "tp_price": 94.92275000000001,
-      "grootte_usd": 59.077668280136656,
-      "geopend_op": "2026-11-10T15:30:41.954979+00:00"
-    },
-    {
       "coin": "DOGE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -130,6 +120,16 @@
       "tp_price": 95012.45,
       "grootte_usd": 58.95494578202272,
       "geopend_op": "2026-11-10T16:45:29.005701+00:00"
+    },
+    {
+      "coin": "AERO",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.530635,
+      "stop_price": 0.45103974999999996,
+      "tp_price": 0.6898255,
+      "grootte_usd": 58.95494578202272,
+      "geopend_op": "2026-11-10T17:00:51.676191+00:00"
     }
   ]
 }
