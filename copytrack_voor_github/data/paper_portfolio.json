@@ -1,5 +1,5 @@
 {
-  "capital": 882.6710823199735,
+  "capital": 883.8859896143027,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -100,16 +100,6 @@
       "tp_price": 2627.885,
       "grootte_usd": 58.95494578202272,
       "geopend_op": "2026-11-10T16:45:29.005701+00:00"
-    },
-    {
-      "coin": "AERO",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.530635,
-      "stop_price": 0.45103974999999996,
-      "tp_price": 0.6898255,
-      "grootte_usd": 58.95494578202272,
-      "geopend_op": "2026-11-10T17:00:51.676191+00:00"
     },
     {
       "coin": "GRASS",
