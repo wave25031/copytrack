@@ -1,5 +1,5 @@
 {
-  "capital": 886.1650242020498,
+  "capital": 884.4289389104479,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -92,16 +92,6 @@
       "geopend_op": "2026-11-10T02:45:26.181780+00:00"
     },
     {
-      "coin": "SOL",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 84.477,
-      "stop_price": 71.80545000000001,
-      "tp_price": 109.82010000000001,
-      "grootte_usd": 59.144743251645785,
-      "geopend_op": "2026-11-10T13:30:38.689781+00:00"
-    },
-    {
       "coin": "ETH",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
@@ -112,14 +102,24 @@
       "geopend_op": "2026-11-10T14:45:31.989345+00:00"
     },
     {
-      "coin": "kPEPE",
+      "coin": "BTC",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.005492,
-      "stop_price": 0.0046682,
-      "tp_price": 0.0071396,
+      "instapprijs": 74042.5,
+      "stop_price": 62936.125,
+      "tp_price": 96255.25,
       "grootte_usd": 59.077668280136656,
-      "geopend_op": "2026-11-10T15:15:28.059644+00:00"
+      "geopend_op": "2026-11-10T15:30:41.954979+00:00"
+    },
+    {
+      "coin": "HYPE",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 73.0175,
+      "stop_price": 62.064874999999994,
+      "tp_price": 94.92275000000001,
+      "grootte_usd": 59.077668280136656,
+      "geopend_op": "2026-11-10T15:30:41.954979+00:00"
     }
   ]
 }
