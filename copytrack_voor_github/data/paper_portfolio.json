@@ -1,5 +1,5 @@
 {
-  "capital": 883.8859896143027,
+  "capital": 884.2695794057881,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -112,16 +112,6 @@
       "geopend_op": "2026-11-10T17:15:27.937807+00:00"
     },
     {
-      "coin": "UNI",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 6.6187,
-      "stop_price": 5.625895,
-      "tp_price": 8.60431,
-      "grootte_usd": 58.83814027589005,
-      "geopend_op": "2026-11-10T17:45:28.737375+00:00"
-    },
-    {
       "coin": "kPEPE",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
@@ -130,6 +120,16 @@
       "tp_price": 0.0037330999999999996,
       "grootte_usd": 58.84473882133157,
       "geopend_op": "2026-11-10T19:00:48.880316+00:00"
+    },
+    {
+      "coin": "HYPE",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 71.7615,
+      "stop_price": 60.997274999999995,
+      "tp_price": 93.28995,
+      "grootte_usd": 58.92573264095351,
+      "geopend_op": "2026-11-10T19:45:27.188004+00:00"
     }
   ]
 }
