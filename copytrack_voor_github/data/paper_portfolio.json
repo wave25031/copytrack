@@ -1,5 +1,5 @@
 {
-  "capital": 882.5721041383507,
+  "capital": 882.3238211409711,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -90,16 +90,6 @@
       "tp_price": 91.777,
       "grootte_usd": 59.10140584635881,
       "geopend_op": "2026-11-10T02:45:26.181780+00:00"
-    },
-    {
-      "coin": "DOGE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.066969,
-      "stop_price": 0.05692365,
-      "tp_price": 0.0870597,
-      "grootte_usd": 58.96192926069652,
-      "geopend_op": "2026-11-10T15:45:26.795668+00:00"
     },
     {
       "coin": "ETH",
