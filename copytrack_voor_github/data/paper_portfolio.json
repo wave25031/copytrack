@@ -1,5 +1,5 @@
 {
-  "capital": 896.248807541298,
+  "capital": 896.7099054236501,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -100,16 +100,6 @@
       "tp_price": 51745.75,
       "grootte_usd": 59.0420507149128,
       "geopend_op": "2026-11-10T21:15:30.349161+00:00"
-    },
-    {
-      "coin": "SKY",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.058571,
-      "stop_price": 0.06735664999999999,
-      "tp_price": 0.04099969999999999,
-      "grootte_usd": 59.7499205027532,
-      "geopend_op": "2026-11-11T21:39:11.238714+00:00"
     },
     {
       "coin": "kPEPE",
