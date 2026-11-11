@@ -1,5 +1,5 @@
 {
-  "capital": 886.3311871353853,
+  "capital": 885.7561716338206,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -100,16 +100,6 @@
       "tp_price": 2627.885,
       "grootte_usd": 58.95494578202272,
       "geopend_op": "2026-11-10T16:45:29.005701+00:00"
-    },
-    {
-      "coin": "BNB",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 676.655,
-      "stop_price": 778.15325,
-      "tp_price": 473.65849999999995,
-      "grootte_usd": 59.0420507149128,
-      "geopend_op": "2026-11-10T21:00:46.445544+00:00"
     },
     {
       "coin": "BTC",
