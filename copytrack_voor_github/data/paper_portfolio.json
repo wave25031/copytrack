@@ -130,6 +130,16 @@
       "tp_price": 4.383795,
       "grootte_usd": 60.175207777159876,
       "geopend_op": "2026-11-12T14:15:27.824830+00:00"
+    },
+    {
+      "coin": "DOGE",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.065048,
+      "stop_price": 0.055290799999999994,
+      "tp_price": 0.0845624,
+      "grootte_usd": 60.175207777159876,
+      "geopend_op": "2026-11-12T14:30:42.335213+00:00"
     }
   ]
 }
