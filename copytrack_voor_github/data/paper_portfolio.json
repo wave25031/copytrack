@@ -1,5 +1,5 @@
 {
-  "capital": 903.5731684632365,
+  "capital": 903.0755393004363,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -112,34 +112,14 @@
       "geopend_op": "2026-11-12T09:15:31.456647+00:00"
     },
     {
-      "coin": "HYPE",
+      "coin": "DOGE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 70.7675,
-      "stop_price": 60.152375,
-      "tp_price": 91.99775,
-      "grootte_usd": 60.24621657474514,
-      "geopend_op": "2026-11-12T11:45:25.382091+00:00"
-    },
-    {
-      "coin": "LIT",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 3.1261,
-      "stop_price": 2.657185,
-      "tp_price": 4.06393,
-      "grootte_usd": 60.24621657474514,
-      "geopend_op": "2026-11-12T11:45:25.382091+00:00"
-    },
-    {
-      "coin": "NEAR",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 3.45135,
-      "stop_price": 2.9336475,
-      "tp_price": 4.4867550000000005,
-      "grootte_usd": 60.24621657474514,
-      "geopend_op": "2026-11-12T11:45:25.382091+00:00"
+      "instapprijs": 0.066509,
+      "stop_price": 0.05653265,
+      "tp_price": 0.0864617,
+      "grootte_usd": 60.23821123088243,
+      "geopend_op": "2026-11-12T12:00:45.365844+00:00"
     }
   ]
 }
