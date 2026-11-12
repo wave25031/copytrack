@@ -130,6 +130,16 @@
       "tp_price": 0.0845624,
       "grootte_usd": 60.175207777159876,
       "geopend_op": "2026-11-12T14:30:42.335213+00:00"
+    },
+    {
+      "coin": "ENA",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.137715,
+      "stop_price": 0.15837225,
+      "tp_price": 0.0964005,
+      "grootte_usd": 60.207345352280036,
+      "geopend_op": "2026-11-12T15:15:29.005391+00:00"
     }
   ]
 }
