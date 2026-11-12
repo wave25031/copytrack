@@ -1,5 +1,5 @@
 {
-  "capital": 902.6281166573982,
+  "capital": 903.1101802842005,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -110,16 +110,6 @@
       "tp_price": 0.0057655,
       "grootte_usd": 60.24621657474514,
       "geopend_op": "2026-11-12T09:15:31.456647+00:00"
-    },
-    {
-      "coin": "ZEC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 961.59,
-      "stop_price": 817.3515,
-      "tp_price": 1250.067,
-      "grootte_usd": 60.16191601516554,
-      "geopend_op": "2026-11-12T13:30:36.809389+00:00"
     },
     {
       "coin": "NEAR",
