@@ -1,4 +1,15 @@
 {
   "capital": 1000.0,
-  "open_trades": []
+  "open_trades": [
+    {
+      "coin": "ETH",
+      "richting": "SHORT",
+      "bron_wallet": "trader_03",
+      "instapprijs": 1960.15,
+      "stop_price": 2254.1725,
+      "tp_price": 1372.105,
+      "grootte_usd": 66.66666666666667,
+      "geopend_op": "2026-11-13T14:45:37.124045+00:00"
+    }
+  ]
 }
