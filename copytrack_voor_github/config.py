@@ -64,7 +64,7 @@ PAPER_TRADES_LOG_CSV = "output/paper_trades_log.csv"
 # Secrets and variables -> Actions -> New repository secret, naam
 # EMAIL_APP_PASSWORD). Zo staat het wachtwoord nooit in dit bestand of in de
 # chat, alleen versleuteld bij GitHub zelf.
-EMAIL_ENABLED = True
+EMAIL_ENABLED = False  # sinds 13 nov 2026 helemaal uit op verzoek. Op True zetten om weer mails te krijgen.
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 # Je e-mailadres staat niet in de code. Op GitHub komt het uit de secret
