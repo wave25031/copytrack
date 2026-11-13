@@ -43,10 +43,10 @@ def _default_portfolio():
     return {"capital": PAPER_START_CAPITAL, "open_trades": []}
 
 
-def load_portfolio() -> dict:
-    if not os.path.exists(PAPER_PORTFOLIO_STATE_FILE):
+def load_portfolio(path: str = PAPER_PORTFOLIO_STATE_FILE) -> dict:
+    if not os.path.exists(path):
         return _default_portfolio()
-    with open(PAPER_PORTFOLIO_STATE_FILE, "r", encoding="utf-8") as f:
+    with open(path, "r", encoding="utf-8") as f:
         try:
             data = json.load(f)
             data.setdefault("capital", PAPER_START_CAPITAL)
@@ -56,24 +56,24 @@ def load_portfolio() -> dict:
             return _default_portfolio()
 
 
-def save_portfolio(portfolio: dict):
-    os.makedirs(os.path.dirname(PAPER_PORTFOLIO_STATE_FILE), exist_ok=True)
-    with open(PAPER_PORTFOLIO_STATE_FILE, "w", encoding="utf-8") as f:
+def save_portfolio(portfolio: dict, path: str = PAPER_PORTFOLIO_STATE_FILE):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(portfolio, f, indent=2)
 
 
-def _ensure_csv_header():
-    os.makedirs(os.path.dirname(PAPER_TRADES_LOG_CSV), exist_ok=True)
-    if not os.path.exists(PAPER_TRADES_LOG_CSV):
-        with open(PAPER_TRADES_LOG_CSV, "w", newline="", encoding="utf-8") as f:
+def _ensure_csv_header(log=PAPER_TRADES_LOG_CSV):
+    os.makedirs(os.path.dirname(log), exist_ok=True)
+    if not os.path.exists(log):
+        with open(log, "w", newline="", encoding="utf-8") as f:
             import csv
             csv.writer(f).writerow(CSV_HEADER)
 
 
-def _log_closed_trade(row: dict):
+def _log_closed_trade(row: dict, log=PAPER_TRADES_LOG_CSV):
     import csv
-    _ensure_csv_header()
-    with open(PAPER_TRADES_LOG_CSV, "a", newline="", encoding="utf-8") as f:
+    _ensure_csv_header(log)
+    with open(log, "a", newline="", encoding="utf-8") as f:
         csv.DictWriter(f, fieldnames=CSV_HEADER).writerow(row)
 
 
@@ -82,7 +82,7 @@ def has_open_trade(portfolio: dict, coin: str) -> bool:
 
 
 def open_paper_trade(portfolio: dict, coin: str, richting: str, current_price: float,
-                      bron_wallet: str, now_iso: str) -> dict | None:
+                      bron_wallet: str, now_iso: str, max_open: int = MAX_OPEN_PAPER_TRADES) -> dict | None:
     """
     Opent een paper-trade als dat kan (niet al open op deze coin, portfolio
     niet vol, prijs bekend). Geeft de geopende trade terug, of None als er
@@ -93,7 +93,7 @@ def open_paper_trade(portfolio: dict, coin: str, richting: str, current_price: f
         return None
     if has_open_trade(portfolio, coin):
         return None
-    if len(portfolio["open_trades"]) >= MAX_OPEN_PAPER_TRADES:
+    if len(portfolio["open_trades"]) >= max_open:
         return None
 
     position_fraction = min(1.0, PAPER_RISK_PCT_PER_TRADE / PAPER_STOP_LOSS_PCT) if PAPER_STOP_LOSS_PCT else 1.0
@@ -120,7 +120,8 @@ def open_paper_trade(portfolio: dict, coin: str, richting: str, current_price: f
     return trade
 
 
-def _close(portfolio: dict, trade: dict, exit_price: float, reden: str, now_iso: str) -> dict:
+def _close(portfolio: dict, trade: dict, exit_price: float, reden: str, now_iso: str,
+           log=PAPER_TRADES_LOG_CSV) -> dict:
     if trade["richting"] == "LONG":
         resultaat_pct = (exit_price - trade["instapprijs"]) / trade["instapprijs"] * 100
     else:
@@ -135,12 +136,12 @@ def _close(portfolio: dict, trade: dict, exit_price: float, reden: str, now_iso:
         "grootte_usd": trade["grootte_usd"], "resultaat_pct": resultaat_pct,
         "resultaat_usd": resultaat_usd, "kapitaal_na_trade": portfolio["capital"],
     }
-    _log_closed_trade(closed_trade)
+    _log_closed_trade(closed_trade, log)
     return closed_trade
 
 
 def close_when_trader_exits(portfolio: dict, positions_per_label: dict, current_prices: dict,
-                            now_iso: str) -> list:
+                            now_iso: str, log=PAPER_TRADES_LOG_CSV) -> list:
     """
     Sluit paper-trades waarvan de bron-trader de positie niet meer heeft (gesloten)
     of nu de andere kant op zit (gedraaid). positions_per_label bevat ALLEEN
@@ -160,14 +161,15 @@ def close_when_trader_exits(portfolio: dict, positions_per_label: dict, current_
             richting_nu = "LONG" if float(pos["szi"]) > 0 else "SHORT"
             reden = None if richting_nu == trade["richting"] else "trader_gedraaid"
         if reden:
-            closed.append(_close(portfolio, trade, price, reden, now_iso))
+            closed.append(_close(portfolio, trade, price, reden, now_iso, log))
         else:
             still_open.append(trade)
     portfolio["open_trades"] = still_open
     return closed
 
 
-def check_and_close_trades(portfolio: dict, current_prices: dict, now_iso: str) -> list:
+def check_and_close_trades(portfolio: dict, current_prices: dict, now_iso: str,
+                           log=PAPER_TRADES_LOG_CSV) -> list:
     """
     Loopt alle open paper-trades langs en sluit ze af als de actuele prijs
     de stop-loss of take-profit geraakt heeft. Geeft de lijst van GESLOTEN
@@ -197,7 +199,7 @@ def check_and_close_trades(portfolio: dict, current_prices: dict, now_iso: str) 
             exit_price = trade["stop_price"] if hit_stop else trade["tp_price"]
             reden = "stop_loss" if hit_stop else "take_profit"
 
-            closed.append(_close(portfolio, trade, exit_price, reden, now_iso))
+            closed.append(_close(portfolio, trade, exit_price, reden, now_iso, log))
         else:
             still_open.append(trade)
 

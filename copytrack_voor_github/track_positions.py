@@ -46,6 +46,7 @@ from config import (
     MIN_POSITION_VALUE_USD, SECONDS_BETWEEN_REQUESTS,
 )
 import paper_portfolio as pp
+import top_traders
 from notifier import send_email_notification
 
 CSV_HEADER = [
@@ -330,6 +331,13 @@ def main():
 
     pp.save_portfolio(portfolio)
 
+    # --- Top-traders: aparte portfolio + entry-logboek (sinds 13 nov 2026) ---
+    try:
+        top_geopend, top_gesloten, top_pf = top_traders.run(all_signals, positions_per_label, current_prices, now_iso)
+    except Exception as e:
+        print(f"WAARSCHUWING: top-traders overgeslagen ({e})")
+        top_geopend, top_gesloten, top_pf = [], [], None
+
     print(f"\n=== Klaar. {total_signals} signa{'al' if total_signals == 1 else 'len'} deze run, "
           f"{len(opened_trades)} paper-trade(s) geopend, {len(closed_trades)} gesloten. "
           f"Kapitaal: ${portfolio['capital']:.2f}, {len(portfolio['open_trades'])} open. "
@@ -344,8 +352,14 @@ def main():
     aanpassingen = [s for s in all_signals if s["actie"] in ("POSITIE_VERGROOT", "POSITIE_VERKLEIND", "POSITIE_GESLOTEN")]
     # Sinds 1 nov 2026: alleen mailen als een eigen paper-trade opent of sluit.
     # Bewegingen van traders staan dan alleen als extra info in die mail.
-    if opened_trades:  # sinds 9 nov 2026: alleen mailen als er een nieuwe trade geopend wordt
+    if opened_trades or top_geopend:  # alleen mailen als er een nieuwe trade geopend wordt
         regels = [f"Copy-tracker update -- {now_iso}", ""]
+
+        if top_geopend:
+            regels.append("=== TOP-TRADER: NIEUWE TRADE ===")
+            regels.append("")
+            for t in top_geopend:
+                regels.append(_format_trade_voor_email(t))
 
         if opened_trades:
             regels.append("=== NIEUWE SIGNALEN OM TE VOLGEN ===")
@@ -405,9 +419,12 @@ def main():
 
         regels.append(f"Portfolio-kapitaal nu: ${portfolio['capital']:.2f}")
         regels.append(f"Open paper-trades: {len(portfolio['open_trades'])}")
+        if top_pf is not None:
+            regels.append(f"Top-trader portfolio: ${top_pf['capital']:.2f}, {len(top_pf['open_trades'])} open")
 
         verstuurd = send_email_notification(
-            subject=f"Copy-tracker: {len(opened_trades)} nieuw signaal om te volgen, "
+            subject=(f"TOP-TRADER: {', '.join(t['bron_wallet'] + ' ' + t['coin'] + ' ' + t['richting'] for t in top_geopend)} | " if top_geopend else "") +
+                    f"Copy-tracker: {len(opened_trades)} nieuw signaal om te volgen, "
                     f"{len(closed_trades)} afgesloten, {len(meldenswaardige_signalen)} nieuw/gedraaid, "
                     f"{len(aanpassingen)} aanpassingen",
             body="\n".join(regels),
