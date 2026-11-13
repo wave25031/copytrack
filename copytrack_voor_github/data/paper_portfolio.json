@@ -90,6 +90,36 @@
       "tp_price": 264.49150000000003,
       "grootte_usd": 59.44173809805363,
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
+    },
+    {
+      "coin": "AERO",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.47294,
+      "stop_price": 0.401999,
+      "tp_price": 0.6148220000000001,
+      "grootte_usd": 59.40018655971783,
+      "geopend_op": "2026-11-13T15:45:29.335667+00:00"
+    },
+    {
+      "coin": "ENA",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.135145,
+      "stop_price": 0.11487324999999998,
+      "tp_price": 0.1756885,
+      "grootte_usd": 59.40018655971783,
+      "geopend_op": "2026-11-13T15:45:29.335667+00:00"
+    },
+    {
+      "coin": "ZEC",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 933.775,
+      "stop_price": 1073.84125,
+      "tp_price": 653.6424999999999,
+      "grootte_usd": 59.40018655971783,
+      "geopend_op": "2026-11-13T15:45:29.335667+00:00"
     }
   ]
 }
