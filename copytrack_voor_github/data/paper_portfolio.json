@@ -1,5 +1,5 @@
 {
-  "capital": 894.8803186918627,
+  "capital": 895.3474257890938,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -100,16 +100,6 @@
       "tp_price": 264.49150000000003,
       "grootte_usd": 59.44173809805363,
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
-    },
-    {
-      "coin": "SOL",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 80.4105,
-      "stop_price": 92.47207499999999,
-      "tp_price": 56.287349999999996,
-      "grootte_usd": 59.430878547302136,
-      "geopend_op": "2026-11-13T07:15:31.003369+00:00"
     }
   ]
 }
