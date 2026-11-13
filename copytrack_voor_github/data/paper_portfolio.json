@@ -110,6 +110,16 @@
       "tp_price": 677.5264999999999,
       "grootte_usd": 59.72776078218041,
       "geopend_op": "2026-11-13T12:08:00.991943+00:00"
+    },
+    {
+      "coin": "XRP",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1.0236,
+      "stop_price": 1.17714,
+      "tp_price": 0.71652,
+      "grootte_usd": 59.7343752861397,
+      "geopend_op": "2026-11-13T13:30:35.316244+00:00"
     }
   ]
 }
