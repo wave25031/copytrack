@@ -1,5 +1,5 @@
 {
-  "capital": 891.4631782095321,
+  "capital": 894.8803186918627,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -100,26 +100,6 @@
       "tp_price": 264.49150000000003,
       "grootte_usd": 59.44173809805363,
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
-    },
-    {
-      "coin": "ZEC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 909.9,
-      "stop_price": 773.415,
-      "tp_price": 1182.8700000000001,
-      "grootte_usd": 59.44173809805363,
-      "geopend_op": "2026-11-13T04:30:39.944561+00:00"
-    },
-    {
-      "coin": "UNI",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 5.6727,
-      "stop_price": 4.821795,
-      "tp_price": 7.37451,
-      "grootte_usd": 59.3367027701745,
-      "geopend_op": "2026-11-13T06:00:44.646521+00:00"
     },
     {
       "coin": "SOL",
