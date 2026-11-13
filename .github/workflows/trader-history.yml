@@ -6,6 +6,9 @@ on:
       dagen:
         description: "Hoeveel dagen terugkijken"
         default: "60"
+      btc_dag:
+        description: "Optioneel: dag (JJJJ-MM-DD) om te zien wie hoe in BTC zat"
+        default: ""
 
 permissions:
   contents: write
@@ -27,6 +30,7 @@ jobs:
         working-directory: copytrack_voor_github
         env:
           DAGEN: ${{ inputs.dagen }}
+          BTC_DAG: ${{ inputs.btc_dag }}
         run: python trader_history.py
       - name: Rapport opslaan
         working-directory: copytrack_voor_github

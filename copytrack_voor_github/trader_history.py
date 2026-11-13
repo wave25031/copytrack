@@ -19,6 +19,7 @@ from wallets import WALLETS
 
 API = "https://api.hyperliquid.xyz/info"
 DAGEN = int(os.environ.get("DAGEN", "60"))
+BTC_DAG = os.environ.get("BTC_DAG", "")  # bv. 2026-11-12: wie zat die dag hoe in BTC
 EXTRA = [  # ter vergelijking, niet meer gevolgd
     {"address": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e", "label": "trader_19 (verwijderd)"},
 ]
@@ -109,12 +110,42 @@ def pnl_periods(addr):
     return res
 
 
+def pos_op(fs, t_ms, huidig):
+    """BTC-positie (in BTC) op tijdstip t_ms, afgeleid uit de fills."""
+    voor = [f for f in fs if f["time"] < t_ms]
+    na = [f for f in fs if f["time"] >= t_ms]
+    if voor:
+        f = voor[-1]
+        return float(f["startPosition"]) + float(f["sz"]) * (1 if f["side"] == "B" else -1)
+    if na:
+        return float(na[0]["startPosition"])
+    return huidig
+
+
+def btc_dag(label, addr, fs):
+    d0 = int(datetime.strptime(BTC_DAG, "%Y-%m-%d").replace(tzinfo=timezone.utc).timestamp() * 1000)
+    d1 = d0 + 86_400_000
+    btc = [f for f in fs if f["coin"] == "BTC"]
+    try:
+        st = post({"type": "clearinghouseState", "user": addr})
+        huidig = 0.0
+        for ap in st.get("assetPositions", []):
+            if ap["position"]["coin"] == "BTC":
+                huidig = float(ap["position"]["szi"])
+    except Exception:
+        huidig = 0.0
+    p0, p1 = pos_op(btc, d0, huidig), pos_op(btc, d1, huidig)
+    dag = [f for f in btc if d0 <= f["time"] < d1]
+    gerealiseerd = sum(float(f.get("closedPnl", 0) or 0) - float(f.get("fee", 0) or 0) for f in dag)
+    return {"label": label, "begin": p0, "eind": p1, "fills": len(dag), "gerealiseerd": gerealiseerd, "nu": huidig}
+
+
 def main():
     now = datetime.now(timezone.utc)
     start = now - timedelta(days=DAGEN)
     s_ms, e_ms = int(start.timestamp() * 1000), int(now.timestamp() * 1000)
     os.makedirs("output", exist_ok=True)
-    rows, all_trades = [], []
+    rows, all_trades, btc_rows = [], [], []
     for w in list(WALLETS) + EXTRA:
         label, addr = w["label"], w["address"]
         print(f"Ophalen {label}...", flush=True)
@@ -130,6 +161,8 @@ def main():
             t["netto"] = t["pnl"] - t["fee"]
             t["uren"] = (t["close"] - t["open"]) / 3_600_000
         all_trades += tr
+        if BTC_DAG:
+            btc_rows.append(btc_dag(label, addr, fs))
         p = pnl_periods(addr)
         n = len(tr)
         wins = sum(1 for t in tr if t["netto"] > 0)
@@ -140,7 +173,7 @@ def main():
             "netto": sum(t["netto"] for t in tr),
             "mediaan_uren": uren[n // 2] if n else 0,
             "coins": len({t["coin"] for t in tr}),
-            "pnl_maand": p.get("month"), "pnl_alltime": p.get("allTime"), "waarde": p.get("waarde"),
+            "pnl_week": p.get("week"), "pnl_maand": p.get("month"), "pnl_alltime": p.get("allTime"), "waarde": p.get("waarde"),
         })
         time.sleep(0.8)
 
@@ -159,14 +192,35 @@ def main():
     ok = sorted([r for r in rows if "fout" not in r], key=lambda r: -r["netto"])
     lines = [f"# Echte trade-geschiedenis van de gevolgde wallets ({DAGEN} dagen)", "",
              f"Gemaakt: {now:%Y-%m-%d %H:%M} UTC. Bron: Hyperliquid (openbaar). Alleen trades die in deze periode zijn geopend en gesloten.", "",
-             "| Trader | Trades | Winrate | Netto winst | Mediaan duur | Coins | PnL maand | PnL all-time | Accountwaarde |",
-             "|---|---|---|---|---|---|---|---|---|"]
+             "| Trader | Trades | Winrate | Netto winst | Mediaan duur | Coins | PnL week | PnL maand | PnL all-time | Accountwaarde |",
+             "|---|---|---|---|---|---|---|---|---|---|"]
     for r in ok:
         lines.append(f"| {r['label']} | {r['trades']} | {r['winrate']} | {m(r['netto'])} | {r['mediaan_uren']:.1f} uur | "
-                     f"{r['coins']} | {m(r['pnl_maand'])} | {m(r['pnl_alltime'])} | {m(r['waarde'])} |")
+                     f"{r['coins']} | {m(r['pnl_week'])} | {m(r['pnl_maand'])} | {m(r['pnl_alltime'])} | {m(r['waarde'])} |")
     for r in rows:
         if "fout" in r:
-            lines.append(f"| {r['label']} | fout: {r['fout']} | | | | | | | |")
+            lines.append(f"| {r['label']} | fout: {r['fout']} | | | | | | | | |")
+    if BTC_DAG:
+        try:
+            d0 = int(datetime.strptime(BTC_DAG, "%Y-%m-%d").replace(tzinfo=timezone.utc).timestamp() * 1000)
+            c = post({"type": "candleSnapshot", "req": {"coin": "BTC", "interval": "1d", "startTime": d0, "endTime": d0 + 86_399_000}})[0]
+            o, cl, hi, lo = float(c["o"]), float(c["c"]), float(c["h"]), float(c["l"])
+            lines += ["", f"## BTC op {BTC_DAG} (UTC): open ${o:,.0f}, hoog ${hi:,.0f}, laag ${lo:,.0f}, slot ${cl:,.0f}", ""]
+        except Exception as e:
+            o = cl = None
+            lines += ["", f"## BTC op {BTC_DAG}: koers ophalen mislukt ({e})", ""]
+        lines += ["| Trader | Positie begin dag | Positie eind dag | Fills die dag | Gerealiseerd | Geschat resultaat dag | Positie nu |", "|---|---|---|---|---|---|---|"]
+        def ps(x, px):
+            if abs(x) < 1e-9:
+                return "geen"
+            return f"{'LONG' if x > 0 else 'SHORT'} {abs(x):.2f} BTC" + (f" (${abs(x) * px:,.0f})" if px else "")
+        for b in btc_rows:
+            if abs(b["begin"]) < 1e-9 and abs(b["eind"]) < 1e-9 and b["fills"] == 0:
+                continue
+            # schatting: open positie gedurende de dag x koersverandering + gerealiseerd
+            schat = b["gerealiseerd"] + (b["eind"] * (cl - o) if o else 0) if b["fills"] == 0 else None
+            schat_txt = m(schat) if schat is not None else "zie gerealiseerd"
+            lines.append(f"| {b['label']} | {ps(b['begin'], o)} | {ps(b['eind'], cl)} | {b['fills']} | {m(b['gerealiseerd'])} | {schat_txt} | {ps(b['nu'], cl)} |")
     with open("output/trader_history.md", "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
     print("\n".join(lines))
