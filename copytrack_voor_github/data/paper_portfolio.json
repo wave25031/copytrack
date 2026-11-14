@@ -110,6 +110,36 @@
       "tp_price": 0.0015406999999999999,
       "grootte_usd": 59.68445413170232,
       "geopend_op": "2026-11-14T12:15:27.150608+00:00"
+    },
+    {
+      "coin": "ETHFI",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.5403,
+      "stop_price": 0.45925499999999997,
+      "tp_price": 0.7023900000000001,
+      "grootte_usd": 59.68445413170232,
+      "geopend_op": "2026-11-14T12:45:27.307189+00:00"
+    },
+    {
+      "coin": "UNI",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 5.44615,
+      "stop_price": 4.6292275,
+      "tp_price": 7.079995,
+      "grootte_usd": 59.68445413170232,
+      "geopend_op": "2026-11-14T12:45:27.307189+00:00"
+    },
+    {
+      "coin": "ZEC",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 891.275,
+      "stop_price": 757.58375,
+      "tp_price": 1158.6575,
+      "grootte_usd": 59.68445413170232,
+      "geopend_op": "2026-11-14T12:45:27.307189+00:00"
     }
   ]
 }
