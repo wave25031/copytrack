@@ -100,6 +100,16 @@
       "tp_price": 84.591,
       "grootte_usd": 58.31934970802615,
       "geopend_op": "2026-11-14T17:15:25.027490+00:00"
+    },
+    {
+      "coin": "ARB",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.13369,
+      "stop_price": 0.1136365,
+      "tp_price": 0.173797,
+      "grootte_usd": 59.60554041089095,
+      "geopend_op": "2026-11-14T18:30:36.004534+00:00"
     }
   ]
 }
