@@ -1,16 +1,6 @@
 {
-  "capital": 875.3034339095706,
+  "capital": 896.07553750313,
   "open_trades": [
-    {
-      "coin": "GRAM",
-      "richting": "SHORT",
-      "bron_wallet": "trader_04",
-      "instapprijs": 1.4807,
-      "stop_price": 1.7028049999999997,
-      "tp_price": 1.03649,
-      "grootte_usd": 68.0,
-      "geopend_op": "2026-08-21T16:05:07.794641+00:00"
-    },
     {
       "coin": "ASTER",
       "richting": "LONG",
@@ -92,16 +82,6 @@
       "geopend_op": "2026-11-14T15:45:32.741725+00:00"
     },
     {
-      "coin": "ZEC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 859.495,
-      "stop_price": 730.57075,
-      "tp_price": 1117.3435,
-      "grootte_usd": 58.32475578282247,
-      "geopend_op": "2026-11-14T16:45:26.643964+00:00"
-    },
-    {
       "coin": "FARTCOIN",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -118,16 +98,6 @@
       "instapprijs": 0.12961,
       "stop_price": 0.1101685,
       "tp_price": 0.168493,
-      "grootte_usd": 58.311905131626645,
-      "geopend_op": "2026-11-14T17:00:45.451466+00:00"
-    },
-    {
-      "coin": "ONDO",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.30588,
-      "stop_price": 0.35176199999999996,
-      "tp_price": 0.21411599999999997,
       "grootte_usd": 58.311905131626645,
       "geopend_op": "2026-11-14T17:00:45.451466+00:00"
     },
