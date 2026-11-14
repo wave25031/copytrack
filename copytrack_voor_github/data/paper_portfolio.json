@@ -1,5 +1,5 @@
 {
-  "capital": 876.3476336656728,
+  "capital": 875.9423386557538,
   "open_trades": [
     {
       "coin": "AVAX",
@@ -72,52 +72,12 @@
       "geopend_op": "2026-11-14T20:45:25.280999+00:00"
     },
     {
-      "coin": "ZEC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 819.555,
-      "stop_price": 696.6217499999999,
-      "tp_price": 1065.4215,
-      "grootte_usd": 58.53210069639702,
-      "geopend_op": "2026-11-14T21:15:31.984884+00:00"
-    },
-    {
       "coin": "AERO",
       "richting": "LONG",
       "bron_wallet": "trader_25",
       "instapprijs": 0.42855,
       "stop_price": 0.36426749999999997,
       "tp_price": 0.557115,
-      "grootte_usd": 58.396244829458205,
-      "geopend_op": "2026-11-14T21:30:44.500964+00:00"
-    },
-    {
-      "coin": "BNB",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 579.09,
-      "stop_price": 492.2265,
-      "tp_price": 752.8170000000001,
-      "grootte_usd": 58.396244829458205,
-      "geopend_op": "2026-11-14T21:30:44.500964+00:00"
-    },
-    {
-      "coin": "ETH",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 1779.65,
-      "stop_price": 1512.7025,
-      "tp_price": 2313.545,
-      "grootte_usd": 58.396244829458205,
-      "geopend_op": "2026-11-14T21:30:44.500964+00:00"
-    },
-    {
-      "coin": "LINK",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 8.78255,
-      "stop_price": 7.465167500000001,
-      "tp_price": 11.417315,
       "grootte_usd": 58.396244829458205,
       "geopend_op": "2026-11-14T21:30:44.500964+00:00"
     },
@@ -130,6 +90,26 @@
       "tp_price": 6.152444999999999,
       "grootte_usd": 58.396244829458205,
       "geopend_op": "2026-11-14T21:30:44.500964+00:00"
+    },
+    {
+      "coin": "XRP",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.90234,
+      "stop_price": 0.766989,
+      "tp_price": 1.1730420000000001,
+      "grootte_usd": 58.42317557771152,
+      "geopend_op": "2026-11-14T22:15:27.025115+00:00"
+    },
+    {
+      "coin": "kPEPE",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.003768,
+      "stop_price": 0.0032028,
+      "tp_price": 0.004898400000000001,
+      "grootte_usd": 58.42317557771152,
+      "geopend_op": "2026-11-14T22:15:27.025115+00:00"
     }
   ]
 }
