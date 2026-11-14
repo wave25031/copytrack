@@ -1,5 +1,5 @@
 {
-  "capital": 892.9377432017018,
+  "capital": 893.5216681498424,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -90,16 +90,6 @@
       "tp_price": 264.49150000000003,
       "grootte_usd": 59.44173809805363,
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
-    },
-    {
-      "coin": "HYPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 68.7985,
-      "stop_price": 58.478725000000004,
-      "tp_price": 89.43805,
-      "grootte_usd": 59.427752284991875,
-      "geopend_op": "2026-11-14T05:45:27.333371+00:00"
     },
     {
       "coin": "VVV",
