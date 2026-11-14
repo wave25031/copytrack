@@ -1,5 +1,5 @@
 {
-  "capital": 889.6926076447866,
+  "capital": 877.1572142723609,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -20,16 +20,6 @@
       "tp_price": 0.9024405000000001,
       "grootte_usd": 62.865330917074544,
       "geopend_op": "2026-10-13T16:23:10.828429+00:00"
-    },
-    {
-      "coin": "PUMP",
-      "richting": "LONG",
-      "bron_wallet": "trader_03",
-      "instapprijs": 0.003569,
-      "stop_price": 0.00303365,
-      "tp_price": 0.0046397,
-      "grootte_usd": 59.31223765307771,
-      "geopend_op": "2026-11-09T09:30:37.462775+00:00"
     },
     {
       "coin": "AVAX",
@@ -82,26 +72,6 @@
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
     },
     {
-      "coin": "NIL",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.051079,
-      "stop_price": 0.04341715,
-      "tp_price": 0.0664027,
-      "grootte_usd": 58.930084382157766,
-      "geopend_op": "2026-11-14T14:30:35.536109+00:00"
-    },
-    {
-      "coin": "OP",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.08558,
-      "stop_price": 0.072743,
-      "tp_price": 0.111254,
-      "grootte_usd": 58.930084382157766,
-      "geopend_op": "2026-11-14T14:30:35.536109+00:00"
-    },
-    {
       "coin": "XPL",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -132,14 +102,14 @@
       "geopend_op": "2026-11-14T15:45:32.741725+00:00"
     },
     {
-      "coin": "kBONK",
+      "coin": "LIT",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.002466,
-      "stop_price": 0.0020961,
-      "tp_price": 0.0032058,
+      "instapprijs": 2.91355,
+      "stop_price": 2.4765175,
+      "tp_price": 3.7876149999999997,
       "grootte_usd": 59.31284050965244,
-      "geopend_op": "2026-11-14T15:45:32.741725+00:00"
+      "geopend_op": "2026-11-14T16:15:26.421948+00:00"
     }
   ]
 }
