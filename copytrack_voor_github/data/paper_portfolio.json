@@ -1,5 +1,5 @@
 {
-  "capital": 875.9423386557538,
+  "capital": 872.7467494110847,
   "open_trades": [
     {
       "coin": "AVAX",
@@ -62,16 +62,6 @@
       "geopend_op": "2026-11-14T19:15:26.153643+00:00"
     },
     {
-      "coin": "XPL",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.043519,
-      "stop_price": 0.03699115,
-      "tp_price": 0.056574700000000006,
-      "grootte_usd": 58.96575425175546,
-      "geopend_op": "2026-11-14T20:45:25.280999+00:00"
-    },
-    {
       "coin": "AERO",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -110,16 +100,6 @@
       "tp_price": 0.004898400000000001,
       "grootte_usd": 58.42317557771152,
       "geopend_op": "2026-11-14T22:15:27.025115+00:00"
-    },
-    {
-      "coin": "LTC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 44.0355,
-      "stop_price": 37.430175,
-      "tp_price": 57.24615,
-      "grootte_usd": 58.396155910383584,
-      "geopend_op": "2026-11-14T22:30:35.752301+00:00"
     },
     {
       "coin": "ZEC",
