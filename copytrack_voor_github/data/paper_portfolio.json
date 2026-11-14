@@ -1,5 +1,5 @@
 {
-  "capital": 874.7902456203923,
+  "capital": 875.3034339095706,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -92,16 +92,6 @@
       "geopend_op": "2026-11-14T15:45:32.741725+00:00"
     },
     {
-      "coin": "ARB",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.13332,
-      "stop_price": 0.11332199999999999,
-      "tp_price": 0.173316,
-      "grootte_usd": 58.47714761815739,
-      "geopend_op": "2026-11-14T16:30:35.270727+00:00"
-    },
-    {
       "coin": "ZEC",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -140,6 +130,16 @@
       "tp_price": 0.21411599999999997,
       "grootte_usd": 58.311905131626645,
       "geopend_op": "2026-11-14T17:00:45.451466+00:00"
+    },
+    {
+      "coin": "HYPE",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 65.07,
+      "stop_price": 55.30949999999999,
+      "tp_price": 84.591,
+      "grootte_usd": 58.31934970802615,
+      "geopend_op": "2026-11-14T17:15:25.027490+00:00"
     }
   ]
 }
