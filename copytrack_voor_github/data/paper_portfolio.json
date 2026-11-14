@@ -1,5 +1,5 @@
 {
-  "capital": 891.0358290061056,
+  "capital": 891.4162842748782,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -90,26 +90,6 @@
       "tp_price": 264.49150000000003,
       "grootte_usd": 59.44173809805363,
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
-    },
-    {
-      "coin": "FET",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.143265,
-      "stop_price": 0.12177525,
-      "tp_price": 0.1862445,
-      "grootte_usd": 59.393900434937144,
-      "geopend_op": "2026-11-14T02:30:42.705778+00:00"
-    },
-    {
-      "coin": "OP",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.08931,
-      "stop_price": 0.0759135,
-      "tp_price": 0.116103,
-      "grootte_usd": 59.393900434937144,
-      "geopend_op": "2026-11-14T02:30:42.705778+00:00"
     }
   ]
 }
