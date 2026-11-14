@@ -1,5 +1,5 @@
 {
-  "capital": 885.4210729422286,
+  "capital": 883.0464015913315,
   "open_trades": [
     {
       "coin": "AVAX",
@@ -52,16 +52,6 @@
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
     },
     {
-      "coin": "ARB",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.13369,
-      "stop_price": 0.1136365,
-      "tp_price": 0.173797,
-      "grootte_usd": 59.60554041089095,
-      "geopend_op": "2026-11-14T18:30:36.004534+00:00"
-    },
-    {
       "coin": "HYPE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -72,14 +62,24 @@
       "geopend_op": "2026-11-14T19:15:26.153643+00:00"
     },
     {
-      "coin": "APT",
-      "richting": "LONG",
+      "coin": "LIT",
+      "richting": "SHORT",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.4678,
-      "stop_price": 0.39763,
-      "tp_price": 0.60814,
-      "grootte_usd": 59.65672483865265,
-      "geopend_op": "2026-11-14T19:30:38.048151+00:00"
+      "instapprijs": 2.84435,
+      "stop_price": 3.2710025,
+      "tp_price": 1.9910449999999997,
+      "grootte_usd": 59.028071529481906,
+      "geopend_op": "2026-11-14T20:15:26.420075+00:00"
+    },
+    {
+      "coin": "kBONK",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.002348,
+      "stop_price": 0.0027001999999999994,
+      "tp_price": 0.0016435999999999998,
+      "grootte_usd": 59.028071529481906,
+      "geopend_op": "2026-11-14T20:15:26.420075+00:00"
     }
   ]
 }
