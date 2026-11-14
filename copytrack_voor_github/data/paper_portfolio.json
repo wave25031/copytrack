@@ -1,5 +1,5 @@
 {
-  "capital": 876.3938231842509,
+  "capital": 876.3476336656728,
   "open_trades": [
     {
       "coin": "AVAX",
@@ -60,16 +60,6 @@
       "tp_price": 84.76325,
       "grootte_usd": 59.65672483865265,
       "geopend_op": "2026-11-14T19:15:26.153643+00:00"
-    },
-    {
-      "coin": "LIT",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 2.7447,
-      "stop_price": 2.332995,
-      "tp_price": 3.56811,
-      "grootte_usd": 58.96575425175546,
-      "geopend_op": "2026-11-14T20:45:25.280999+00:00"
     },
     {
       "coin": "XPL",
