@@ -1,5 +1,5 @@
 {
-  "capital": 1000.0,
+  "capital": 999.4090631724315,
   "open_trades": [
     {
       "coin": "ETH",
@@ -10,16 +10,6 @@
       "tp_price": 1372.105,
       "grootte_usd": 66.66666666666667,
       "geopend_op": "2026-11-13T14:45:37.124045+00:00"
-    },
-    {
-      "coin": "GRAM",
-      "richting": "LONG",
-      "bron_wallet": "trader_04",
-      "instapprijs": 1.0379,
-      "stop_price": 0.882215,
-      "tp_price": 1.3492700000000002,
-      "grootte_usd": 66.66666666666667,
-      "geopend_op": "2026-11-14T17:30:36.169729+00:00"
     }
   ]
 }

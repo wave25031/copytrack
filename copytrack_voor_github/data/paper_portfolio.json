@@ -1,5 +1,5 @@
 {
-  "capital": 877.9815104459553,
+  "capital": 875.9436724418731,
   "open_trades": [
     {
       "coin": "AVAX",
@@ -62,16 +62,6 @@
       "geopend_op": "2026-11-14T19:15:26.153643+00:00"
     },
     {
-      "coin": "FET",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.12775,
-      "stop_price": 0.1085875,
-      "tp_price": 0.166075,
-      "grootte_usd": 58.96575425175546,
-      "geopend_op": "2026-11-14T20:45:25.280999+00:00"
-    },
-    {
       "coin": "LIT",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -90,6 +80,26 @@
       "tp_price": 0.056574700000000006,
       "grootte_usd": 58.96575425175546,
       "geopend_op": "2026-11-14T20:45:25.280999+00:00"
+    },
+    {
+      "coin": "PENGU",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.004681,
+      "stop_price": 0.00397885,
+      "tp_price": 0.006085300000000001,
+      "grootte_usd": 58.53210069639702,
+      "geopend_op": "2026-11-14T21:15:31.984884+00:00"
+    },
+    {
+      "coin": "ZEC",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 819.555,
+      "stop_price": 696.6217499999999,
+      "tp_price": 1065.4215,
+      "grootte_usd": 58.53210069639702,
+      "geopend_op": "2026-11-14T21:15:31.984884+00:00"
     }
   ]
 }
