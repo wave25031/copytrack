@@ -1,5 +1,5 @@
 {
-  "capital": 896.07553750313,
+  "capital": 894.0831061633643,
   "open_trades": [
     {
       "coin": "ASTER",
@@ -60,16 +60,6 @@
       "tp_price": 264.49150000000003,
       "grootte_usd": 59.44173809805363,
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
-    },
-    {
-      "coin": "XPL",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.047264,
-      "stop_price": 0.0401744,
-      "tp_price": 0.0614432,
-      "grootte_usd": 58.930084382157766,
-      "geopend_op": "2026-11-14T14:30:35.536109+00:00"
     },
     {
       "coin": "ETH",
