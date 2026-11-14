@@ -1,5 +1,5 @@
 {
-  "capital": 884.4863137763319,
+  "capital": 877.9815104459553,
   "open_trades": [
     {
       "coin": "AVAX",
@@ -62,26 +62,6 @@
       "geopend_op": "2026-11-14T19:15:26.153643+00:00"
     },
     {
-      "coin": "W",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.00873,
-      "stop_price": 0.0074205,
-      "tp_price": 0.011349,
-      "grootte_usd": 58.86976010608876,
-      "geopend_op": "2026-11-14T20:30:45.517062+00:00"
-    },
-    {
-      "coin": "ZEC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 844.415,
-      "stop_price": 717.75275,
-      "tp_price": 1097.7395,
-      "grootte_usd": 58.86976010608876,
-      "geopend_op": "2026-11-14T20:30:45.517062+00:00"
-    },
-    {
       "coin": "FET",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -92,52 +72,12 @@
       "geopend_op": "2026-11-14T20:45:25.280999+00:00"
     },
     {
-      "coin": "JUP",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.249745,
-      "stop_price": 0.21228324999999998,
-      "tp_price": 0.3246685,
-      "grootte_usd": 58.96575425175546,
-      "geopend_op": "2026-11-14T20:45:25.280999+00:00"
-    },
-    {
-      "coin": "LINK",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 8.9399,
-      "stop_price": 7.598915,
-      "tp_price": 11.62187,
-      "grootte_usd": 58.96575425175546,
-      "geopend_op": "2026-11-14T20:45:25.280999+00:00"
-    },
-    {
       "coin": "LIT",
       "richting": "LONG",
       "bron_wallet": "trader_25",
       "instapprijs": 2.7447,
       "stop_price": 2.332995,
       "tp_price": 3.56811,
-      "grootte_usd": 58.96575425175546,
-      "geopend_op": "2026-11-14T20:45:25.280999+00:00"
-    },
-    {
-      "coin": "OP",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.08033,
-      "stop_price": 0.0682805,
-      "tp_price": 0.10442900000000001,
-      "grootte_usd": 58.96575425175546,
-      "geopend_op": "2026-11-14T20:45:25.280999+00:00"
-    },
-    {
-      "coin": "WLD",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.25398,
-      "stop_price": 0.215883,
-      "tp_price": 0.33017399999999997,
       "grootte_usd": 58.96575425175546,
       "geopend_op": "2026-11-14T20:45:25.280999+00:00"
     },
