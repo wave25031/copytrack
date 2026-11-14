@@ -1,16 +1,6 @@
 {
-  "capital": 894.8508725797898,
+  "capital": 885.4210729422286,
   "open_trades": [
-    {
-      "coin": "ASTER",
-      "richting": "LONG",
-      "bron_wallet": "naked_shorts_only",
-      "instapprijs": 0.694185,
-      "stop_price": 0.59005725,
-      "tp_price": 0.9024405000000001,
-      "grootte_usd": 62.865330917074544,
-      "geopend_op": "2026-10-13T16:23:10.828429+00:00"
-    },
     {
       "coin": "AVAX",
       "richting": "SHORT",
