@@ -100,6 +100,16 @@
       "tp_price": 90.13485000000001,
       "grootte_usd": 59.568111209989496,
       "geopend_op": "2026-11-14T08:45:24.793294+00:00"
+    },
+    {
+      "coin": "SOPH",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.002201,
+      "stop_price": 0.00253115,
+      "tp_price": 0.0015406999999999999,
+      "grootte_usd": 59.68445413170232,
+      "geopend_op": "2026-11-14T12:15:27.150608+00:00"
     }
   ]
 }
