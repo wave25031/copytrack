@@ -80,6 +80,26 @@
       "tp_price": 81.24675,
       "grootte_usd": 58.04973870753839,
       "geopend_op": "2026-11-14T23:15:25.362835+00:00"
+    },
+    {
+      "coin": "BNB",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 577.41,
+      "stop_price": 490.79849999999993,
+      "tp_price": 750.633,
+      "grootte_usd": 58.00340667370909,
+      "geopend_op": "2026-11-14T23:45:31.607547+00:00"
+    },
+    {
+      "coin": "ETH",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1750.55,
+      "stop_price": 2013.1324999999997,
+      "tp_price": 1225.385,
+      "grootte_usd": 58.00340667370909,
+      "geopend_op": "2026-11-14T23:45:31.607547+00:00"
     }
   ]
 }
