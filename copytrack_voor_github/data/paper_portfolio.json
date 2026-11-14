@@ -1,5 +1,5 @@
 {
-  "capital": 870.7460806130758,
+  "capital": 870.0511001056364,
   "open_trades": [
     {
       "coin": "AVAX",
@@ -52,26 +52,6 @@
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
     },
     {
-      "coin": "AERO",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.42855,
-      "stop_price": 0.36426749999999997,
-      "tp_price": 0.557115,
-      "grootte_usd": 58.396244829458205,
-      "geopend_op": "2026-11-14T21:30:44.500964+00:00"
-    },
-    {
-      "coin": "UNI",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 4.73265,
-      "stop_price": 4.022752499999999,
-      "tp_price": 6.152444999999999,
-      "grootte_usd": 58.396244829458205,
-      "geopend_op": "2026-11-14T21:30:44.500964+00:00"
-    },
-    {
       "coin": "XRP",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -92,14 +72,14 @@
       "geopend_op": "2026-11-14T22:15:27.025115+00:00"
     },
     {
-      "coin": "ETH",
+      "coin": "HYPE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 1750.85,
-      "stop_price": 1488.2224999999999,
-      "tp_price": 2276.105,
-      "grootte_usd": 58.036542380725656,
-      "geopend_op": "2026-11-14T23:00:46.348570+00:00"
+      "instapprijs": 62.4975,
+      "stop_price": 53.122875,
+      "tp_price": 81.24675,
+      "grootte_usd": 58.04973870753839,
+      "geopend_op": "2026-11-14T23:15:25.362835+00:00"
     }
   ]
 }
