@@ -1,5 +1,5 @@
 {
-  "capital": 874.6785769743997,
+  "capital": 874.7902456203923,
   "open_trades": [
     {
       "coin": "GRAM",
@@ -92,16 +92,6 @@
       "geopend_op": "2026-11-14T15:45:32.741725+00:00"
     },
     {
-      "coin": "APT",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.4713,
-      "stop_price": 0.541995,
-      "tp_price": 0.32991,
-      "grootte_usd": 58.47714761815739,
-      "geopend_op": "2026-11-14T16:30:35.270727+00:00"
-    },
-    {
       "coin": "ARB",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -120,6 +110,36 @@
       "tp_price": 1117.3435,
       "grootte_usd": 58.32475578282247,
       "geopend_op": "2026-11-14T16:45:26.643964+00:00"
+    },
+    {
+      "coin": "FARTCOIN",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.09535,
+      "stop_price": 0.0810475,
+      "tp_price": 0.12395500000000001,
+      "grootte_usd": 58.311905131626645,
+      "geopend_op": "2026-11-14T17:00:45.451466+00:00"
+    },
+    {
+      "coin": "FET",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.12961,
+      "stop_price": 0.1101685,
+      "tp_price": 0.168493,
+      "grootte_usd": 58.311905131626645,
+      "geopend_op": "2026-11-14T17:00:45.451466+00:00"
+    },
+    {
+      "coin": "ONDO",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.30588,
+      "stop_price": 0.35176199999999996,
+      "tp_price": 0.21411599999999997,
+      "grootte_usd": 58.311905131626645,
+      "geopend_op": "2026-11-14T17:00:45.451466+00:00"
     }
   ]
 }
