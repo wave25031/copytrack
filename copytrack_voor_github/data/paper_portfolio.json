@@ -1,5 +1,5 @@
 {
-  "capital": 894.4005041576554,
+  "capital": 894.8508725797898,
   "open_trades": [
     {
       "coin": "ASTER",
@@ -60,16 +60,6 @@
       "tp_price": 264.49150000000003,
       "grootte_usd": 59.44173809805363,
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
-    },
-    {
-      "coin": "HYPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 65.07,
-      "stop_price": 55.30949999999999,
-      "tp_price": 84.591,
-      "grootte_usd": 58.31934970802615,
-      "geopend_op": "2026-11-14T17:15:25.027490+00:00"
     },
     {
       "coin": "ARB",
