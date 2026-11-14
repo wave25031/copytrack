@@ -110,6 +110,36 @@
       "tp_price": 0.0614432,
       "grootte_usd": 58.930084382157766,
       "geopend_op": "2026-11-14T14:30:35.536109+00:00"
+    },
+    {
+      "coin": "ETH",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1838.55,
+      "stop_price": 1562.7675,
+      "tp_price": 2390.1150000000002,
+      "grootte_usd": 59.31284050965244,
+      "geopend_op": "2026-11-14T15:45:32.741725+00:00"
+    },
+    {
+      "coin": "FIL",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.66366,
+      "stop_price": 0.564111,
+      "tp_price": 0.862758,
+      "grootte_usd": 59.31284050965244,
+      "geopend_op": "2026-11-14T15:45:32.741725+00:00"
+    },
+    {
+      "coin": "kBONK",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.002466,
+      "stop_price": 0.0020961,
+      "tp_price": 0.0032058,
+      "grootte_usd": 59.31284050965244,
+      "geopend_op": "2026-11-14T15:45:32.741725+00:00"
     }
   ]
 }
