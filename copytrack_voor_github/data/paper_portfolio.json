@@ -100,6 +100,16 @@
       "tp_price": 1174.9660000000001,
       "grootte_usd": 59.427752284991875,
       "geopend_op": "2026-11-14T04:45:26.073359+00:00"
+    },
+    {
+      "coin": "HYPE",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 68.7985,
+      "stop_price": 58.478725000000004,
+      "tp_price": 89.43805,
+      "grootte_usd": 59.427752284991875,
+      "geopend_op": "2026-11-14T05:45:27.333371+00:00"
     }
   ]
 }
