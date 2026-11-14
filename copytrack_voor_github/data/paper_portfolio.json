@@ -1,5 +1,5 @@
 {
-  "capital": 894.0831061633643,
+  "capital": 894.4005041576554,
   "open_trades": [
     {
       "coin": "ASTER",
@@ -60,36 +60,6 @@
       "tp_price": 264.49150000000003,
       "grootte_usd": 59.44173809805363,
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
-    },
-    {
-      "coin": "ETH",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 1838.55,
-      "stop_price": 1562.7675,
-      "tp_price": 2390.1150000000002,
-      "grootte_usd": 59.31284050965244,
-      "geopend_op": "2026-11-14T15:45:32.741725+00:00"
-    },
-    {
-      "coin": "FARTCOIN",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.09535,
-      "stop_price": 0.0810475,
-      "tp_price": 0.12395500000000001,
-      "grootte_usd": 58.311905131626645,
-      "geopend_op": "2026-11-14T17:00:45.451466+00:00"
-    },
-    {
-      "coin": "FET",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.12961,
-      "stop_price": 0.1101685,
-      "tp_price": 0.168493,
-      "grootte_usd": 58.311905131626645,
-      "geopend_op": "2026-11-14T17:00:45.451466+00:00"
     },
     {
       "coin": "HYPE",
