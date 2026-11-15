@@ -40,6 +40,16 @@
       "tp_price": 92.05365,
       "grootte_usd": 60.90279994653632,
       "geopend_op": "2026-11-15T18:30:38.197535+00:00"
+    },
+    {
+      "coin": "BTC",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 65004.5,
+      "stop_price": 74755.17499999999,
+      "tp_price": 45503.149999999994,
+      "grootte_usd": 60.88490956368863,
+      "geopend_op": "2026-11-15T19:15:28.252321+00:00"
     }
   ]
 }
