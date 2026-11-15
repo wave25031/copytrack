@@ -1,5 +1,5 @@
 {
-  "capital": 913.5419991980448,
+  "capital": 913.2736434553294,
   "open_trades": [
     {
       "coin": "VVV",
@@ -10,16 +10,6 @@
       "tp_price": 24.1826,
       "grootte_usd": 58.58603874383343,
       "geopend_op": "2026-11-15T03:15:26.239980+00:00"
-    },
-    {
-      "coin": "BTC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 64829.5,
-      "stop_price": 55105.075,
-      "tp_price": 84278.35,
-      "grootte_usd": 60.82996021805533,
-      "geopend_op": "2026-11-15T16:30:36.113095+00:00"
     },
     {
       "coin": "HYPE",
@@ -40,6 +30,16 @@
       "tp_price": 8.880040000000001,
       "grootte_usd": 60.90279994653632,
       "geopend_op": "2026-11-15T18:15:25.364665+00:00"
+    },
+    {
+      "coin": "SOL",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 70.8105,
+      "stop_price": 60.188925000000005,
+      "tp_price": 92.05365,
+      "grootte_usd": 60.90279994653632,
+      "geopend_op": "2026-11-15T18:30:38.197535+00:00"
     }
   ]
 }
