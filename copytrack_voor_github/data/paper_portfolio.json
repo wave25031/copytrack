@@ -1,5 +1,5 @@
 {
-  "capital": 913.3371212971299,
+  "capital": 913.3062972047829,
   "open_trades": [
     {
       "coin": "VVV",
@@ -30,16 +30,6 @@
       "tp_price": 1151.7155,
       "grootte_usd": 60.91686424022182,
       "geopend_op": "2026-11-15T14:45:28.789631+00:00"
-    },
-    {
-      "coin": "SOL",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 71.1135,
-      "stop_price": 81.780525,
-      "tp_price": 49.77945,
-      "grootte_usd": 60.88914141980866,
-      "geopend_op": "2026-11-15T15:15:28.627637+00:00"
     }
   ]
 }
