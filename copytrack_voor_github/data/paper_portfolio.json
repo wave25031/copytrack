@@ -1,5 +1,5 @@
 {
-  "capital": 879.5582454071964,
+  "capital": 875.3277454555619,
   "open_trades": [
     {
       "coin": "AVAX",
@@ -30,16 +30,6 @@
       "tp_price": 401.5165,
       "grootte_usd": 60.24621657474514,
       "geopend_op": "2026-11-12T04:00:45.283173+00:00"
-    },
-    {
-      "coin": "TAO",
-      "richting": "LONG",
-      "bron_wallet": "trader_03",
-      "instapprijs": 203.455,
-      "stop_price": 172.93675000000002,
-      "tp_price": 264.49150000000003,
-      "grootte_usd": 59.44173809805363,
-      "geopend_op": "2026-11-13T04:15:27.484248+00:00"
     },
     {
       "coin": "USELESS",

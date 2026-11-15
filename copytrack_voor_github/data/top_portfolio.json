@@ -10,6 +10,16 @@
       "tp_price": 1372.105,
       "grootte_usd": 66.66666666666667,
       "geopend_op": "2026-11-13T14:45:37.124045+00:00"
+    },
+    {
+      "coin": "TAO",
+      "richting": "SHORT",
+      "bron_wallet": "trader_03",
+      "instapprijs": 188.975,
+      "stop_price": 217.32124999999996,
+      "tp_price": 132.2825,
+      "grootte_usd": 66.6272708781621,
+      "geopend_op": "2026-11-15T05:15:26.377717+00:00"
     }
   ]
 }
