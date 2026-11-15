@@ -1,5 +1,5 @@
 {
-  "capital": 870.4021884247244,
+  "capital": 880.8313518115697,
   "open_trades": [
     {
       "coin": "AVAX",
@@ -22,16 +22,6 @@
       "geopend_op": "2026-11-10T02:45:26.181780+00:00"
     },
     {
-      "coin": "BTC",
-      "richting": "SHORT",
-      "bron_wallet": "trader_08",
-      "instapprijs": 73922.5,
-      "stop_price": 85010.875,
-      "tp_price": 51745.75,
-      "grootte_usd": 59.0420507149128,
-      "geopend_op": "2026-11-10T21:15:30.349161+00:00"
-    },
-    {
       "coin": "XMR",
       "richting": "SHORT",
       "bron_wallet": "trader_16",
@@ -52,26 +42,6 @@
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
     },
     {
-      "coin": "XRP",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.90234,
-      "stop_price": 0.766989,
-      "tp_price": 1.1730420000000001,
-      "grootte_usd": 58.42317557771152,
-      "geopend_op": "2026-11-14T22:15:27.025115+00:00"
-    },
-    {
-      "coin": "kPEPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.003768,
-      "stop_price": 0.0032028,
-      "tp_price": 0.004898400000000001,
-      "grootte_usd": 58.42317557771152,
-      "geopend_op": "2026-11-14T22:15:27.025115+00:00"
-    },
-    {
       "coin": "HYPE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -82,14 +52,14 @@
       "geopend_op": "2026-11-14T23:15:25.362835+00:00"
     },
     {
-      "coin": "ETH",
-      "richting": "SHORT",
+      "coin": "ZEC",
+      "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 1750.55,
-      "stop_price": 2013.1324999999997,
-      "tp_price": 1225.385,
-      "grootte_usd": 58.00340667370909,
-      "geopend_op": "2026-11-14T23:45:31.607547+00:00"
+      "instapprijs": 867.65,
+      "stop_price": 737.5024999999999,
+      "tp_price": 1127.945,
+      "grootte_usd": 58.02681256164829,
+      "geopend_op": "2026-11-15T00:15:32.814548+00:00"
     }
   ]
 }
