@@ -1,5 +1,5 @@
 {
-  "capital": 914.8771560983979,
+  "capital": 914.8234714886862,
   "open_trades": [
     {
       "coin": "VVV",
@@ -10,16 +10,6 @@
       "tp_price": 24.1826,
       "grootte_usd": 58.58603874383343,
       "geopend_op": "2026-11-15T03:15:26.239980+00:00"
-    },
-    {
-      "coin": "ETH",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 1816.25,
-      "stop_price": 1543.8125,
-      "tp_price": 2361.125,
-      "grootte_usd": 60.94042024302626,
-      "geopend_op": "2026-11-15T20:15:26.844501+00:00"
     },
     {
       "coin": "ASTER",
