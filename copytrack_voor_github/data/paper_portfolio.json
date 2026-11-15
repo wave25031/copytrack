@@ -1,36 +1,6 @@
 {
-  "capital": 875.3277454555619,
+  "capital": 906.7833741012215,
   "open_trades": [
-    {
-      "coin": "AVAX",
-      "richting": "SHORT",
-      "bron_wallet": "trader_16",
-      "instapprijs": 8.8827,
-      "stop_price": 10.215105,
-      "tp_price": 6.21789,
-      "grootte_usd": 59.17013490917444,
-      "geopend_op": "2026-11-09T15:30:41.670741+00:00"
-    },
-    {
-      "coin": "AAVE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_16",
-      "instapprijs": 131.11,
-      "stop_price": 150.7765,
-      "tp_price": 91.777,
-      "grootte_usd": 59.10140584635881,
-      "geopend_op": "2026-11-10T02:45:26.181780+00:00"
-    },
-    {
-      "coin": "XMR",
-      "richting": "SHORT",
-      "bron_wallet": "trader_16",
-      "instapprijs": 573.595,
-      "stop_price": 659.63425,
-      "tp_price": 401.5165,
-      "grootte_usd": 60.24621657474514,
-      "geopend_op": "2026-11-12T04:00:45.283173+00:00"
-    },
     {
       "coin": "USELESS",
       "richting": "LONG",
