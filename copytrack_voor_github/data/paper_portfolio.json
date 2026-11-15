@@ -1,16 +1,6 @@
 {
-  "capital": 906.0749550808038,
+  "capital": 913.5908380920836,
   "open_trades": [
-    {
-      "coin": "USELESS",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.095165,
-      "stop_price": 0.08089025,
-      "tp_price": 0.1237145,
-      "grootte_usd": 58.74057995400862,
-      "geopend_op": "2026-11-15T02:00:45.324175+00:00"
-    },
     {
       "coin": "VVV",
       "richting": "LONG",
@@ -22,14 +12,14 @@
       "geopend_op": "2026-11-15T03:15:26.239980+00:00"
     },
     {
-      "coin": "HYPE",
-      "richting": "LONG",
+      "coin": "ZEC",
+      "richting": "SHORT",
       "bron_wallet": "trader_25",
-      "instapprijs": 64.7035,
-      "stop_price": 54.997975000000004,
-      "tp_price": 84.11455000000001,
-      "grootte_usd": 60.452224940081436,
-      "geopend_op": "2026-11-15T07:45:28.219252+00:00"
+      "instapprijs": 916.795,
+      "stop_price": 1054.31425,
+      "tp_price": 641.7565,
+      "grootte_usd": 60.40499700538692,
+      "geopend_op": "2026-11-15T09:15:28.467950+00:00"
     }
   ]
 }
