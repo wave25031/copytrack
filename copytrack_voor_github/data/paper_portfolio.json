@@ -1,5 +1,5 @@
 {
-  "capital": 914.8234714886862,
+  "capital": 921.9501939848509,
   "open_trades": [
     {
       "coin": "VVV",
@@ -10,16 +10,6 @@
       "tp_price": 24.1826,
       "grootte_usd": 58.58603874383343,
       "geopend_op": "2026-11-15T03:15:26.239980+00:00"
-    },
-    {
-      "coin": "ASTER",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.589445,
-      "stop_price": 0.6778617499999999,
-      "tp_price": 0.41261149999999996,
-      "grootte_usd": 60.99181040655986,
-      "geopend_op": "2026-11-15T21:15:29.163060+00:00"
     }
   ]
 }
