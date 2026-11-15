@@ -1,5 +1,5 @@
 {
-  "capital": 880.4398909599998,
+  "capital": 881.1086993101294,
   "open_trades": [
     {
       "coin": "AVAX",
@@ -42,16 +42,6 @@
       "geopend_op": "2026-11-13T04:15:27.484248+00:00"
     },
     {
-      "coin": "HYPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 62.4975,
-      "stop_price": 53.122875,
-      "tp_price": 81.24675,
-      "grootte_usd": 58.04973870753839,
-      "geopend_op": "2026-11-14T23:15:25.362835+00:00"
-    },
-    {
       "coin": "ETH",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -62,14 +52,14 @@
       "geopend_op": "2026-11-15T01:15:26.262624+00:00"
     },
     {
-      "coin": "SOL",
+      "coin": "BTC",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
-      "instapprijs": 68.4265,
-      "stop_price": 78.69047499999999,
-      "tp_price": 47.89855,
-      "grootte_usd": 58.71357430510118,
-      "geopend_op": "2026-11-15T01:30:38.970572+00:00"
+      "instapprijs": 62111.5,
+      "stop_price": 71428.22499999999,
+      "tp_price": 43478.049999999996,
+      "grootte_usd": 58.69599273066665,
+      "geopend_op": "2026-11-15T01:45:25.719742+00:00"
     }
   ]
 }
