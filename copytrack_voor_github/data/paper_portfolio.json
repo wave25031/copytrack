@@ -1,5 +1,5 @@
 {
-  "capital": 879.4659327160141,
+  "capital": 880.0907914154774,
   "open_trades": [
     {
       "coin": "AVAX",
@@ -60,16 +60,6 @@
       "tp_price": 24.1826,
       "grootte_usd": 58.58603874383343,
       "geopend_op": "2026-11-15T03:15:26.239980+00:00"
-    },
-    {
-      "coin": "ZEC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 904.53,
-      "stop_price": 768.8505,
-      "tp_price": 1175.889,
-      "grootte_usd": 58.631062181067605,
-      "geopend_op": "2026-11-15T03:30:38.288536+00:00"
     }
   ]
 }
