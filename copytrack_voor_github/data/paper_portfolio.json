@@ -1,5 +1,5 @@
 {
-  "capital": 913.7864065474984,
+  "capital": 913.7529636033273,
   "open_trades": [
     {
       "coin": "VVV",
@@ -12,16 +12,6 @@
       "geopend_op": "2026-11-15T03:15:26.239980+00:00"
     },
     {
-      "coin": "ETH",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 1821.05,
-      "stop_price": 1547.8925,
-      "tp_price": 2367.3650000000002,
-      "grootte_usd": 60.901273482695856,
-      "geopend_op": "2026-11-15T12:00:46.466259+00:00"
-    },
-    {
       "coin": "BTC",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -30,6 +20,16 @@
       "tp_price": 85187.05,
       "grootte_usd": 60.901273482695856,
       "geopend_op": "2026-11-15T13:15:27.037746+00:00"
+    },
+    {
+      "coin": "HYPE",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 67.5345,
+      "stop_price": 57.40432499999999,
+      "tp_price": 87.79485,
+      "grootte_usd": 60.919093769833225,
+      "geopend_op": "2026-11-15T14:15:25.442274+00:00"
     }
   ]
 }
