@@ -1,5 +1,5 @@
 {
-  "capital": 914.106303645394,
+  "capital": 914.1976917257729,
   "open_trades": [
     {
       "coin": "VVV",
@@ -12,16 +12,6 @@
       "geopend_op": "2026-11-15T03:15:26.239980+00:00"
     },
     {
-      "coin": "INJ",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 6.8308,
-      "stop_price": 5.8061799999999995,
-      "tp_price": 8.880040000000001,
-      "grootte_usd": 60.90279994653632,
-      "geopend_op": "2026-11-15T18:15:25.364665+00:00"
-    },
-    {
       "coin": "SOL",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -30,6 +20,16 @@
       "tp_price": 92.05365,
       "grootte_usd": 60.90279994653632,
       "geopend_op": "2026-11-15T18:30:38.197535+00:00"
+    },
+    {
+      "coin": "ETH",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1816.25,
+      "stop_price": 1543.8125,
+      "tp_price": 2361.125,
+      "grootte_usd": 60.94042024302626,
+      "geopend_op": "2026-11-15T20:15:26.844501+00:00"
     }
   ]
 }
