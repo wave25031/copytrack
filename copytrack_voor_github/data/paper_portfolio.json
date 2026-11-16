@@ -50,6 +50,16 @@
       "tp_price": 84565.65000000001,
       "grootte_usd": 61.50813332516379,
       "geopend_op": "2026-11-16T00:15:28.575954+00:00"
+    },
+    {
+      "coin": "ASTER",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.492705,
+      "stop_price": 0.41879925,
+      "tp_price": 0.6405165,
+      "grootte_usd": 61.50813332516379,
+      "geopend_op": "2026-11-16T00:30:39.202919+00:00"
     }
   ]
 }
