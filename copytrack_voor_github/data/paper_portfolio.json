@@ -40,6 +40,26 @@
       "tp_price": 348.82399999999996,
       "grootte_usd": 61.65986042547904,
       "geopend_op": "2026-11-16T03:30:49.362213+00:00"
+    },
+    {
+      "coin": "PUMP",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.002839,
+      "stop_price": 0.0024131499999999998,
+      "tp_price": 0.0036907,
+      "grootte_usd": 61.91443033896717,
+      "geopend_op": "2026-11-16T18:00:46.822697+00:00"
+    },
+    {
+      "coin": "SOL",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 71.0985,
+      "stop_price": 81.763275,
+      "tp_price": 49.76895,
+      "grootte_usd": 61.91443033896717,
+      "geopend_op": "2026-11-16T18:00:46.822697+00:00"
     }
   ]
 }
