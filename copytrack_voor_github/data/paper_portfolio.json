@@ -60,6 +60,16 @@
       "tp_price": 621.5825,
       "grootte_usd": 61.91443033896717,
       "geopend_op": "2026-11-16T18:15:25.164705+00:00"
+    },
+    {
+      "coin": "kPEPE",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.003904,
+      "stop_price": 0.0044896,
+      "tp_price": 0.0027327999999999996,
+      "grootte_usd": 61.91234035629787,
+      "geopend_op": "2026-11-16T19:30:40.213193+00:00"
     }
   ]
 }
