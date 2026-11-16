@@ -1,5 +1,5 @@
 {
-  "capital": 923.7761992745419,
+  "capital": 924.1036298812026,
   "open_trades": [
     {
       "coin": "VVV",
@@ -42,14 +42,14 @@
       "geopend_op": "2026-11-16T03:30:49.362213+00:00"
     },
     {
-      "coin": "ENA",
+      "coin": "LIT",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.116735,
-      "stop_price": 0.09922475,
-      "tp_price": 0.15175550000000002,
-      "grootte_usd": 61.64937398150051,
-      "geopend_op": "2026-11-16T09:00:49.793984+00:00"
+      "instapprijs": 2.61765,
+      "stop_price": 2.2250025,
+      "tp_price": 3.402945,
+      "grootte_usd": 61.585079951636125,
+      "geopend_op": "2026-11-16T11:00:52.213891+00:00"
     }
   ]
 }
