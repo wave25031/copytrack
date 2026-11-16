@@ -1,5 +1,5 @@
 {
-  "capital": 999.4090631724315,
+  "capital": 999.6403278891556,
   "open_trades": [
     {
       "coin": "ETH",
@@ -20,16 +20,6 @@
       "tp_price": 132.2825,
       "grootte_usd": 66.6272708781621,
       "geopend_op": "2026-11-15T05:15:26.377717+00:00"
-    },
-    {
-      "coin": "SOL",
-      "richting": "LONG",
-      "bron_wallet": "trader_09",
-      "instapprijs": 70.8725,
-      "stop_price": 60.241625,
-      "tp_price": 92.13425000000001,
-      "grootte_usd": 66.6272708781621,
-      "geopend_op": "2026-11-16T07:15:37.734457+00:00"
     }
   ]
 }
