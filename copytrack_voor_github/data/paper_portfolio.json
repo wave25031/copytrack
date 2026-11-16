@@ -1,5 +1,5 @@
 {
-  "capital": 924.7406097225077,
+  "capital": 923.8098187348133,
   "open_trades": [
     {
       "coin": "VVV",
@@ -52,24 +52,14 @@
       "geopend_op": "2026-11-16T09:00:49.793984+00:00"
     },
     {
-      "coin": "ZEC",
-      "richting": "SHORT",
+      "coin": "LIT",
+      "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 879.615,
-      "stop_price": 1011.55725,
-      "tp_price": 615.7305,
+      "instapprijs": 2.47555,
+      "stop_price": 2.1042175,
+      "tp_price": 3.2182150000000003,
       "grootte_usd": 61.64937398150051,
-      "geopend_op": "2026-11-16T09:15:30.366447+00:00"
-    },
-    {
-      "coin": "ZRO",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 1.42265,
-      "stop_price": 1.6360474999999999,
-      "tp_price": 0.9958549999999999,
-      "grootte_usd": 61.64937398150051,
-      "geopend_op": "2026-11-16T10:00:45.260097+00:00"
+      "geopend_op": "2026-11-16T10:30:37.169038+00:00"
     }
   ]
 }
