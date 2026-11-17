@@ -70,6 +70,16 @@
       "tp_price": 666.183,
       "grootte_usd": 61.833382272655705,
       "geopend_op": "2026-11-17T12:00:48.981361+00:00"
+    },
+    {
+      "coin": "INJ",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 7.7088,
+      "stop_price": 8.86512,
+      "tp_price": 5.39616,
+      "grootte_usd": 61.833382272655705,
+      "geopend_op": "2026-11-17T12:30:43.610008+00:00"
     }
   ]
 }
