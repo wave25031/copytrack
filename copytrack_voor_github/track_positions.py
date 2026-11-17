@@ -303,6 +303,9 @@ def main():
     # --- Paper-portfolio: open nieuwe paper-trades voor koop-/omdraai-signalen ---
     opened_trades = []
     if current_prices:
+        # --- Eerst: meesluiten als de gevolgde trader zelf sluit of draait (vóór het openen,
+        # zodat een omdraai meteen in de nieuwe richting gekopieerd kan worden) ---
+        closed_trades = pp.close_when_trader_exits(portfolio, positions_per_label, current_prices, now_iso)
         for sig in all_signals:
             if sig["actie"] not in ("NIEUWE_POSITIE", "RICHTING_OMGEDRAAID"):
                 continue
@@ -318,8 +321,6 @@ def main():
                       f"(bron: {sig['wallet_label']}, grootte ${trade['grootte_usd']:.2f}, "
                       f"stop {trade['stop_price']:.4f}, tp {trade['tp_price']:.4f})")
 
-        # --- Eerst: meesluiten als de gevolgde trader zelf sluit of draait ---
-        closed_trades = pp.close_when_trader_exits(portfolio, positions_per_label, current_prices, now_iso)
         # --- Daarna: stop-loss (vangnet) en eventueel take-profit ---
         closed_trades += pp.check_and_close_trades(portfolio, current_prices, now_iso)
         for ct in closed_trades:

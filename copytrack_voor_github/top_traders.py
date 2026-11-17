@@ -81,6 +81,7 @@ def run(all_signals, positions_per_label, prices, now_iso):
         print(f"  [TOP] logboek bijwerken mislukt: {e}")
     if not prices:
         return geopend, gesloten, portfolio
+    gesloten = pp.close_when_trader_exits(portfolio, positions_per_label, prices, now_iso, log=TOP_TRADES_LOG)
     for sig in all_signals:
         if sig["wallet_label"] not in TOP_TRADERS or sig["actie"] not in ("NIEUWE_POSITIE", "RICHTING_OMGEDRAAID"):
             continue
@@ -89,7 +90,6 @@ def run(all_signals, positions_per_label, prices, now_iso):
         if t:
             geopend.append(t)
             print(f"  [TOP PAPER-TRADE GEOPEND] {t['coin']} {t['richting']} @ {t['instapprijs']} ({t['bron_wallet']})")
-    gesloten = pp.close_when_trader_exits(portfolio, positions_per_label, prices, now_iso, log=TOP_TRADES_LOG)
     gesloten += pp.check_and_close_trades(portfolio, prices, now_iso, log=TOP_TRADES_LOG)
     pp.save_portfolio(portfolio, TOP_PORTFOLIO_FILE)
     return geopend, gesloten, portfolio
