@@ -60,6 +60,46 @@
       "tp_price": 0.0409024,
       "grootte_usd": 62.006821361318565,
       "geopend_op": "2026-11-17T15:45:26.760143+00:00"
+    },
+    {
+      "coin": "FIL",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.58632,
+      "stop_price": 0.4983719999999999,
+      "tp_price": 0.762216,
+      "grootte_usd": 62.006821361318565,
+      "geopend_op": "2026-11-17T16:00:49.059927+00:00"
+    },
+    {
+      "coin": "HYPE",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 68.2575,
+      "stop_price": 58.018874999999994,
+      "tp_price": 88.73474999999999,
+      "grootte_usd": 62.006821361318565,
+      "geopend_op": "2026-11-17T16:00:49.059927+00:00"
+    },
+    {
+      "coin": "ZEC",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 939.165,
+      "stop_price": 798.2902499999999,
+      "tp_price": 1220.9145,
+      "grootte_usd": 62.006821361318565,
+      "geopend_op": "2026-11-17T16:00:49.059927+00:00"
+    },
+    {
+      "coin": "kPEPE",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.003731,
+      "stop_price": 0.00429065,
+      "tp_price": 0.0026117,
+      "grootte_usd": 62.006821361318565,
+      "geopend_op": "2026-11-17T16:00:49.059927+00:00"
     }
   ]
 }
