@@ -1,5 +1,5 @@
 {
-  "capital": 927.4672227629862,
+  "capital": 927.8683070143109,
   "open_trades": [
     {
       "coin": "VVV",
@@ -50,16 +50,6 @@
       "tp_price": 0.06580699999999999,
       "grootte_usd": 61.68556259623484,
       "geopend_op": "2026-11-17T05:30:38.387315+00:00"
-    },
-    {
-      "coin": "kPEPE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.003854,
-      "stop_price": 0.0044321,
-      "tp_price": 0.0026977999999999998,
-      "grootte_usd": 61.83114818419908,
-      "geopend_op": "2026-11-17T08:45:27.628911+00:00"
     }
   ]
 }
