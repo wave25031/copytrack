@@ -1,5 +1,5 @@
 {
-  "capital": 928.7476814174526,
+  "capital": 928.3018737513904,
   "open_trades": [
     {
       "coin": "VVV",
@@ -58,16 +58,6 @@
       "instapprijs": 71.0935,
       "stop_price": 60.429475000000004,
       "tp_price": 92.42155000000001,
-      "grootte_usd": 61.91651209449684,
-      "geopend_op": "2026-11-16T23:45:28.503080+00:00"
-    },
-    {
-      "coin": "XPL",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.045138,
-      "stop_price": 0.051908699999999995,
-      "tp_price": 0.031596599999999996,
       "grootte_usd": 61.91651209449684,
       "geopend_op": "2026-11-16T23:45:28.503080+00:00"
     }
