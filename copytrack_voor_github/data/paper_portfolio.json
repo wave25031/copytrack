@@ -1,5 +1,5 @@
 {
-  "capital": 927.8683070143109,
+  "capital": 927.5007340898355,
   "open_trades": [
     {
       "coin": "VVV",
@@ -50,16 +50,6 @@
       "tp_price": 0.06580699999999999,
       "grootte_usd": 61.68556259623484,
       "geopend_op": "2026-11-17T05:30:38.387315+00:00"
-    },
-    {
-      "coin": "ZEC",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 933.995,
-      "stop_price": 1074.0942499999999,
-      "tp_price": 653.7964999999999,
-      "grootte_usd": 61.85788713428739,
-      "geopend_op": "2026-11-17T10:00:45.483776+00:00"
     },
     {
       "coin": "HYPE",
