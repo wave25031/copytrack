@@ -1,5 +1,5 @@
 {
-  "capital": 925.8396554502915,
+  "capital": 925.2834389435226,
   "open_trades": [
     {
       "coin": "VVV",
@@ -42,16 +42,6 @@
       "geopend_op": "2026-11-16T03:30:49.362213+00:00"
     },
     {
-      "coin": "HYPE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 69.8275,
-      "stop_price": 80.301625,
-      "tp_price": 48.87925,
-      "grootte_usd": 61.74754869062755,
-      "geopend_op": "2026-11-17T03:45:32.943104+00:00"
-    },
-    {
       "coin": "LIT",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
@@ -60,6 +50,16 @@
       "tp_price": 2.125165,
       "grootte_usd": 61.74754869062755,
       "geopend_op": "2026-11-17T04:16:56.458632+00:00"
+    },
+    {
+      "coin": "FARTCOIN",
+      "richting": "SHORT",
+      "bron_wallet": "trader_02",
+      "instapprijs": 0.09401,
+      "stop_price": 0.10811149999999999,
+      "tp_price": 0.06580699999999999,
+      "grootte_usd": 61.68556259623484,
+      "geopend_op": "2026-11-17T05:30:38.387315+00:00"
     }
   ]
 }
