@@ -1,5 +1,5 @@
 {
-  "capital": 930.1023204197785,
+  "capital": 929.4579813006887,
   "open_trades": [
     {
       "coin": "VVV",
@@ -52,16 +52,6 @@
       "geopend_op": "2026-11-17T05:30:38.387315+00:00"
     },
     {
-      "coin": "DOGE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.058432,
-      "stop_price": 0.06719679999999999,
-      "tp_price": 0.0409024,
-      "grootte_usd": 62.006821361318565,
-      "geopend_op": "2026-11-17T15:45:26.760143+00:00"
-    },
-    {
       "coin": "FIL",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -88,16 +78,6 @@
       "instapprijs": 939.165,
       "stop_price": 798.2902499999999,
       "tp_price": 1220.9145,
-      "grootte_usd": 62.006821361318565,
-      "geopend_op": "2026-11-17T16:00:49.059927+00:00"
-    },
-    {
-      "coin": "kPEPE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.003731,
-      "stop_price": 0.00429065,
-      "tp_price": 0.0026117,
       "grootte_usd": 62.006821361318565,
       "geopend_op": "2026-11-17T16:00:49.059927+00:00"
     }
