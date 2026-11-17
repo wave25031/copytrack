@@ -40,6 +40,16 @@
       "tp_price": 0.06580699999999999,
       "grootte_usd": 61.68556259623484,
       "geopend_op": "2026-11-17T05:30:38.387315+00:00"
+    },
+    {
+      "coin": "LIT",
+      "richting": "LONG",
+      "bron_wallet": "trader_22",
+      "instapprijs": 2.8541,
+      "stop_price": 2.425985,
+      "tp_price": 3.71033,
+      "grootte_usd": 62.238105225372955,
+      "geopend_op": "2026-11-17T22:15:30.968725+00:00"
     }
   ]
 }
