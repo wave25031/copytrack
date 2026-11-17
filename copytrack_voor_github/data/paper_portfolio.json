@@ -80,6 +80,16 @@
       "tp_price": 1220.9145,
       "grootte_usd": 62.006821361318565,
       "geopend_op": "2026-11-17T16:00:49.059927+00:00"
+    },
+    {
+      "coin": "SOL",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 72.6265,
+      "stop_price": 83.52047499999999,
+      "tp_price": 50.83854999999999,
+      "grootte_usd": 61.96386542004591,
+      "geopend_op": "2026-11-17T17:15:29.395036+00:00"
     }
   ]
 }
