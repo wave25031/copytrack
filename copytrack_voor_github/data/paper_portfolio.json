@@ -60,6 +60,16 @@
       "tp_price": 0.40290249999999994,
       "grootte_usd": 62.22916004019843,
       "geopend_op": "2026-11-18T01:30:47.165022+00:00"
+    },
+    {
+      "coin": "ICP",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 2.2602,
+      "stop_price": 1.92117,
+      "tp_price": 2.9382600000000005,
+      "grootte_usd": 62.180370591484696,
+      "geopend_op": "2026-11-18T09:30:38.617127+00:00"
     }
   ]
 }
