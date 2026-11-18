@@ -1,5 +1,5 @@
 {
-  "capital": 931.0644418883434,
+  "capital": 931.2628422260365,
   "open_trades": [
     {
       "coin": "BTC",
@@ -70,16 +70,6 @@
       "tp_price": 78.18299999999999,
       "grootte_usd": 62.18165443832462,
       "geopend_op": "2026-11-18T12:15:26.897722+00:00"
-    },
-    {
-      "coin": "ZEC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 908.85,
-      "stop_price": 772.5225,
-      "tp_price": 1181.505,
-      "grootte_usd": 62.07096279255622,
-      "geopend_op": "2026-11-18T19:15:30.599740+00:00"
     }
   ]
 }
