@@ -4,142 +4,142 @@
     "BTC": {
       "szi": -9.9482,
       "entry_px": 70615.5,
-      "position_value_usd": 624677.3226
+      "position_value_usd": 623612.8652
     },
     "ETH": {
       "szi": -28.3584,
       "entry_px": 1676.34,
-      "position_value_usd": 50327.65248
+      "position_value_usd": 50350.3392
     },
     "SOL": {
       "szi": 827.66,
       "entry_px": 80.9431,
-      "position_value_usd": 61180.6272
+      "position_value_usd": 61067.23778
     },
     "BNB": {
       "szi": -295.806,
       "entry_px": 579.952,
-      "position_value_usd": 173283.1548
+      "position_value_usd": 173117.50344
     },
     "DOGE": {
       "szi": -85.0,
       "entry_px": 0.090679,
-      "position_value_usd": 4.992985
+      "position_value_usd": 4.987205
     },
     "SUI": {
       "szi": 65467.6,
       "entry_px": 1.05139,
-      "position_value_usd": 46871.52822
+      "position_value_usd": 46883.967064
     },
     "XRP": {
       "szi": -298.0,
       "entry_px": 1.081744,
-      "position_value_usd": 289.5815
+      "position_value_usd": 289.09576
     },
     "APT": {
       "szi": -377.57,
       "entry_px": 5.6917,
-      "position_value_usd": 157.06912
+      "position_value_usd": 158.239587
     },
     "UNI": {
       "szi": -453.1,
       "entry_px": 7.52536,
-      "position_value_usd": 2262.01113
+      "position_value_usd": 2266.04372
     },
     "TAO": {
       "szi": 147.359,
       "entry_px": 244.396,
-      "position_value_usd": 28615.64421
+      "position_value_usd": 28653.95755
     },
     "ENA": {
-      "szi": -4424752.0,
-      "entry_px": 0.120845,
-      "position_value_usd": 468669.73184
+      "szi": -4441812.0,
+      "entry_px": 0.120788,
+      "position_value_usd": 469854.87336
     },
     "POPCAT": {
       "szi": -27.0,
       "entry_px": 0.481605,
-      "position_value_usd": 0.741933
+      "position_value_usd": 0.741555
     },
     "HYPE": {
       "szi": -423.23,
       "entry_px": 82.4584,
-      "position_value_usd": 28972.63288
+      "position_value_usd": 28645.47609
     },
     "MOVE": {
       "szi": -4525.0,
       "entry_px": 0.071702,
-      "position_value_usd": 21.89195
+      "position_value_usd": 21.914575
     },
     "USUAL": {
       "szi": -72.6,
       "entry_px": 0.25009,
-      "position_value_usd": 0.761574
+      "position_value_usd": 0.763026
     },
     "FARTCOIN": {
       "szi": -594292.8,
       "entry_px": 0.09086,
-      "position_value_usd": 50003.796192
+      "position_value_usd": 50193.969888
     },
     "SPX": {
       "szi": -212.0,
       "entry_px": 1.05809,
-      "position_value_usd": 65.40412
+      "position_value_usd": 65.35112
     },
     "TRUMP": {
       "szi": -266.9,
       "entry_px": 6.12499,
-      "position_value_usd": 255.890375
+      "position_value_usd": 255.393941
     },
     "MELANIA": {
       "szi": -5451.5,
       "entry_px": 0.47508,
-      "position_value_usd": 256.056955
+      "position_value_usd": 256.602105
     },
     "BERA": {
       "szi": 2072.5,
       "entry_px": 2.63242,
-      "position_value_usd": 171.001975
+      "position_value_usd": 170.6082
     },
     "LAYER": {
       "szi": -906.0,
       "entry_px": 0.196106,
-      "position_value_usd": 40.86513
+      "position_value_usd": 40.773624
     },
     "PAXG": {
       "szi": 0.439,
       "entry_px": 4071.524,
-      "position_value_usd": 1611.569
+      "position_value_usd": 1609.9886
     },
     "PUMP": {
       "szi": 1355871.0,
       "entry_px": 0.002458,
-      "position_value_usd": 3637.801893
+      "position_value_usd": 3633.73428
     },
     "XPL": {
       "szi": -404885.0,
       "entry_px": 0.093251,
-      "position_value_usd": 18869.26054
+      "position_value_usd": 18864.40192
     },
     "WLFI": {
       "szi": -830.0,
       "entry_px": 0.202418,
-      "position_value_usd": 38.51283
+      "position_value_usd": 38.63401
     },
     "ASTER": {
       "szi": -57432.0,
       "entry_px": 0.687241,
-      "position_value_usd": 29593.56096
+      "position_value_usd": 29394.55908
     },
     "ZEC": {
       "szi": 23.05,
       "entry_px": 509.8619,
-      "position_value_usd": 21001.316
+      "position_value_usd": 20857.2535
     },
     "LIT": {
       "szi": 15949.0,
       "entry_px": 4.276217,
-      "position_value_usd": 44968.2055
+      "position_value_usd": 44792.7665
     }
   },
   "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36": {},
@@ -147,77 +147,77 @@
     "BTC": {
       "szi": -436.0,
       "entry_px": 77001.5,
-      "position_value_usd": 27375568.0
+      "position_value_usd": 27328480.0
     },
     "ETH": {
       "szi": -13950.0,
       "entry_px": 2443.6,
-      "position_value_usd": 24752880.0
+      "position_value_usd": 24764040.0
     },
     "ATOM": {
       "szi": -24600.0,
       "entry_px": 10.1735,
-      "position_value_usd": 31456.02
+      "position_value_usd": 31537.2
     },
     "SOL": {
       "szi": -29220.0,
       "entry_px": 93.2845,
-      "position_value_usd": 2159358.0
+      "position_value_usd": 2155588.62
     },
     "AVAX": {
       "szi": -9870.0,
       "entry_px": 49.454,
-      "position_value_usd": 69312.075
+      "position_value_usd": 69429.528
     },
     "BNB": {
       "szi": -128.0,
       "entry_px": 697.335,
-      "position_value_usd": 74973.44
+      "position_value_usd": 74900.48
     },
     "OP": {
       "szi": -76500.0,
       "entry_px": 2.26298,
-      "position_value_usd": 5769.63
+      "position_value_usd": 5771.16
     },
     "ARB": {
       "szi": -499000.0,
       "entry_px": 0.96678,
-      "position_value_usd": 62100.55
+      "position_value_usd": 61985.78
     },
     "DOGE": {
       "szi": -39554000.0,
       "entry_px": 0.095443,
-      "position_value_usd": 2323006.42
+      "position_value_usd": 2320712.288
     },
     "kPEPE": {
       "szi": -128400000.0,
       "entry_px": 0.0038,
-      "position_value_usd": 482784.0
+      "position_value_usd": 481243.2
     },
     "CRV": {
       "szi": -267400.0,
       "entry_px": 0.80767,
-      "position_value_usd": 51725.856
+      "position_value_usd": 51880.948
     },
     "LINK": {
       "szi": -195500.0,
       "entry_px": 11.54211,
-      "position_value_usd": 1768297.5
+      "position_value_usd": 1768884.0
     },
     "STX": {
       "szi": -100800.0,
       "entry_px": 2.02824,
-      "position_value_usd": 27096.048
+      "position_value_usd": 27104.112
     },
     "XRP": {
       "szi": -2403000.0,
       "entry_px": 1.483196,
-      "position_value_usd": 2333865.69
+      "position_value_usd": 2331030.15
     },
     "AAVE": {
       "szi": -15721.0,
       "entry_px": 118.4015,
-      "position_value_usd": 1649761.74
+      "position_value_usd": 1649132.9
     },
     "TRX": {
       "szi": -184000.0,
@@ -227,179 +227,179 @@
     "kSHIB": {
       "szi": -19075000.0,
       "entry_px": 0.014903,
-      "position_value_usd": 72961.875
+      "position_value_usd": 72904.65
     },
     "UNI": {
       "szi": -131000.0,
       "entry_px": 8.05042,
-      "position_value_usd": 653899.6
+      "position_value_usd": 655144.1
     },
     "SEI": {
       "szi": -140000.0,
       "entry_px": 0.589749,
-      "position_value_usd": 5343.1
+      "position_value_usd": 5351.5
     },
     "ZRO": {
       "szi": -571400.0,
       "entry_px": 1.30729,
-      "position_value_usd": 781732.34
+      "position_value_usd": 777046.86
     },
     "NEAR": {
       "szi": -909400.0,
       "entry_px": 3.26165,
-      "position_value_usd": 2971373.56
+      "position_value_usd": 2975338.544
     },
     "FIL": {
       "szi": -19600.0,
       "entry_px": 7.90791,
-      "position_value_usd": 11160.828
+      "position_value_usd": 11207.476
     },
     "kBONK": {
       "szi": -2380000.0,
       "entry_px": 0.024837,
-      "position_value_usd": 5531.12
+      "position_value_usd": 5535.88
     },
     "ONDO": {
       "szi": -1805000.0,
       "entry_px": 0.44836,
-      "position_value_usd": 539424.25
+      "position_value_usd": 541247.3
     },
     "TAO": {
       "szi": -1890.0,
       "entry_px": 321.714,
-      "position_value_usd": 366962.4
+      "position_value_usd": 367491.6
     },
     "kFLOKI": {
       "szi": -515000.0,
       "entry_px": 0.230632,
-      "position_value_usd": 9026.405
+      "position_value_usd": 9020.225
     },
     "ETHFI": {
       "szi": -117000.0,
       "entry_px": 0.60365,
-      "position_value_usd": 58102.2
+      "position_value_usd": 57916.17
     },
     "ENA": {
       "szi": -7000000.0,
       "entry_px": 0.520929,
-      "position_value_usd": 740950.0
+      "position_value_usd": 740600.0
     },
     "POL": {
       "szi": -176000.0,
       "entry_px": 0.719196,
-      "position_value_usd": 14207.952
+      "position_value_usd": 14249.84
     },
     "MOODENG": {
       "szi": -1796000.0,
       "entry_px": 0.471415,
-      "position_value_usd": 49425.92
+      "position_value_usd": 49517.516
     },
     "GRASS": {
       "szi": -20000.0,
       "entry_px": 0.45442,
-      "position_value_usd": 8488.2
+      "position_value_usd": 8489.2
     },
     "HYPE": {
       "szi": -433080.0,
       "entry_px": 28.7925,
-      "position_value_usd": 29645192.16
+      "position_value_usd": 29306523.6
     },
     "VIRTUAL": {
       "szi": -94500.0,
       "entry_px": 2.33415,
-      "position_value_usd": 39895.065
+      "position_value_usd": 39913.02
     },
     "PENGU": {
       "szi": -6993000.0,
       "entry_px": 0.028834,
-      "position_value_usd": 32419.548
+      "position_value_usd": 32454.513
     },
     "FARTCOIN": {
       "szi": -7341700.0,
       "entry_px": 0.63634,
-      "position_value_usd": 617657.221
+      "position_value_usd": 620153.399
     },
     "SPX": {
       "szi": -139500.0,
       "entry_px": 1.67172,
-      "position_value_usd": 43032.96
+      "position_value_usd": 43002.27
     },
     "VVV": {
       "szi": -15800.0,
       "entry_px": 14.7728,
-      "position_value_usd": 356843.0
+      "position_value_usd": 356397.44
     },
     "INIT": {
       "szi": -100000.0,
       "entry_px": 0.810288,
-      "position_value_usd": 9888.1
+      "position_value_usd": 9943.6
     },
     "SYRUP": {
       "szi": -30000.0,
       "entry_px": 0.549201,
-      "position_value_usd": 2963.76
+      "position_value_usd": 2962.44
     },
     "PUMP": {
       "szi": -1277810000.0,
       "entry_px": 0.004715,
-      "position_value_usd": 3427086.42
+      "position_value_usd": 3424530.8
     },
     "XPL": {
       "szi": -2100000.0,
       "entry_px": 0.104139,
-      "position_value_usd": 97843.2
+      "position_value_usd": 97811.7
     },
     "ASTER": {
       "szi": -100000.0,
       "entry_px": 0.6912,
-      "position_value_usd": 51518.0
+      "position_value_usd": 51181.0
     },
     "APEX": {
       "szi": -264770.0,
       "entry_px": 2.45974,
-      "position_value_usd": 38533.03718
+      "position_value_usd": 38619.61697
     },
     "2Z": {
       "szi": -1526000.0,
       "entry_px": 0.623842,
-      "position_value_usd": 25020.296
+      "position_value_usd": 25087.44
     },
     "ZEC": {
       "szi": -5227.0,
       "entry_px": 833.4375,
-      "position_value_usd": 4761849.27
+      "position_value_usd": 4729023.71
     },
     "MON": {
       "szi": -28000000.0,
       "entry_px": 0.030434,
-      "position_value_usd": 375956.0
+      "position_value_usd": 376824.0
     },
     "LIT": {
       "szi": -150000.0,
       "entry_px": 1.888811,
-      "position_value_usd": 422760.0
+      "position_value_usd": 421050.0
     },
     "CHIP": {
       "szi": -397500.0,
       "entry_px": 0.078822,
-      "position_value_usd": 11875.71
+      "position_value_usd": 11825.625
     },
     "CASHCAT": {
       "szi": -5600517.0,
       "entry_px": 0.116438,
-      "position_value_usd": 237349.91046
+      "position_value_usd": 237954.766296
     }
   },
   "0xd47587702a91731dc1089b5db0932cf820151a91": {
     "UNI": {
       "szi": -92150.0,
       "entry_px": 5.38747,
-      "position_value_usd": 459975.94
+      "position_value_usd": 460851.365
     },
     "HYPE": {
       "szi": -101408.33,
       "entry_px": 54.6343,
-      "position_value_usd": 6941603.00516
+      "position_value_usd": 6862301.6911
     }
   },
   "0x4f7634c03ec4e87e14725c84913ade523c6fad5a": {},
@@ -407,89 +407,89 @@
     "SUI": {
       "szi": 15308.1,
       "entry_px": 1.02525,
-      "position_value_usd": 10955.854089
+      "position_value_usd": 10962.742734
     },
     "kPEPE": {
       "szi": -405046.0,
       "entry_px": 0.003653,
-      "position_value_usd": 1522.162868
+      "position_value_usd": 1518.112408
     },
     "UNI": {
       "szi": -344.0,
       "entry_px": 5.81807,
-      "position_value_usd": 1717.0072
+      "position_value_usd": 1720.5504
     },
     "BLUR": {
       "szi": 39328.0,
       "entry_px": 0.007628,
-      "position_value_usd": 260.783968
+      "position_value_usd": 260.823296
     },
     "NEAR": {
       "szi": 31394.3,
       "entry_px": 4.39448,
-      "position_value_usd": 102577.73582
+      "position_value_usd": 102703.31302
     },
     "TAO": {
       "szi": 6.364,
       "entry_px": 233.687,
-      "position_value_usd": 1235.44332
+      "position_value_usd": 1237.38434
     },
     "HYPE": {
       "szi": -131.55,
       "entry_px": 69.9204,
-      "position_value_usd": 9003.15045
+      "position_value_usd": 8906.01393
     },
     "FARTCOIN": {
       "szi": -179313.9,
       "entry_px": 0.22064,
-      "position_value_usd": 15085.678407
+      "position_value_usd": 15148.438272
     },
     "PUMP": {
       "szi": 205834.0,
       "entry_px": 0.004877,
-      "position_value_usd": 551.840954
+      "position_value_usd": 551.63512
     },
     "ASTER": {
       "szi": 3523.0,
       "entry_px": 0.697158,
-      "position_value_usd": 1814.97914
+      "position_value_usd": 1803.10663
     },
     "APEX": {
       "szi": -75069.0,
       "entry_px": 0.324533,
-      "position_value_usd": 10923.29019
+      "position_value_usd": 10947.31227
     },
     "ZEC": {
       "szi": -0.27,
       "entry_px": 797.2105,
-      "position_value_usd": 245.9727
+      "position_value_usd": 244.3122
     },
     "LIT": {
       "szi": -821.0,
       "entry_px": 1.913464,
-      "position_value_usd": 2312.6749
+      "position_value_usd": 2304.730083
     },
     "XMR": {
       "szi": 0.563,
       "entry_px": 594.02,
-      "position_value_usd": 277.73916
+      "position_value_usd": 278.33594
     },
     "AZTEC": {
       "szi": -18066.0,
       "entry_px": 0.025353,
-      "position_value_usd": 182.213676
+      "position_value_usd": 181.960752
     }
   },
   "0x939f95036d2e7b6d7419ec072bf9d967352204d2": {
     "ETH": {
       "szi": 9823.8129,
       "entry_px": 2427.28,
-      "position_value_usd": 17430391.22847
+      "position_value_usd": 17440215.04137
     },
     "HYPE": {
       "szi": -260015.01,
       "entry_px": 72.6661,
-      "position_value_usd": 17795167.26939
+      "position_value_usd": 17603172.186006
     }
   },
   "0x5b5d51203a0f9079f8aeb098a6523a13f298c060": {},
@@ -497,182 +497,182 @@
     "BTC": {
       "szi": 0.90282,
       "entry_px": 64656.1,
-      "position_value_usd": 56679.0396
+      "position_value_usd": 56588.7576
     },
     "ETH": {
       "szi": 0.6197,
       "entry_px": 2471.84,
-      "position_value_usd": 1099.47174
+      "position_value_usd": 1100.21538
     },
     "SOL": {
       "szi": 5808.36,
       "entry_px": 118.9872,
-      "position_value_usd": 429046.12812
+      "position_value_usd": 428511.759
     },
     "AVAX": {
       "szi": 71886.42,
       "entry_px": 6.4048,
-      "position_value_usd": 504649.857042
+      "position_value_usd": 505720.9647
     },
     "BNB": {
       "szi": -10.957,
       "entry_px": 699.51,
-      "position_value_usd": 6416.85748
+      "position_value_usd": 6411.48855
     },
     "LTC": {
       "szi": -17411.55,
       "entry_px": 49.0137,
-      "position_value_usd": 747077.37585
+      "position_value_usd": 746288.632635
     },
     "DOGE": {
       "szi": -126835.0,
       "entry_px": 0.094305,
-      "position_value_usd": 7448.131705
+      "position_value_usd": 7441.66312
     },
     "SUI": {
       "szi": 443177.2,
       "entry_px": 1.00424,
-      "position_value_usd": 317124.309004
+      "position_value_usd": 317376.920008
     },
     "LINK": {
       "szi": 8081.4,
       "entry_px": 11.24528,
-      "position_value_usd": 73080.90834
+      "position_value_usd": 73124.5479
     },
     "XRP": {
       "szi": 69109.0,
       "entry_px": 1.370225,
-      "position_value_usd": 67111.7499
+      "position_value_usd": 67038.49436
     },
     "AAVE": {
-      "szi": -7914.14,
+      "szi": -7905.3,
       "entry_px": 125.37,
-      "position_value_usd": 830430.7102
+      "position_value_usd": 829424.076
     },
     "WLD": {
       "szi": -1058800.3,
       "entry_px": 0.5451,
-      "position_value_usd": 275859.830162
+      "position_value_usd": 276717.458405
     },
     "TRX": {
       "szi": 127057.0,
       "entry_px": 0.326283,
-      "position_value_usd": 39434.68109
+      "position_value_usd": 39433.41052
     },
     "UNI": {
       "szi": 44619.6,
       "entry_px": 6.94967,
-      "position_value_usd": 222651.804
+      "position_value_usd": 223169.39136
     },
     "SEI": {
       "szi": 82310.0,
       "entry_px": 0.051721,
-      "position_value_usd": 3140.78498
+      "position_value_usd": 3146.29975
     },
     "ADA": {
       "szi": 5803927.0,
       "entry_px": 0.200005,
-      "position_value_usd": 888174.94881
+      "position_value_usd": 887188.28122
     },
     "FET": {
       "szi": 425243.0,
       "entry_px": 0.141174,
-      "position_value_usd": 54027.12315
+      "position_value_usd": 54073.89988
     },
     "NEAR": {
       "szi": -8743.9,
       "entry_px": 2.47726,
-      "position_value_usd": 28567.19569
+      "position_value_usd": 28604.79446
     },
     "ONDO": {
       "szi": -495796.0,
       "entry_px": 0.437926,
-      "position_value_usd": 148133.92888
+      "position_value_usd": 148664.4306
     },
     "STRK": {
       "szi": 3848252.0,
       "entry_px": 0.03614,
-      "position_value_usd": 122220.48352
+      "position_value_usd": 121219.938
     },
     "TAO": {
       "szi": -23.049,
       "entry_px": 248.288,
-      "position_value_usd": 4474.27188
+      "position_value_usd": 4480.95609
     },
     "ENA": {
       "szi": -232376.0,
       "entry_px": 0.165007,
-      "position_value_usd": 24580.73328
+      "position_value_usd": 24587.70456
     },
     "POL": {
       "szi": 523888.0,
       "entry_px": 0.091266,
-      "position_value_usd": 42284.572144
+      "position_value_usd": 42416.59192
     },
     "PNUT": {
       "szi": 439798.3,
       "entry_px": 0.04496,
-      "position_value_usd": 12538.649533
+      "position_value_usd": 12551.843482
     },
     "XLM": {
       "szi": 419981.0,
       "entry_px": 0.225272,
-      "position_value_usd": 56071.66331
+      "position_value_usd": 56063.26369
     },
     "ALGO": {
       "szi": -1389032.0,
       "entry_px": 0.090501,
-      "position_value_usd": 106754.05436
+      "position_value_usd": 106962.40916
     },
     "HYPE": {
       "szi": -4041.34,
       "entry_px": 88.3558,
-      "position_value_usd": 276509.695202
+      "position_value_usd": 273616.499896
     },
     "FARTCOIN": {
       "szi": 2733.0,
       "entry_px": 0.36652,
-      "position_value_usd": 229.8453
+      "position_value_usd": 230.88384
     },
     "BIO": {
       "szi": -7115.0,
       "entry_px": 0.033552,
-      "position_value_usd": 112.33162
+      "position_value_usd": 112.424115
     },
     "VVV": {
       "szi": -62359.64,
       "entry_px": 17.6196,
-      "position_value_usd": 1408080.6712
+      "position_value_usd": 1406584.03984
     },
     "PUMP": {
       "szi": -9121539.0,
       "entry_px": 0.002855,
-      "position_value_usd": 24454.846059
+      "position_value_usd": 24445.72452
     },
     "ZEC": {
       "szi": -87.8,
       "entry_px": 1325.7336,
-      "position_value_usd": 79985.8
+      "position_value_usd": 79446.708
     },
     "ICP": {
       "szi": 37216.8,
       "entry_px": 2.24369,
-      "position_value_usd": 81753.772392
+      "position_value_usd": 81850.163904
     },
     "LIT": {
       "szi": 1365.0,
       "entry_px": 2.579297,
-      "position_value_usd": 3844.5225
+      "position_value_usd": 3831.555
     },
     "XMR": {
       "szi": 173.029,
       "entry_px": 594.002,
-      "position_value_usd": 85355.2057
+      "position_value_usd": 85540.34673
     },
     "GRAM": {
       "szi": -150637.0,
       "entry_px": 1.362973,
-      "position_value_usd": 154643.9442
+      "position_value_usd": 154790.815275
     }
   },
   "0xa87a233e8a7d8951ff790a2e39738086cb5f71b7": {},
@@ -681,97 +681,97 @@
     "BTC": {
       "szi": 203.80547,
       "entry_px": 64776.6,
-      "position_value_usd": 12795926.43395
+      "position_value_usd": 12775138.27601
     },
     "ETH": {
       "szi": 37.4459,
       "entry_px": 1844.48,
-      "position_value_usd": 66444.00496
+      "position_value_usd": 66488.94004
     },
     "AVAX": {
       "szi": -12091.83,
       "entry_px": 42.1163,
-      "position_value_usd": 84894.320064
+      "position_value_usd": 85072.069965
     },
     "SUI": {
       "szi": -63739.9,
       "entry_px": 2.31644,
-      "position_value_usd": 45610.360243
+      "position_value_usd": 45646.691986
     },
     "kPEPE": {
       "szi": -96500000.0,
       "entry_px": 0.007044,
-      "position_value_usd": 362743.5
+      "position_value_usd": 361682.0
     },
     "CRV": {
       "szi": -441827.7,
       "entry_px": 0.32045,
-      "position_value_usd": 85467.150288
+      "position_value_usd": 85723.410354
     },
     "LINK": {
       "szi": -69261.2,
       "entry_px": 14.08033,
-      "position_value_usd": 626304.79018
+      "position_value_usd": 626723.82044
     },
     "XRP": {
       "szi": -696000.0,
       "entry_px": 1.493915,
-      "position_value_usd": 676010.88
+      "position_value_usd": 675154.8
     },
     "AAVE": {
       "szi": -9133.75,
       "entry_px": 131.4882,
-      "position_value_usd": 958495.725
+      "position_value_usd": 958313.05
     },
     "kSHIB": {
       "szi": -12000000.0,
       "entry_px": 0.015504,
-      "position_value_usd": 45888.0
+      "position_value_usd": 45876.0
     },
     "UNI": {
       "szi": -61310.7,
       "entry_px": 9.1886,
-      "position_value_usd": 305940.393
+      "position_value_usd": 306651.59712
     },
     "ADA": {
       "szi": -1086001.0,
       "entry_px": 0.709813,
-      "position_value_usd": 166190.73303
+      "position_value_usd": 165995.25285
     },
     "PENDLE": {
       "szi": -155378.0,
       "entry_px": 5.502951,
-      "position_value_usd": 216550.3186
+      "position_value_usd": 216208.487
     },
     "NEAR": {
       "szi": -48872.7,
       "entry_px": 3.29351,
-      "position_value_usd": 159681.77271
+      "position_value_usd": 159872.37624
     },
     "FIL": {
       "szi": -143000.0,
       "entry_px": 3.18908,
-      "position_value_usd": 81401.32
+      "position_value_usd": 81760.25
     },
     "STRK": {
       "szi": -4500000.0,
       "entry_px": 0.13637,
-      "position_value_usd": 142920.0
+      "position_value_usd": 141750.0
     },
     "GRASS": {
       "szi": -238431.2,
       "entry_px": 2.86895,
-      "position_value_usd": 101223.581648
+      "position_value_usd": 101163.973848
     },
     "HYPE": {
       "szi": -47728.12,
       "entry_px": 85.368,
-      "position_value_usd": 3265319.3298
+      "position_value_usd": 3231403.727728
     },
     "ZEC": {
       "szi": 1745.07,
       "entry_px": 844.0272,
-      "position_value_usd": 1589741.3193
+      "position_value_usd": 1579323.2514
     }
   },
   "0x5d2f4460ac3514ada79f5d9838916e508ab39bb7": {},
@@ -780,32 +780,32 @@
     "BTC": {
       "szi": -76.91775,
       "entry_px": 64980.5,
-      "position_value_usd": 4829434.76925
+      "position_value_usd": 4821512.241
     },
     "ETH": {
       "szi": -3532.5548,
       "entry_px": 1817.52,
-      "position_value_usd": 6268518.4926
+      "position_value_usd": 6271697.79192
     },
     "AAVE": {
       "szi": -31810.37,
       "entry_px": 108.1532,
-      "position_value_usd": 3338816.4352
+      "position_value_usd": 3337610.822177
     },
     "ASTER": {
-      "szi": -661815.0,
+      "szi": -635560.0,
       "entry_px": 0.560691,
-      "position_value_usd": 340937.96814
+      "position_value_usd": 325241.4744
     },
     "ZEC": {
-      "szi": -1771.76,
-      "entry_px": 915.8737,
-      "position_value_usd": 1614622.6056
+      "szi": -1995.16,
+      "entry_px": 914.8876,
+      "position_value_usd": 1806417.864
     },
     "XMR": {
       "szi": -9712.154,
       "entry_px": 495.546,
-      "position_value_usd": 4790908.44666
+      "position_value_usd": 4800717.7222
     }
   },
   "0xc59498175d6d317642aeb97f895a7ce1aa992191": {},
@@ -926,97 +926,97 @@
     "BTC": {
       "szi": 100.36847,
       "entry_px": 109632.3,
-      "position_value_usd": 6304444.70611
+      "position_value_usd": 6290192.38337
     },
     "SOL": {
       "szi": 177.28,
       "entry_px": 92.355,
-      "position_value_usd": 13100.63744
+      "position_value_usd": 13073.5136
     },
     "AVAX": {
       "szi": -855.0,
       "entry_px": 30.2927,
-      "position_value_usd": 6006.1185
+      "position_value_usd": 6012.4455
     },
     "LTC": {
       "szi": -1228.8,
       "entry_px": 102.4777,
-      "position_value_usd": 52763.4432
+      "position_value_usd": 52660.96128
     },
     "XRP": {
       "szi": -58718.0,
       "entry_px": 2.484806,
-      "position_value_usd": 57052.75752
+      "position_value_usd": 56944.7164
     },
     "SEI": {
       "szi": 345556.0,
       "entry_px": 0.254627,
-      "position_value_usd": 13185.725848
+      "position_value_usd": 13203.349204
     },
     "RUNE": {
       "szi": -40000.0,
       "entry_px": 3.48012,
-      "position_value_usd": 20855.2
+      "position_value_usd": 20869.2
     },
     "kBONK": {
       "szi": -9994867.0,
       "entry_px": 0.025346,
-      "position_value_usd": 23228.070908
+      "position_value_usd": 23248.060642
     },
     "TAO": {
       "szi": -89.367,
       "entry_px": 350.69,
-      "position_value_usd": 17351.49672
+      "position_value_usd": 17368.923285
     },
     "RENDER": {
       "szi": -7603.8,
       "entry_px": 6.46069,
-      "position_value_usd": 10592.85378
+      "position_value_usd": 10562.970846
     },
     "kNEIRO": {
       "szi": -59953.2,
       "entry_px": 0.93627,
-      "position_value_usd": 3010.250172
+      "position_value_usd": 3006.053448
     },
     "GRASS": {
       "szi": -124823.4,
       "entry_px": 1.70294,
-      "position_value_usd": 53014.994448
+      "position_value_usd": 52962.56862
     },
     "PURR": {
       "szi": -60000.0,
       "entry_px": 0.14,
-      "position_value_usd": 4754.1
+      "position_value_usd": 4701.12
     },
     "VIRTUAL": {
       "szi": 168157.8,
       "entry_px": 1.33135,
-      "position_value_usd": 71028.173142
+      "position_value_usd": 70989.496848
     },
     "PENGU": {
       "szi": -14280400.0,
       "entry_px": 0.033503,
-      "position_value_usd": 66189.654
+      "position_value_usd": 66232.4952
     },
     "USUAL": {
       "szi": 1759594.0,
       "entry_px": 0.32496,
-      "position_value_usd": 18440.54512
+      "position_value_usd": 18493.33294
     },
     "FARTCOIN": {
       "szi": -179092.8,
       "entry_px": 1.08325,
-      "position_value_usd": 15065.286336
+      "position_value_usd": 15124.38696
     },
     "AIXBT": {
       "szi": -220000.0,
       "entry_px": 0.474231,
-      "position_value_usd": 2827.0
+      "position_value_usd": 2825.9
     },
     "BERA": {
       "szi": 131236.3,
       "entry_px": 3.56581,
-      "position_value_usd": 10828.307113
+      "position_value_usd": 10803.372216
     }
   },
   "0x7839e2f2c375dd2935193f2736167514efff9916": {},
@@ -1025,7 +1025,7 @@
     "LIT": {
       "szi": 427407.0,
       "entry_px": 2.842164,
-      "position_value_usd": 1204432.926
+      "position_value_usd": 1199688.7083
     }
   },
   "0x350e33a777d510616fbdb483d1de3b50d1edfcfb": {},
@@ -1033,19 +1033,14 @@
     "BTC": {
       "szi": -300.0,
       "entry_px": 74296.8,
-      "position_value_usd": 18841500.0
+      "position_value_usd": 18801600.0
     }
   },
   "0xc926ddba8b7617dbc65712f20cf8e1b58b8598d3": {
-    "NEAR": {
-      "szi": 6086.7,
-      "entry_px": 3.2409,
-      "position_value_usd": 19897.4223
-    },
     "BOME": {
       "szi": 1576044.0,
       "entry_px": 0.00062,
-      "position_value_usd": 781.717824
+      "position_value_usd": 783.293868
     }
   },
   "0x49e96e255ba418d08e66c35b588e2f2f3766e1d0": {}
