@@ -1,5 +1,5 @@
 {
-  "capital": 930.9706425585939,
+  "capital": 931.8705788021234,
   "open_trades": [
     {
       "coin": "BTC",
@@ -80,16 +80,6 @@
       "tp_price": 634.3995,
       "grootte_usd": 62.06470950390626,
       "geopend_op": "2026-11-19T17:15:31.987623+00:00"
-    },
-    {
-      "coin": "HYPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 68.3105,
-      "stop_price": 58.063925000000005,
-      "tp_price": 88.80365,
-      "grootte_usd": 62.06470950390626,
-      "geopend_op": "2026-11-19T17:30:42.119045+00:00"
     },
     {
       "coin": "NEAR",
