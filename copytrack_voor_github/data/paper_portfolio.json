@@ -1,5 +1,5 @@
 {
-  "capital": 929.6788383299977,
+  "capital": 929.1065211019836,
   "open_trades": [
     {
       "coin": "BTC",
@@ -100,16 +100,6 @@
       "tp_price": 86.02815,
       "grootte_usd": 62.11440659307884,
       "geopend_op": "2026-11-19T21:49:28.861713+00:00"
-    },
-    {
-      "coin": "kPEPE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.003682,
-      "stop_price": 0.0042343,
-      "tp_price": 0.0025773999999999997,
-      "grootte_usd": 61.97858922199985,
-      "geopend_op": "2026-11-19T22:15:40.007823+00:00"
     }
   ]
 }
