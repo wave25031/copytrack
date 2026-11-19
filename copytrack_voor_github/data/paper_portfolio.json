@@ -1,5 +1,5 @@
 {
-  "capital": 931.7160988961826,
+  "capital": 929.6788383299977,
   "open_trades": [
     {
       "coin": "BTC",
@@ -80,16 +80,6 @@
       "tp_price": 634.3995,
       "grootte_usd": 62.06470950390626,
       "geopend_op": "2026-11-19T17:15:31.987623+00:00"
-    },
-    {
-      "coin": "SKY",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.047001,
-      "stop_price": 0.05405115,
-      "tp_price": 0.0329007,
-      "grootte_usd": 62.09681184906392,
-      "geopend_op": "2026-11-19T20:30:40.006989+00:00"
     },
     {
       "coin": "NEAR",
