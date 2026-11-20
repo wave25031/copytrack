@@ -1,5 +1,5 @@
 {
-  "capital": 933.5640238026149,
+  "capital": 932.7964419824465,
   "open_trades": [
     {
       "coin": "BTC",
@@ -70,16 +70,6 @@
       "tp_price": 634.3995,
       "grootte_usd": 62.06470950390626,
       "geopend_op": "2026-11-19T17:15:31.987623+00:00"
-    },
-    {
-      "coin": "AVAX",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 6.8617,
-      "stop_price": 7.890954999999999,
-      "tp_price": 4.80319,
-      "grootte_usd": 62.25669238120167,
-      "geopend_op": "2026-11-20T05:30:39.738116+00:00"
     },
     {
       "coin": "HYPE",
