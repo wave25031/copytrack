@@ -1,5 +1,5 @@
 {
-  "capital": 916.004911727471,
+  "capital": 915.5006761922932,
   "open_trades": [
     {
       "coin": "BTC",
@@ -68,16 +68,6 @@
       "instapprijs": 0.39493,
       "stop_price": 0.3356905,
       "tp_price": 0.513409,
-      "grootte_usd": 61.76270384543415,
-      "geopend_op": "2026-11-20T15:30:43.698478+00:00"
-    },
-    {
-      "coin": "ETHFI",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.45198,
-      "stop_price": 0.384183,
-      "tp_price": 0.587574,
       "grootte_usd": 61.76270384543415,
       "geopend_op": "2026-11-20T15:30:43.698478+00:00"
     },
