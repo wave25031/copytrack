@@ -1,5 +1,5 @@
 {
-  "capital": 915.5006761922932,
+  "capital": 915.2637468723483,
   "open_trades": [
     {
       "coin": "BTC",
@@ -60,16 +60,6 @@
       "tp_price": 634.3995,
       "grootte_usd": 62.06470950390626,
       "geopend_op": "2026-11-19T17:15:31.987623+00:00"
-    },
-    {
-      "coin": "AERO",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.39493,
-      "stop_price": 0.3356905,
-      "tp_price": 0.513409,
-      "grootte_usd": 61.76270384543415,
-      "geopend_op": "2026-11-20T15:30:43.698478+00:00"
     },
     {
       "coin": "HYPE",
