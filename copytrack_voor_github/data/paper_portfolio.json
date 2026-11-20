@@ -80,6 +80,26 @@
       "tp_price": 81.00495000000001,
       "grootte_usd": 61.97044794151375,
       "geopend_op": "2026-11-20T13:45:32.725793+00:00"
+    },
+    {
+      "coin": "LTC",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 40.8845,
+      "stop_price": 47.017175,
+      "tp_price": 28.61915,
+      "grootte_usd": 61.81574639469644,
+      "geopend_op": "2026-11-20T15:15:30.017512+00:00"
+    },
+    {
+      "coin": "ONDO",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.28558,
+      "stop_price": 0.242743,
+      "tp_price": 0.37125400000000003,
+      "grootte_usd": 61.81574639469644,
+      "geopend_op": "2026-11-20T15:15:30.017512+00:00"
     }
   ]
 }
