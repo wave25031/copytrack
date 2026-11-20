@@ -130,6 +130,16 @@
       "tp_price": 0.0046748,
       "grootte_usd": 62.36498077931475,
       "geopend_op": "2026-11-20T02:00:58.340242+00:00"
+    },
+    {
+      "coin": "NEAR",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 3.05615,
+      "stop_price": 2.5977275,
+      "tp_price": 3.9729950000000005,
+      "grootte_usd": 62.36498077931475,
+      "geopend_op": "2026-11-20T02:15:26.805177+00:00"
     }
   ]
 }
