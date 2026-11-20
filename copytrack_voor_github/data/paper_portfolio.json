@@ -1,5 +1,5 @@
 {
-  "capital": 929.1920446696489,
+  "capital": 936.0552807020545,
   "open_trades": [
     {
       "coin": "BTC",
@@ -52,16 +52,6 @@
       "geopend_op": "2026-11-17T22:15:30.968725+00:00"
     },
     {
-      "coin": "ASTER",
-      "richting": "SHORT",
-      "bron_wallet": "trader_16",
-      "instapprijs": 0.575575,
-      "stop_price": 0.6619112499999998,
-      "tp_price": 0.40290249999999994,
-      "grootte_usd": 62.22916004019843,
-      "geopend_op": "2026-11-18T01:30:47.165022+00:00"
-    },
-    {
       "coin": "AAVE",
       "richting": "SHORT",
       "bron_wallet": "trader_16",
@@ -90,6 +80,16 @@
       "tp_price": 86.02815,
       "grootte_usd": 62.11440659307884,
       "geopend_op": "2026-11-19T21:49:28.861713+00:00"
+    },
+    {
+      "coin": "BCH",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 206.55,
+      "stop_price": 237.5325,
+      "tp_price": 144.585,
+      "grootte_usd": 62.40368538013696,
+      "geopend_op": "2026-11-20T01:15:27.447131+00:00"
     }
   ]
 }
