@@ -1,5 +1,5 @@
 {
-  "capital": 914.6429203223481,
+  "capital": 914.7225041660458,
   "open_trades": [
     {
       "coin": "BTC",
@@ -62,16 +62,6 @@
       "geopend_op": "2026-11-19T17:15:31.987623+00:00"
     },
     {
-      "coin": "BCH",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 190.52,
-      "stop_price": 161.942,
-      "tp_price": 247.67600000000002,
-      "grootte_usd": 61.0177125533926,
-      "geopend_op": "2026-11-20T18:49:03.619828+00:00"
-    },
-    {
       "coin": "LIT",
       "richting": "SHORT",
       "bron_wallet": "trader_22",
@@ -80,16 +70,6 @@
       "tp_price": 1.63968,
       "grootte_usd": 61.0177125533926,
       "geopend_op": "2026-11-20T19:00:48.875298+00:00"
-    },
-    {
-      "coin": "ENA",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.097057,
-      "stop_price": 0.11161555,
-      "tp_price": 0.0679399,
-      "grootte_usd": 60.97619468815654,
-      "geopend_op": "2026-11-20T19:15:33.847469+00:00"
     }
   ]
 }
