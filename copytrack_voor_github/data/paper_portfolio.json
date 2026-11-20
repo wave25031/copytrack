@@ -1,5 +1,5 @@
 {
-  "capital": 914.7225041660458,
+  "capital": 914.4575630343704,
   "open_trades": [
     {
       "coin": "BTC",
@@ -70,16 +70,6 @@
       "tp_price": 1.63968,
       "grootte_usd": 61.0177125533926,
       "geopend_op": "2026-11-20T19:00:48.875298+00:00"
-    },
-    {
-      "coin": "ZRO",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 1.15085,
-      "stop_price": 1.3234774999999999,
-      "tp_price": 0.805595,
-      "grootte_usd": 60.98150027773639,
-      "geopend_op": "2026-11-20T21:15:28.681498+00:00"
     }
   ]
 }
