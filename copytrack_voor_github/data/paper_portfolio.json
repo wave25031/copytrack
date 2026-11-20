@@ -70,6 +70,16 @@
       "tp_price": 79.066,
       "grootte_usd": 61.72222701508259,
       "geopend_op": "2026-11-20T15:45:34.179655+00:00"
+    },
+    {
+      "coin": "VVV",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 19.547,
+      "stop_price": 16.61495,
+      "tp_price": 25.4111,
+      "grootte_usd": 61.01758312482322,
+      "geopend_op": "2026-11-20T17:15:27.327505+00:00"
     }
   ]
 }
