@@ -1,5 +1,5 @@
 {
-  "capital": 916.4976894424328,
+  "capital": 916.004911727471,
   "open_trades": [
     {
       "coin": "BTC",
@@ -82,32 +82,12 @@
       "geopend_op": "2026-11-20T15:30:43.698478+00:00"
     },
     {
-      "coin": "LTC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 40.3775,
-      "stop_price": 34.320874999999994,
-      "tp_price": 52.49075,
-      "grootte_usd": 61.76270384543415,
-      "geopend_op": "2026-11-20T15:30:43.698478+00:00"
-    },
-    {
       "coin": "HYPE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
       "instapprijs": 60.82,
       "stop_price": 51.696999999999996,
       "tp_price": 79.066,
-      "grootte_usd": 61.72222701508259,
-      "geopend_op": "2026-11-20T15:45:34.179655+00:00"
-    },
-    {
-      "coin": "NEAR",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 2.83655,
-      "stop_price": 2.4110674999999997,
-      "tp_price": 3.687515,
       "grootte_usd": 61.72222701508259,
       "geopend_op": "2026-11-20T15:45:34.179655+00:00"
     }
