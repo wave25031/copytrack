@@ -1,5 +1,5 @@
 {
-  "capital": 927.2361959204466,
+  "capital": 926.4405576815124,
   "open_trades": [
     {
       "coin": "BTC",
@@ -72,34 +72,54 @@
       "geopend_op": "2026-11-19T17:15:31.987623+00:00"
     },
     {
-      "coin": "HYPE",
+      "coin": "AERO",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 62.3115,
-      "stop_price": 52.964775,
-      "tp_price": 81.00495000000001,
-      "grootte_usd": 61.97044794151375,
-      "geopend_op": "2026-11-20T13:45:32.725793+00:00"
+      "instapprijs": 0.39493,
+      "stop_price": 0.3356905,
+      "tp_price": 0.513409,
+      "grootte_usd": 61.76270384543415,
+      "geopend_op": "2026-11-20T15:30:43.698478+00:00"
+    },
+    {
+      "coin": "ETHFI",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.45198,
+      "stop_price": 0.384183,
+      "tp_price": 0.587574,
+      "grootte_usd": 61.76270384543415,
+      "geopend_op": "2026-11-20T15:30:43.698478+00:00"
+    },
+    {
+      "coin": "HYPE",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 61.8975,
+      "stop_price": 71.182125,
+      "tp_price": 43.32825,
+      "grootte_usd": 61.76270384543415,
+      "geopend_op": "2026-11-20T15:30:43.698478+00:00"
     },
     {
       "coin": "LTC",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 40.8845,
-      "stop_price": 47.017175,
-      "tp_price": 28.61915,
-      "grootte_usd": 61.81574639469644,
-      "geopend_op": "2026-11-20T15:15:30.017512+00:00"
-    },
-    {
-      "coin": "ONDO",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.28558,
-      "stop_price": 0.242743,
-      "tp_price": 0.37125400000000003,
-      "grootte_usd": 61.81574639469644,
-      "geopend_op": "2026-11-20T15:15:30.017512+00:00"
+      "instapprijs": 40.3775,
+      "stop_price": 34.320874999999994,
+      "tp_price": 52.49075,
+      "grootte_usd": 61.76270384543415,
+      "geopend_op": "2026-11-20T15:30:43.698478+00:00"
+    },
+    {
+      "coin": "VVV",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 20.284,
+      "stop_price": 17.2414,
+      "tp_price": 26.3692,
+      "grootte_usd": 61.76270384543415,
+      "geopend_op": "2026-11-20T15:30:43.698478+00:00"
     }
   ]
 }
