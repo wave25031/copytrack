@@ -1,5 +1,5 @@
 {
-  "capital": 923.7203978429567,
+  "capital": 938.4138223306131,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -10,26 +10,6 @@
       "tp_price": 0.06580699999999999,
       "grootte_usd": 61.68556259623484,
       "geopend_op": "2026-11-17T05:30:38.387315+00:00"
-    },
-    {
-      "coin": "AAVE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_16",
-      "instapprijs": 111.69,
-      "stop_price": 128.4435,
-      "tp_price": 78.18299999999999,
-      "grootte_usd": 62.18165443832462,
-      "geopend_op": "2026-11-18T12:15:26.897722+00:00"
-    },
-    {
-      "coin": "ZEC",
-      "richting": "SHORT",
-      "bron_wallet": "trader_16",
-      "instapprijs": 906.285,
-      "stop_price": 1042.2277499999998,
-      "tp_price": 634.3995,
-      "grootte_usd": 62.06470950390626,
-      "geopend_op": "2026-11-19T17:15:31.987623+00:00"
     },
     {
       "coin": "LIT",
@@ -60,6 +40,16 @@
       "tp_price": 1166.235,
       "grootte_usd": 61.58135985619711,
       "geopend_op": "2026-11-21T12:45:33.871978+00:00"
+    },
+    {
+      "coin": "BTC",
+      "richting": "SHORT",
+      "bron_wallet": "trader_08",
+      "instapprijs": 59299.5,
+      "stop_price": 68194.42499999999,
+      "tp_price": 41509.649999999994,
+      "grootte_usd": 62.56092148870754,
+      "geopend_op": "2026-11-21T13:15:28.871143+00:00"
     }
   ]
 }
