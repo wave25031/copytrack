@@ -1,5 +1,5 @@
 {
-  "capital": 913.0720039197354,
+  "capital": 909.8322532881305,
   "open_trades": [
     {
       "coin": "BTC",
@@ -82,16 +82,6 @@
       "geopend_op": "2026-11-21T01:30:39.801191+00:00"
     },
     {
-      "coin": "SOL",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 67.485,
-      "stop_price": 57.362249999999996,
-      "tp_price": 87.7305,
-      "grootte_usd": 61.0241982180651,
-      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
-    },
-    {
       "coin": "XPL",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -100,26 +90,6 @@
       "tp_price": 0.0571441,
       "grootte_usd": 61.0241982180651,
       "geopend_op": "2026-11-21T03:30:35.537709+00:00"
-    },
-    {
-      "coin": "CRV",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.17019,
-      "stop_price": 0.1446615,
-      "tp_price": 0.22124700000000003,
-      "grootte_usd": 60.8888364434419,
-      "geopend_op": "2026-11-21T03:45:26.404443+00:00"
-    },
-    {
-      "coin": "HBAR",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.048788,
-      "stop_price": 0.041469799999999994,
-      "tp_price": 0.0634244,
-      "grootte_usd": 60.8888364434419,
-      "geopend_op": "2026-11-21T03:45:26.404443+00:00"
     },
     {
       "coin": "LTC",
@@ -132,14 +102,24 @@
       "geopend_op": "2026-11-21T03:45:26.404443+00:00"
     },
     {
-      "coin": "ONDO",
+      "coin": "ENA",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.2629,
-      "stop_price": 0.22346500000000002,
-      "tp_price": 0.34177,
-      "grootte_usd": 60.8888364434419,
-      "geopend_op": "2026-11-21T03:45:26.404443+00:00"
+      "instapprijs": 0.091809,
+      "stop_price": 0.07803765,
+      "tp_price": 0.1193517,
+      "grootte_usd": 60.65548355254203,
+      "geopend_op": "2026-11-21T04:15:30.752182+00:00"
+    },
+    {
+      "coin": "PUMP",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.002249,
+      "stop_price": 0.00191165,
+      "tp_price": 0.0029237000000000004,
+      "grootte_usd": 60.65548355254203,
+      "geopend_op": "2026-11-21T04:15:30.752182+00:00"
     }
   ]
 }
