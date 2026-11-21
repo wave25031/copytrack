@@ -1,5 +1,5 @@
 {
-  "capital": 909.8322532881305,
+  "capital": 906.0505031481981,
   "open_trades": [
     {
       "coin": "BTC",
@@ -72,16 +72,6 @@
       "geopend_op": "2026-11-20T19:00:48.875298+00:00"
     },
     {
-      "coin": "HYPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 60.2985,
-      "stop_price": 51.253724999999996,
-      "tp_price": 78.38804999999999,
-      "grootte_usd": 60.96383753562469,
-      "geopend_op": "2026-11-21T01:30:39.801191+00:00"
-    },
-    {
       "coin": "XPL",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -120,16 +110,6 @@
       "tp_price": 0.0029237000000000004,
       "grootte_usd": 60.65548355254203,
       "geopend_op": "2026-11-21T04:15:30.752182+00:00"
-    },
-    {
-      "coin": "UNI",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 4.22985,
-      "stop_price": 3.5953725,
-      "tp_price": 5.498805,
-      "grootte_usd": 60.65548355254203,
-      "geopend_op": "2026-11-21T04:30:37.875680+00:00"
     }
   ]
 }
