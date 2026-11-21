@@ -1,5 +1,5 @@
 {
-  "capital": 905.3732363362744,
+  "capital": 908.346080113754,
   "open_trades": [
     {
       "coin": "BTC",
@@ -72,16 +72,6 @@
       "geopend_op": "2026-11-20T19:00:48.875298+00:00"
     },
     {
-      "coin": "HYPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 55.8445,
-      "stop_price": 47.467825,
-      "tp_price": 72.59785,
-      "grootte_usd": 60.43573874461722,
-      "geopend_op": "2026-11-21T06:15:28.229171+00:00"
-    },
-    {
       "coin": "BNB",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -100,6 +90,26 @@
       "tp_price": 10.497110000000001,
       "grootte_usd": 60.35821575575163,
       "geopend_op": "2026-11-21T06:30:37.267662+00:00"
+    },
+    {
+      "coin": "HYPE",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 58.5915,
+      "stop_price": 67.380225,
+      "tp_price": 41.01405,
+      "grootte_usd": 60.55640534091694,
+      "geopend_op": "2026-11-21T07:15:28.753314+00:00"
+    },
+    {
+      "coin": "VVV",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 21.772,
+      "stop_price": 25.037799999999997,
+      "tp_price": 15.240399999999998,
+      "grootte_usd": 60.55640534091694,
+      "geopend_op": "2026-11-21T07:15:28.753314+00:00"
     }
   ]
 }
