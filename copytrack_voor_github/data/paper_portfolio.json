@@ -1,5 +1,5 @@
 {
-  "capital": 913.3325466516286,
+  "capital": 913.0720039197354,
   "open_trades": [
     {
       "coin": "BTC",
@@ -108,16 +108,6 @@
       "instapprijs": 0.17019,
       "stop_price": 0.1446615,
       "tp_price": 0.22124700000000003,
-      "grootte_usd": 60.8888364434419,
-      "geopend_op": "2026-11-21T03:45:26.404443+00:00"
-    },
-    {
-      "coin": "GRASS",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.35055,
-      "stop_price": 0.2979675,
-      "tp_price": 0.455715,
       "grootte_usd": 60.8888364434419,
       "geopend_op": "2026-11-21T03:45:26.404443+00:00"
     },
