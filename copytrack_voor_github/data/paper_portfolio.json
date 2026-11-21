@@ -1,5 +1,5 @@
 {
-  "capital": 915.3629732709766,
+  "capital": 913.3325466516286,
   "open_trades": [
     {
       "coin": "BTC",
@@ -82,52 +82,12 @@
       "geopend_op": "2026-11-21T01:30:39.801191+00:00"
     },
     {
-      "coin": "BNB",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 527.245,
-      "stop_price": 448.15825,
-      "tp_price": 685.4185,
-      "grootte_usd": 61.0241982180651,
-      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
-    },
-    {
-      "coin": "NEAR",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 2.7042,
-      "stop_price": 2.2985700000000002,
-      "tp_price": 3.5154600000000005,
-      "grootte_usd": 61.0241982180651,
-      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
-    },
-    {
       "coin": "SOL",
       "richting": "LONG",
       "bron_wallet": "trader_25",
       "instapprijs": 67.485,
       "stop_price": 57.362249999999996,
       "tp_price": 87.7305,
-      "grootte_usd": 61.0241982180651,
-      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
-    },
-    {
-      "coin": "TAO",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 174.99,
-      "stop_price": 148.7415,
-      "tp_price": 227.48700000000002,
-      "grootte_usd": 61.0241982180651,
-      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
-    },
-    {
-      "coin": "VVV",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 20.558,
-      "stop_price": 23.641699999999997,
-      "tp_price": 14.3906,
       "grootte_usd": 61.0241982180651,
       "geopend_op": "2026-11-21T03:30:35.537709+00:00"
     },
@@ -142,14 +102,54 @@
       "geopend_op": "2026-11-21T03:30:35.537709+00:00"
     },
     {
-      "coin": "ZRO",
-      "richting": "SHORT",
+      "coin": "CRV",
+      "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 1.10165,
-      "stop_price": 1.2668975,
-      "tp_price": 0.7711549999999999,
-      "grootte_usd": 61.0241982180651,
-      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
+      "instapprijs": 0.17019,
+      "stop_price": 0.1446615,
+      "tp_price": 0.22124700000000003,
+      "grootte_usd": 60.8888364434419,
+      "geopend_op": "2026-11-21T03:45:26.404443+00:00"
+    },
+    {
+      "coin": "GRASS",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.35055,
+      "stop_price": 0.2979675,
+      "tp_price": 0.455715,
+      "grootte_usd": 60.8888364434419,
+      "geopend_op": "2026-11-21T03:45:26.404443+00:00"
+    },
+    {
+      "coin": "HBAR",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.048788,
+      "stop_price": 0.041469799999999994,
+      "tp_price": 0.0634244,
+      "grootte_usd": 60.8888364434419,
+      "geopend_op": "2026-11-21T03:45:26.404443+00:00"
+    },
+    {
+      "coin": "LTC",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 38.5895,
+      "stop_price": 32.801075,
+      "tp_price": 50.16635,
+      "grootte_usd": 60.8888364434419,
+      "geopend_op": "2026-11-21T03:45:26.404443+00:00"
+    },
+    {
+      "coin": "ONDO",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.2629,
+      "stop_price": 0.22346500000000002,
+      "tp_price": 0.34177,
+      "grootte_usd": 60.8888364434419,
+      "geopend_op": "2026-11-21T03:45:26.404443+00:00"
     }
   ]
 }
