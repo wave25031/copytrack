@@ -1,5 +1,5 @@
 {
-  "capital": 939.9488799444929,
+  "capital": 939.9677744971281,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -30,26 +30,6 @@
       "tp_price": 41509.649999999994,
       "grootte_usd": 62.56092148870754,
       "geopend_op": "2026-11-21T13:15:28.871143+00:00"
-    },
-    {
-      "coin": "AVAX",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 6.6397,
-      "stop_price": 7.635655,
-      "tp_price": 4.64779,
-      "grootte_usd": 62.72708056588129,
-      "geopend_op": "2026-11-21T13:45:35.277581+00:00"
-    },
-    {
-      "coin": "HYPE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 60.8845,
-      "stop_price": 70.017175,
-      "tp_price": 42.61915,
-      "grootte_usd": 62.72708056588129,
-      "geopend_op": "2026-11-21T13:45:35.277581+00:00"
     },
     {
       "coin": "INJ",
