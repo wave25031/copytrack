@@ -50,6 +50,16 @@
       "tp_price": 2190.435,
       "grootte_usd": 62.782806918687264,
       "geopend_op": "2026-11-21T20:00:44.885435+00:00"
+    },
+    {
+      "coin": "PUMP",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.002338,
+      "stop_price": 0.0019872999999999996,
+      "tp_price": 0.0030394,
+      "grootte_usd": 62.782806918687264,
+      "geopend_op": "2026-11-21T22:15:31.588362+00:00"
     }
   ]
 }
