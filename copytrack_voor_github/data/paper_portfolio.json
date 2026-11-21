@@ -1,5 +1,5 @@
 {
-  "capital": 924.5993642241593,
+  "capital": 923.5675372907587,
   "open_trades": [
     {
       "coin": "XMR",
@@ -50,16 +50,6 @@
       "tp_price": 1.63968,
       "grootte_usd": 61.0177125533926,
       "geopend_op": "2026-11-20T19:00:48.875298+00:00"
-    },
-    {
-      "coin": "UNI",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 4.37505,
-      "stop_price": 5.0313075,
-      "tp_price": 3.0625349999999996,
-      "grootte_usd": 60.757663862380454,
-      "geopend_op": "2026-11-21T09:30:36.072490+00:00"
     },
     {
       "coin": "VVV",
