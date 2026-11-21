@@ -1,5 +1,5 @@
 {
-  "capital": 906.5360811692583,
+  "capital": 905.3732363362744,
   "open_trades": [
     {
       "coin": "BTC",
@@ -72,26 +72,6 @@
       "geopend_op": "2026-11-20T19:00:48.875298+00:00"
     },
     {
-      "coin": "LTC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 38.5895,
-      "stop_price": 32.801075,
-      "tp_price": 50.16635,
-      "grootte_usd": 60.8888364434419,
-      "geopend_op": "2026-11-21T03:45:26.404443+00:00"
-    },
-    {
-      "coin": "INJ",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 5.9082,
-      "stop_price": 5.02197,
-      "tp_price": 7.6806600000000005,
-      "grootte_usd": 60.505860690920734,
-      "geopend_op": "2026-11-21T06:00:44.396418+00:00"
-    },
-    {
       "coin": "HYPE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -100,6 +80,26 @@
       "tp_price": 72.59785,
       "grootte_usd": 60.43573874461722,
       "geopend_op": "2026-11-21T06:15:28.229171+00:00"
+    },
+    {
+      "coin": "BNB",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 510.65,
+      "stop_price": 434.05249999999995,
+      "tp_price": 663.845,
+      "grootte_usd": 60.35821575575163,
+      "geopend_op": "2026-11-21T06:30:37.267662+00:00"
+    },
+    {
+      "coin": "LINK",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 8.0747,
+      "stop_price": 6.8634949999999995,
+      "tp_price": 10.497110000000001,
+      "grootte_usd": 60.35821575575163,
+      "geopend_op": "2026-11-21T06:30:37.267662+00:00"
     }
   ]
 }
