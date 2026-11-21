@@ -1,5 +1,5 @@
 {
-  "capital": 914.7416646256032,
+  "capital": 915.3629732709766,
   "open_trades": [
     {
       "coin": "BTC",
@@ -82,14 +82,74 @@
       "geopend_op": "2026-11-21T01:30:39.801191+00:00"
     },
     {
-      "coin": "LTC",
+      "coin": "BNB",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 527.245,
+      "stop_price": 448.15825,
+      "tp_price": 685.4185,
+      "grootte_usd": 61.0241982180651,
+      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
+    },
+    {
+      "coin": "NEAR",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 2.7042,
+      "stop_price": 2.2985700000000002,
+      "tp_price": 3.5154600000000005,
+      "grootte_usd": 61.0241982180651,
+      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
+    },
+    {
+      "coin": "SOL",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 67.485,
+      "stop_price": 57.362249999999996,
+      "tp_price": 87.7305,
+      "grootte_usd": 61.0241982180651,
+      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
+    },
+    {
+      "coin": "TAO",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 174.99,
+      "stop_price": 148.7415,
+      "tp_price": 227.48700000000002,
+      "grootte_usd": 61.0241982180651,
+      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
+    },
+    {
+      "coin": "VVV",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
-      "instapprijs": 39.997,
-      "stop_price": 45.99655,
-      "tp_price": 27.997899999999998,
-      "grootte_usd": 60.98277764170688,
-      "geopend_op": "2026-11-21T03:15:30.539732+00:00"
+      "instapprijs": 20.558,
+      "stop_price": 23.641699999999997,
+      "tp_price": 14.3906,
+      "grootte_usd": 61.0241982180651,
+      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
+    },
+    {
+      "coin": "XPL",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.043957,
+      "stop_price": 0.03736345,
+      "tp_price": 0.0571441,
+      "grootte_usd": 61.0241982180651,
+      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
+    },
+    {
+      "coin": "ZRO",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1.10165,
+      "stop_price": 1.2668975,
+      "tp_price": 0.7711549999999999,
+      "grootte_usd": 61.0241982180651,
+      "geopend_op": "2026-11-21T03:30:35.537709+00:00"
     }
   ]
 }
