@@ -1,5 +1,5 @@
 {
-  "capital": 938.4138223306131,
+  "capital": 940.9062084882194,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -22,16 +22,6 @@
       "geopend_op": "2026-11-20T19:00:48.875298+00:00"
     },
     {
-      "coin": "kPEPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.003335,
-      "stop_price": 0.0028347499999999996,
-      "tp_price": 0.0043355,
-      "grootte_usd": 61.57116915271724,
-      "geopend_op": "2026-11-21T11:45:28.060981+00:00"
-    },
-    {
       "coin": "ETH",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
@@ -50,6 +40,26 @@
       "tp_price": 41509.649999999994,
       "grootte_usd": 62.56092148870754,
       "geopend_op": "2026-11-21T13:15:28.871143+00:00"
+    },
+    {
+      "coin": "AVAX",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 6.6397,
+      "stop_price": 7.635655,
+      "tp_price": 4.64779,
+      "grootte_usd": 62.72708056588129,
+      "geopend_op": "2026-11-21T13:45:35.277581+00:00"
+    },
+    {
+      "coin": "HYPE",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 60.8845,
+      "stop_price": 70.017175,
+      "tp_price": 42.61915,
+      "grootte_usd": 62.72708056588129,
+      "geopend_op": "2026-11-21T13:45:35.277581+00:00"
     }
   ]
 }
