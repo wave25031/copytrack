@@ -1,5 +1,5 @@
 {
-  "capital": 907.587910363811,
+  "capital": 906.5360811692583,
   "open_trades": [
     {
       "coin": "BTC",
@@ -82,16 +82,6 @@
       "geopend_op": "2026-11-21T03:45:26.404443+00:00"
     },
     {
-      "coin": "PUMP",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.002249,
-      "stop_price": 0.00191165,
-      "tp_price": 0.0029237000000000004,
-      "grootte_usd": 60.65548355254203,
-      "geopend_op": "2026-11-21T04:15:30.752182+00:00"
-    },
-    {
       "coin": "INJ",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -100,6 +90,16 @@
       "tp_price": 7.6806600000000005,
       "grootte_usd": 60.505860690920734,
       "geopend_op": "2026-11-21T06:00:44.396418+00:00"
+    },
+    {
+      "coin": "HYPE",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 55.8445,
+      "stop_price": 47.467825,
+      "tp_price": 72.59785,
+      "grootte_usd": 60.43573874461722,
+      "geopend_op": "2026-11-21T06:15:28.229171+00:00"
     }
   ]
 }
