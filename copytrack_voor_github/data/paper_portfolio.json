@@ -1,5 +1,5 @@
 {
-  "capital": 914.4575630343704,
+  "capital": 914.7416646256032,
   "open_trades": [
     {
       "coin": "BTC",
@@ -82,14 +82,14 @@
       "geopend_op": "2026-11-21T01:30:39.801191+00:00"
     },
     {
-      "coin": "SOL",
+      "coin": "LTC",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
-      "instapprijs": 68.4525,
-      "stop_price": 78.72037499999999,
-      "tp_price": 47.91675,
-      "grootte_usd": 60.96383753562469,
-      "geopend_op": "2026-11-21T03:00:50.258610+00:00"
+      "instapprijs": 39.997,
+      "stop_price": 45.99655,
+      "tp_price": 27.997899999999998,
+      "grootte_usd": 60.98277764170688,
+      "geopend_op": "2026-11-21T03:15:30.539732+00:00"
     }
   ]
 }
