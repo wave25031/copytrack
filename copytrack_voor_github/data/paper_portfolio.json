@@ -1,5 +1,5 @@
 {
-  "capital": 906.0505031481981,
+  "capital": 906.5869674669976,
   "open_trades": [
     {
       "coin": "BTC",
@@ -90,16 +90,6 @@
       "tp_price": 50.16635,
       "grootte_usd": 60.8888364434419,
       "geopend_op": "2026-11-21T03:45:26.404443+00:00"
-    },
-    {
-      "coin": "ENA",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.091809,
-      "stop_price": 0.07803765,
-      "tp_price": 0.1193517,
-      "grootte_usd": 60.65548355254203,
-      "geopend_op": "2026-11-21T04:15:30.752182+00:00"
     },
     {
       "coin": "PUMP",
