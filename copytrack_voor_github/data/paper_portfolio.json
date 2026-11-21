@@ -1,5 +1,5 @@
 {
-  "capital": 910.113538981012,
+  "capital": 911.2647952650833,
   "open_trades": [
     {
       "coin": "BTC",
@@ -70,16 +70,6 @@
       "tp_price": 1.63968,
       "grootte_usd": 61.0177125533926,
       "geopend_op": "2026-11-20T19:00:48.875298+00:00"
-    },
-    {
-      "coin": "BNB",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 510.65,
-      "stop_price": 434.05249999999995,
-      "tp_price": 663.845,
-      "grootte_usd": 60.35821575575163,
-      "geopend_op": "2026-11-21T06:30:37.267662+00:00"
     },
     {
       "coin": "HYPE",
