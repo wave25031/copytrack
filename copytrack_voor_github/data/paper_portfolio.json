@@ -1,5 +1,5 @@
 {
-  "capital": 926.2222818433125,
+  "capital": 923.7203978429567,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -42,16 +42,6 @@
       "geopend_op": "2026-11-20T19:00:48.875298+00:00"
     },
     {
-      "coin": "VVV",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 21.917,
-      "stop_price": 25.20455,
-      "tp_price": 15.3419,
-      "grootte_usd": 60.757663862380454,
-      "geopend_op": "2026-11-21T11:00:48.074273+00:00"
-    },
-    {
       "coin": "kPEPE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -60,6 +50,16 @@
       "tp_price": 0.0043355,
       "grootte_usd": 61.57116915271724,
       "geopend_op": "2026-11-21T11:45:28.060981+00:00"
+    },
+    {
+      "coin": "ETH",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1666.05,
+      "stop_price": 1915.9574999999998,
+      "tp_price": 1166.235,
+      "grootte_usd": 61.58135985619711,
+      "geopend_op": "2026-11-21T12:45:33.871978+00:00"
     }
   ]
 }
