@@ -40,6 +40,26 @@
       "tp_price": 70.5355,
       "grootte_usd": 62.664518299808535,
       "geopend_op": "2026-11-21T15:45:30.533628+00:00"
+    },
+    {
+      "coin": "ETH",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1682.15,
+      "stop_price": 1934.4724999999999,
+      "tp_price": 1177.5049999999999,
+      "grootte_usd": 62.77032528759506,
+      "geopend_op": "2026-11-22T08:30:36.684579+00:00"
+    },
+    {
+      "coin": "VVV",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 25.509,
+      "stop_price": 29.33535,
+      "tp_price": 17.856299999999997,
+      "grootte_usd": 62.77032528759506,
+      "geopend_op": "2026-11-22T08:30:36.684579+00:00"
     }
   ]
 }
