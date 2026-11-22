@@ -1,5 +1,5 @@
 {
-  "capital": 941.3603052139792,
+  "capital": 941.5548793139259,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -40,16 +40,6 @@
       "tp_price": 70.5355,
       "grootte_usd": 62.664518299808535,
       "geopend_op": "2026-11-21T15:45:30.533628+00:00"
-    },
-    {
-      "coin": "ZEC",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 783.765,
-      "stop_price": 666.20025,
-      "tp_price": 1018.8945,
-      "grootte_usd": 62.75735368093195,
-      "geopend_op": "2026-11-22T06:00:44.236401+00:00"
     }
   ]
 }
