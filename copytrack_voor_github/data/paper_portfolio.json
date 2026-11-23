@@ -1,5 +1,5 @@
 {
-  "capital": 934.6083380759352,
+  "capital": 935.2487712325651,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -73,13 +73,13 @@
     },
     {
       "coin": "ETH",
-      "richting": "SHORT",
+      "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 1799.85,
-      "stop_price": 2069.8275,
-      "tp_price": 1259.8949999999998,
-      "grootte_usd": 62.30722253839568,
-      "geopend_op": "2026-11-23T14:45:30.592534+00:00"
+      "instapprijs": 1781.35,
+      "stop_price": 1514.1474999999998,
+      "tp_price": 2315.755,
+      "grootte_usd": 62.34991808217101,
+      "geopend_op": "2026-11-23T15:01:00.616416+00:00"
     }
   ]
 }
