@@ -1,5 +1,5 @@
 {
-  "capital": 935.4800865858424,
+  "capital": 935.3118296710617,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -50,16 +50,6 @@
       "tp_price": 553.2695,
       "grootte_usd": 62.41748874083827,
       "geopend_op": "2026-11-23T10:45:28.669337+00:00"
-    },
-    {
-      "coin": "HYPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 65.269,
-      "stop_price": 55.47865,
-      "tp_price": 84.84970000000001,
-      "grootte_usd": 62.39750324331651,
-      "geopend_op": "2026-11-23T16:45:28.151338+00:00"
     }
   ]
 }
