@@ -1,5 +1,5 @@
 {
-  "capital": 936.2387987189574,
+  "capital": 936.3095585779514,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -52,24 +52,34 @@
       "geopend_op": "2026-11-23T21:30:37.039149+00:00"
     },
     {
-      "coin": "ZEC",
+      "coin": "ETH",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 775.485,
-      "stop_price": 659.16225,
-      "tp_price": 1008.1305000000001,
-      "grootte_usd": 62.415919914597154,
-      "geopend_op": "2026-11-23T22:00:47.165428+00:00"
+      "instapprijs": 1713.95,
+      "stop_price": 1456.8575,
+      "tp_price": 2228.135,
+      "grootte_usd": 62.42063723853009,
+      "geopend_op": "2026-11-23T22:30:37.623353+00:00"
     },
     {
-      "coin": "WLFI",
+      "coin": "HYPE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.041108,
-      "stop_price": 0.034941799999999995,
-      "tp_price": 0.0534404,
-      "grootte_usd": 62.415919914597154,
-      "geopend_op": "2026-11-23T22:15:28.857140+00:00"
+      "instapprijs": 63.6335,
+      "stop_price": 54.088474999999995,
+      "tp_price": 82.72355,
+      "grootte_usd": 62.42063723853009,
+      "geopend_op": "2026-11-23T22:30:37.623353+00:00"
+    },
+    {
+      "coin": "ZEC",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 770.535,
+      "stop_price": 886.11525,
+      "tp_price": 539.3744999999999,
+      "grootte_usd": 62.42063723853009,
+      "geopend_op": "2026-11-23T22:30:37.623353+00:00"
     }
   ]
 }
