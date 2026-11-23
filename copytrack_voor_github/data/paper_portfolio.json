@@ -1,5 +1,5 @@
 {
-  "capital": 935.2487712325651,
+  "capital": 935.1301820802611,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -52,16 +52,6 @@
       "geopend_op": "2026-11-23T10:45:28.669337+00:00"
     },
     {
-      "coin": "ENA",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.108395,
-      "stop_price": 0.09213575,
-      "tp_price": 0.14091350000000002,
-      "grootte_usd": 62.41748874083827,
-      "geopend_op": "2026-11-23T14:00:51.717309+00:00"
-    },
-    {
       "coin": "STRK",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
@@ -82,14 +72,14 @@
       "geopend_op": "2026-11-23T15:01:00.616416+00:00"
     },
     {
-      "coin": "UNI",
+      "coin": "CRV",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 5.13015,
-      "stop_price": 4.3606275000000005,
-      "tp_price": 6.669195000000001,
-      "grootte_usd": 62.34991808217101,
-      "geopend_op": "2026-11-23T15:15:28.009420+00:00"
+      "instapprijs": 0.19052,
+      "stop_price": 0.161942,
+      "tp_price": 0.247676,
+      "grootte_usd": 62.34201213868407,
+      "geopend_op": "2026-11-23T15:45:29.485882+00:00"
     }
   ]
 }
