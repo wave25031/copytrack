@@ -60,6 +60,16 @@
       "tp_price": 1008.1305000000001,
       "grootte_usd": 62.415919914597154,
       "geopend_op": "2026-11-23T22:00:47.165428+00:00"
+    },
+    {
+      "coin": "WLFI",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.041108,
+      "stop_price": 0.034941799999999995,
+      "tp_price": 0.0534404,
+      "grootte_usd": 62.415919914597154,
+      "geopend_op": "2026-11-23T22:15:28.857140+00:00"
     }
   ]
 }
