@@ -50,6 +50,16 @@
       "tp_price": 553.2695,
       "grootte_usd": 62.41748874083827,
       "geopend_op": "2026-11-23T10:45:28.669337+00:00"
+    },
+    {
+      "coin": "ETH",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1723.05,
+      "stop_price": 1464.5925,
+      "tp_price": 2239.965,
+      "grootte_usd": 62.35412197807078,
+      "geopend_op": "2026-11-23T19:45:29.913346+00:00"
     }
   ]
 }
