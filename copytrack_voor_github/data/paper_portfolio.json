@@ -1,5 +1,5 @@
 {
-  "capital": 934.8746711464189,
+  "capital": 934.2605458433703,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -60,26 +60,6 @@
       "tp_price": 0.023576,
       "grootte_usd": 62.30810273781376,
       "geopend_op": "2026-11-23T14:30:40.872904+00:00"
-    },
-    {
-      "coin": "CRV",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.19052,
-      "stop_price": 0.161942,
-      "tp_price": 0.247676,
-      "grootte_usd": 62.34201213868407,
-      "geopend_op": "2026-11-23T15:45:29.485882+00:00"
-    },
-    {
-      "coin": "HYPE",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 66.6795,
-      "stop_price": 56.677575000000004,
-      "tp_price": 86.68335,
-      "grootte_usd": 62.324978076427925,
-      "geopend_op": "2026-11-23T16:00:48.492617+00:00"
     }
   ]
 }
