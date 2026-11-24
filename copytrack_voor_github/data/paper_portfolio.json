@@ -1,5 +1,5 @@
 {
-  "capital": 937.4008412684769,
+  "capital": 935.5525313923871,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -92,14 +92,14 @@
       "geopend_op": "2026-11-24T11:00:49.500920+00:00"
     },
     {
-      "coin": "ZRO",
+      "coin": "ETH",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 1.0404,
-      "stop_price": 0.88434,
-      "tp_price": 1.35252,
-      "grootte_usd": 62.434467372853646,
-      "geopend_op": "2026-11-24T11:30:40.773537+00:00"
+      "instapprijs": 1682.85,
+      "stop_price": 1430.4225,
+      "tp_price": 2187.705,
+      "grootte_usd": 62.37016875949247,
+      "geopend_op": "2026-11-24T13:15:28.599071+00:00"
     }
   ]
 }
