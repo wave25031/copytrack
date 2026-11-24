@@ -100,6 +100,16 @@
       "tp_price": 49.289449999999995,
       "grootte_usd": 62.434467372853646,
       "geopend_op": "2026-11-24T11:00:49.500920+00:00"
+    },
+    {
+      "coin": "ZRO",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1.0404,
+      "stop_price": 0.88434,
+      "tp_price": 1.35252,
+      "grootte_usd": 62.434467372853646,
+      "geopend_op": "2026-11-24T11:30:40.773537+00:00"
     }
   ]
 }
