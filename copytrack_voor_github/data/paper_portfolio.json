@@ -1,5 +1,5 @@
 {
-  "capital": 933.2059218576251,
+  "capital": 932.7504536595434,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -82,14 +82,14 @@
       "geopend_op": "2026-11-24T11:00:49.500920+00:00"
     },
     {
-      "coin": "MON",
+      "coin": "kPEPE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.010684,
-      "stop_price": 0.0090814,
-      "tp_price": 0.0138892,
-      "grootte_usd": 62.38746446544038,
-      "geopend_op": "2026-11-24T14:15:33.600061+00:00"
+      "instapprijs": 0.003345,
+      "stop_price": 0.00284325,
+      "tp_price": 0.0043485,
+      "grootte_usd": 62.18336357730289,
+      "geopend_op": "2026-11-24T15:30:39.284180+00:00"
     }
   ]
 }
