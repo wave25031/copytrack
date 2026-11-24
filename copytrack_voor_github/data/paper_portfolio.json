@@ -1,5 +1,5 @@
 {
-  "capital": 932.7504536595434,
+  "capital": 929.9201733033967,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -82,24 +82,14 @@
       "geopend_op": "2026-11-24T11:00:49.500920+00:00"
     },
     {
-      "coin": "kPEPE",
+      "coin": "HYPE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.003345,
-      "stop_price": 0.00284325,
-      "tp_price": 0.0043485,
-      "grootte_usd": 62.18336357730289,
-      "geopend_op": "2026-11-24T15:30:39.284180+00:00"
-    },
-    {
-      "coin": "MON",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.010459,
-      "stop_price": 0.00889015,
-      "tp_price": 0.0135967,
-      "grootte_usd": 62.18336357730289,
-      "geopend_op": "2026-11-24T15:45:34.353719+00:00"
+      "instapprijs": 60.5385,
+      "stop_price": 51.457724999999996,
+      "tp_price": 78.70005,
+      "grootte_usd": 61.99467822022645,
+      "geopend_op": "2026-11-24T16:15:28.211363+00:00"
     }
   ]
 }
