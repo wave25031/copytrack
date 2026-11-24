@@ -1,5 +1,5 @@
 {
-  "capital": 935.2173743956178,
+  "capital": 936.5170105928047,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -50,16 +50,6 @@
       "tp_price": 539.3744999999999,
       "grootte_usd": 62.42063723853009,
       "geopend_op": "2026-11-23T22:30:37.623353+00:00"
-    },
-    {
-      "coin": "XPL",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.044903,
-      "stop_price": 0.038167549999999995,
-      "tp_price": 0.0583739,
-      "grootte_usd": 62.34782495970785,
-      "geopend_op": "2026-11-24T03:15:26.324156+00:00"
     }
   ]
 }
