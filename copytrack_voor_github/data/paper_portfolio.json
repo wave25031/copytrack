@@ -1,5 +1,5 @@
 {
-  "capital": 927.6135964383689,
+  "capital": 920.4269423811801,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -70,26 +70,6 @@
       "tp_price": 49.289449999999995,
       "grootte_usd": 62.434467372853646,
       "geopend_op": "2026-11-24T11:00:49.500920+00:00"
-    },
-    {
-      "coin": "ZEC",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 677.645,
-      "stop_price": 779.2917499999999,
-      "tp_price": 474.35149999999993,
-      "grootte_usd": 62.134428684505565,
-      "geopend_op": "2026-11-25T14:45:35.028129+00:00"
-    },
-    {
-      "coin": "VVV",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 26.2805,
-      "stop_price": 30.222575,
-      "tp_price": 18.396349999999998,
-      "grootte_usd": 61.84090642922459,
-      "geopend_op": "2026-11-25T18:15:33.954552+00:00"
     }
   ]
 }
