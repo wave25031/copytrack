@@ -1,5 +1,5 @@
 {
-  "capital": 920.0193734387217,
+  "capital": 920.4091539130299,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -62,14 +62,24 @@
       "geopend_op": "2026-11-24T11:00:49.500920+00:00"
     },
     {
-      "coin": "XRP",
+      "coin": "MON",
       "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 0.93706,
-      "stop_price": 0.796501,
-      "tp_price": 1.218178,
-      "grootte_usd": 61.33462489591478,
-      "geopend_op": "2026-11-25T19:15:28.018060+00:00"
+      "instapprijs": 0.011671,
+      "stop_price": 0.00992035,
+      "tp_price": 0.015172300000000001,
+      "grootte_usd": 61.360610260868654,
+      "geopend_op": "2026-11-25T19:30:39.703391+00:00"
+    },
+    {
+      "coin": "VVV",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 27.4035,
+      "stop_price": 31.514025,
+      "tp_price": 19.18245,
+      "grootte_usd": 61.360610260868654,
+      "geopend_op": "2026-11-25T19:30:39.703391+00:00"
     }
   ]
 }
