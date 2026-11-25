@@ -90,6 +90,26 @@
       "tp_price": 474.35149999999993,
       "grootte_usd": 62.134428684505565,
       "geopend_op": "2026-11-25T14:45:35.028129+00:00"
+    },
+    {
+      "coin": "ETH",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1633.35,
+      "stop_price": 1878.3524999999997,
+      "tp_price": 1143.3449999999998,
+      "grootte_usd": 62.134428684505565,
+      "geopend_op": "2026-11-25T15:15:28.895196+00:00"
+    },
+    {
+      "coin": "kPEPE",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 0.003331,
+      "stop_price": 0.00383065,
+      "tp_price": 0.0023317,
+      "grootte_usd": 62.134428684505565,
+      "geopend_op": "2026-11-25T15:15:28.895196+00:00"
     }
   ]
 }
