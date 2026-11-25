@@ -90,6 +90,16 @@
       "tp_price": 41.29405,
       "grootte_usd": 61.76213352990287,
       "geopend_op": "2026-11-25T01:30:46.608028+00:00"
+    },
+    {
+      "coin": "UNI",
+      "richting": "LONG",
+      "bron_wallet": "trader_25",
+      "instapprijs": 4.61275,
+      "stop_price": 3.9208375,
+      "tp_price": 5.996575,
+      "grootte_usd": 61.76213352990287,
+      "geopend_op": "2026-11-25T01:45:29.031920+00:00"
     }
   ]
 }
