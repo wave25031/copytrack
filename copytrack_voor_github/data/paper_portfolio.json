@@ -60,6 +60,46 @@
       "tp_price": 360.5175,
       "grootte_usd": 60.7603416765404,
       "geopend_op": "2026-11-26T01:00:46.342814+00:00"
+    },
+    {
+      "coin": "NEAR",
+      "richting": "SHORT",
+      "bron_wallet": "trader_16",
+      "instapprijs": 3.07075,
+      "stop_price": 3.5313624999999997,
+      "tp_price": 2.1495249999999997,
+      "grootte_usd": 60.57626335560075,
+      "geopend_op": "2026-11-26T03:00:54.968686+00:00"
+    },
+    {
+      "coin": "SOL",
+      "richting": "SHORT",
+      "bron_wallet": "trader_16",
+      "instapprijs": 71.1345,
+      "stop_price": 81.804675,
+      "tp_price": 49.79415,
+      "grootte_usd": 60.57626335560075,
+      "geopend_op": "2026-11-26T03:00:54.968686+00:00"
+    },
+    {
+      "coin": "ZEC",
+      "richting": "SHORT",
+      "bron_wallet": "trader_16",
+      "instapprijs": 776.17,
+      "stop_price": 892.5954999999999,
+      "tp_price": 543.319,
+      "grootte_usd": 60.57626335560075,
+      "geopend_op": "2026-11-26T03:00:54.968686+00:00"
+    },
+    {
+      "coin": "VVV",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 27.491,
+      "stop_price": 31.614649999999997,
+      "tp_price": 19.243699999999997,
+      "grootte_usd": 60.57626335560075,
+      "geopend_op": "2026-11-26T03:00:54.968686+00:00"
     }
   ]
 }
