@@ -1,5 +1,5 @@
 {
-  "capital": 912.112487785898,
+  "capital": 912.3260612965299,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -52,14 +52,34 @@
       "geopend_op": "2026-11-26T00:00:47.285310+00:00"
     },
     {
-      "coin": "HYPE",
+      "coin": "BNB",
       "richting": "SHORT",
       "bron_wallet": "trader_25",
-      "instapprijs": 62.3525,
-      "stop_price": 71.70537499999999,
-      "tp_price": 43.64675,
-      "grootte_usd": 60.807499185726535,
-      "geopend_op": "2026-11-26T00:15:29.121725+00:00"
+      "instapprijs": 556.25,
+      "stop_price": 639.6875,
+      "tp_price": 389.375,
+      "grootte_usd": 60.82173741976866,
+      "geopend_op": "2026-11-26T00:30:36.450802+00:00"
+    },
+    {
+      "coin": "ETH",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 1702.85,
+      "stop_price": 1958.2774999999997,
+      "tp_price": 1191.995,
+      "grootte_usd": 60.82173741976866,
+      "geopend_op": "2026-11-26T00:30:36.450802+00:00"
+    },
+    {
+      "coin": "VVV",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 29.6865,
+      "stop_price": 34.139475,
+      "tp_price": 20.780549999999998,
+      "grootte_usd": 60.82173741976866,
+      "geopend_op": "2026-11-26T00:30:36.450802+00:00"
     }
   ]
 }
