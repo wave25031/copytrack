@@ -1,5 +1,5 @@
 {
-  "capital": 912.3260612965299,
+  "capital": 911.405125148106,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -73,13 +73,13 @@
     },
     {
       "coin": "VVV",
-      "richting": "SHORT",
+      "richting": "LONG",
       "bron_wallet": "trader_25",
-      "instapprijs": 29.6865,
-      "stop_price": 34.139475,
-      "tp_price": 20.780549999999998,
-      "grootte_usd": 60.82173741976866,
-      "geopend_op": "2026-11-26T00:30:36.450802+00:00"
+      "instapprijs": 30.136,
+      "stop_price": 25.615599999999997,
+      "tp_price": 39.1768,
+      "grootte_usd": 60.7603416765404,
+      "geopend_op": "2026-11-26T00:45:26.534347+00:00"
     }
   ]
 }
