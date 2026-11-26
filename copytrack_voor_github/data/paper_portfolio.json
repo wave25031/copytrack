@@ -1,5 +1,5 @@
 {
-  "capital": 906.7721176344623,
+  "capital": 906.6695416030558,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -90,16 +90,6 @@
       "tp_price": 1189.055,
       "grootte_usd": 60.57626335560075,
       "geopend_op": "2026-11-26T04:00:46.283669+00:00"
-    },
-    {
-      "coin": "kPEPE",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 0.003536,
-      "stop_price": 0.0040663999999999995,
-      "tp_price": 0.0024752,
-      "grootte_usd": 60.451474508964154,
-      "geopend_op": "2026-11-26T09:00:49.696524+00:00"
     },
     {
       "coin": "XMR",
