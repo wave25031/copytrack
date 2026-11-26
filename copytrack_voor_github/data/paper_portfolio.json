@@ -1,5 +1,5 @@
 {
-  "capital": 910.6233758484699,
+  "capital": 910.3647809558896,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -40,16 +40,6 @@
       "tp_price": 3.074565,
       "grootte_usd": 62.59774905937596,
       "geopend_op": "2026-11-22T22:00:46.468533+00:00"
-    },
-    {
-      "coin": "BNB",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 556.25,
-      "stop_price": 639.6875,
-      "tp_price": 389.375,
-      "grootte_usd": 60.82173741976866,
-      "geopend_op": "2026-11-26T00:30:36.450802+00:00"
     },
     {
       "coin": "VVV",
