@@ -1,5 +1,5 @@
 {
-  "capital": 911.405125148106,
+  "capital": 910.676952268078,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -40,16 +40,6 @@
       "tp_price": 3.074565,
       "grootte_usd": 62.59774905937596,
       "geopend_op": "2026-11-22T22:00:46.468533+00:00"
-    },
-    {
-      "coin": "ZEC",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 772.465,
-      "stop_price": 888.33475,
-      "tp_price": 540.7255,
-      "grootte_usd": 60.87533157692584,
-      "geopend_op": "2026-11-26T00:00:47.285310+00:00"
     },
     {
       "coin": "BNB",
