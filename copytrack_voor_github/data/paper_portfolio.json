@@ -1,5 +1,5 @@
 {
-  "capital": 887.9940867816155,
+  "capital": 886.8902971923637,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -70,16 +70,6 @@
       "tp_price": 81.98775,
       "grootte_usd": 59.68945207090968,
       "geopend_op": "2026-11-28T05:45:28.927400+00:00"
-    },
-    {
-      "coin": "WLFI",
-      "richting": "LONG",
-      "bron_wallet": "trader_13",
-      "instapprijs": 0.019147,
-      "stop_price": 0.01627495,
-      "tp_price": 0.024891100000000003,
-      "grootte_usd": 59.19960578544103,
-      "geopend_op": "2026-11-28T06:30:40.629906+00:00"
     }
   ]
 }
