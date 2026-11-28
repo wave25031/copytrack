@@ -1,5 +1,5 @@
 {
-  "capital": 886.3883632530088,
+  "capital": 887.9940867816155,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -62,16 +62,6 @@
       "geopend_op": "2026-11-26T03:00:54.968686+00:00"
     },
     {
-      "coin": "XMR",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 420.24,
-      "stop_price": 357.204,
-      "tp_price": 546.312,
-      "grootte_usd": 59.68945207090968,
-      "geopend_op": "2026-11-28T04:30:39.546535+00:00"
-    },
-    {
       "coin": "HYPE",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -80,6 +70,16 @@
       "tp_price": 81.98775,
       "grootte_usd": 59.68945207090968,
       "geopend_op": "2026-11-28T05:45:28.927400+00:00"
+    },
+    {
+      "coin": "WLFI",
+      "richting": "LONG",
+      "bron_wallet": "trader_13",
+      "instapprijs": 0.019147,
+      "stop_price": 0.01627495,
+      "tp_price": 0.024891100000000003,
+      "grootte_usd": 59.19960578544103,
+      "geopend_op": "2026-11-28T06:30:40.629906+00:00"
     }
   ]
 }
