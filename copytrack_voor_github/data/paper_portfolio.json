@@ -1,5 +1,5 @@
 {
-  "capital": 888.1764415924722,
+  "capital": 888.5225545242597,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -62,16 +62,6 @@
       "geopend_op": "2026-11-26T03:00:54.968686+00:00"
     },
     {
-      "coin": "ETH",
-      "richting": "LONG",
-      "bron_wallet": "trader_25",
-      "instapprijs": 1638.45,
-      "stop_price": 1392.6825,
-      "tp_price": 2129.985,
-      "grootte_usd": 59.071743029923795,
-      "geopend_op": "2026-11-28T13:45:40.460367+00:00"
-    },
-    {
       "coin": "WLFI",
       "richting": "LONG",
       "bron_wallet": "trader_25",
@@ -80,6 +70,16 @@
       "tp_price": 0.0249379,
       "grootte_usd": 59.071743029923795,
       "geopend_op": "2026-11-28T14:00:45.642919+00:00"
+    },
+    {
+      "coin": "XMR",
+      "richting": "SHORT",
+      "bron_wallet": "trader_25",
+      "instapprijs": 423.01,
+      "stop_price": 486.46149999999994,
+      "tp_price": 296.10699999999997,
+      "grootte_usd": 59.23483696828398,
+      "geopend_op": "2026-11-28T16:15:29.320869+00:00"
     }
   ]
 }
