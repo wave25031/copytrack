@@ -1,5 +1,5 @@
 {
-  "capital": 886.0761454488569,
+  "capital": 888.0341811714354,
   "open_trades": [
     {
       "coin": "FARTCOIN",
@@ -60,16 +60,6 @@
       "tp_price": 543.319,
       "grootte_usd": 60.57626335560075,
       "geopend_op": "2026-11-26T03:00:54.968686+00:00"
-    },
-    {
-      "coin": "XMR",
-      "richting": "SHORT",
-      "bron_wallet": "trader_25",
-      "instapprijs": 448.765,
-      "stop_price": 516.07975,
-      "tp_price": 314.1355,
-      "grootte_usd": 59.05227829589695,
-      "geopend_op": "2026-11-28T12:15:27.834372+00:00"
     },
     {
       "coin": "ETH",
